@@ -1,0 +1,714 @@
+[19:03:52] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[19:03:52] [Server thread/INFO]: Loading properties
+[19:03:53] [Server thread/INFO]: Default game type: SURVIVAL
+[19:03:53] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-1f7d532 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[19:03:53] [Server thread/INFO]: Debug logging is disabled
+[19:03:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:03:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:03:53] [Server thread/INFO]: Generating keypair
+[19:03:53] [Server thread/INFO]: Starting Minecraft server on *:25566
+[19:03:54] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[19:03:55] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.14-SNAPSHOT (build 1195)
+[19:03:55] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[19:03:55] [Server thread/INFO]: [Reporter] Loading Reporter v1.0
+[19:03:55] [Server thread/INFO]: [Skript] Loading Skript v2.2-dev27
+[19:03:55] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.0.7
+[19:03:55] [Server thread/INFO]: [NoRain] Loading NoRain v1.0
+[19:03:55] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[19:03:55] [Server thread/INFO]: [WildSkript] Loading WildSkript v1.8
+[19:03:55] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[19:03:55] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.22.8
+[19:03:55] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[19:03:55] [Server thread/INFO]: [SkQuery] Loading SkQuery v3.21.4
+[19:03:55] [Server thread/INFO]: [CommandNPC] Loading CommandNPC v1.8.9
+[19:03:55] [Server thread/INFO]: [CustomJoinItems] Loading CustomJoinItems v1.5.1
+[19:03:55] [Server thread/INFO]: [ArmorOnJoin] Loading ArmorOnJoin v1.0
+[19:03:55] [Server thread/INFO]: [RejoinTP] Loading RejoinTP v0.1
+[19:03:55] [Server thread/INFO]: [StaffPlus] Loading StaffPlus v3.2.2
+[19:03:55] [Server thread/INFO]: [ZavAutoMessager] Loading ZavAutoMessager v3.2
+[19:03:55] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[19:03:55] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[19:03:55] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.5
+[19:03:56] [Server thread/INFO]: [VoidSpawn] Loading VoidSpawn v1.16.0
+[19:03:56] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[19:03:56] [Server thread/INFO]: [BungeePortals] Loading BungeePortals v1.2
+[19:03:56] [Server thread/INFO]: [LiteBans] Loading LiteBans v2.1.23
+[19:03:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.5
+[19:03:56] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[19:03:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:03:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:03:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:03:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:03:56] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[19:03:56] [Server thread/INFO]: Preparing level "world"
+[19:03:56] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:03:56] [Server thread/INFO]: View Distance: 10
+[19:03:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:03:56] [Server thread/INFO]: Clear tick list: false
+[19:03:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:03:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:03:56] [Server thread/INFO]: Anti X-Ray: true
+[19:03:56] [Server thread/INFO]: 	Engine Mode: 1
+[19:03:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:03:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:03:56] [Server thread/INFO]: Mob Spawn Range: 4
+[19:03:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:03:56] [Server thread/INFO]: Sending up to 5 chunks per packet
+[19:03:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:03:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:03:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:03:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:03:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:03:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:03:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:03:56] [Server thread/INFO]: Max TNT Explosions: 100
+[19:03:56] [Server thread/INFO]: Random Lighting Updates: false
+[19:03:56] [Server thread/INFO]: Structure Info Saving: true
+[19:03:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:03:56] [Server thread/INFO]: Alternative Hopper Ticking: false
+[19:03:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:03:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:03:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:03:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:03:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:03:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:03:56] [Server thread/INFO]: Max Entity Collisions: 8
+[19:03:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:03:56] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:03:56] [Server thread/INFO]: WorldServer TickNextTickList cap set at 10000
+[19:03:56] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[19:03:56] [Server thread/INFO]: Keep spawn chunk loaded: true
+[19:03:56] [Server thread/INFO]: World async lighting: false
+[19:03:56] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[19:03:56] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[19:03:56] [Server thread/INFO]: Water over lava flow speed: 5
+[19:03:56] [Server thread/INFO]: Inverted Redstone Lamps: false
+[19:03:56] [Server thread/INFO]: Allow undead horse types to be leashed: true
+[19:03:56] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[19:03:56] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[19:03:56] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[19:03:56] [Server thread/INFO]: Preparing start region for level 0 (Seed: -859591930616344670)
+[19:03:57] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.14-SNAPSHOT (build 1195)
+[19:03:57] [Server thread/ERROR]: Error occurred while enabling Citizens v2.0.14-SNAPSHOT (build 1195) (Is it up to date?)
+java.lang.NoSuchMethodError: com.google.common.io.Closeables.closeQuietly(Ljava/io/InputStream;)V
+	at net.citizensnpcs.api.util.Translator.populateDefaults(Translator.java:287) ~[?:?]
+	at net.citizensnpcs.api.util.Translator.getDefaultResourceBundle(Translator.java:256) ~[?:?]
+	at net.citizensnpcs.api.util.Translator.getDefaultBundle(Translator.java:64) ~[?:?]
+	at net.citizensnpcs.api.util.Translator.<init>(Translator.java:42) ~[?:?]
+	at net.citizensnpcs.api.util.Translator.setInstance(Translator.java:313) ~[?:?]
+	at net.citizensnpcs.Citizens.setupTranslator(Citizens.java:394) ~[?:?]
+	at net.citizensnpcs.Citizens.onEnable(Citizens.java:256) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) ~[custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:412) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:476) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:394) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.n(MinecraftServer.java:354) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.g(MinecraftServer.java:328) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.a(MinecraftServer.java:284) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.init(DedicatedServer.java:227) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:494) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [custom.jar:git-PaperSpigot-1f7d532]
+[19:03:57] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[19:03:57] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:03:57] [Server thread/INFO]: [Reporter] Enabling Reporter v1.0
+[19:03:57] [Server thread/INFO]: Report plugin created by lilian58660.
+[19:03:57] [Server thread/INFO]: [Skript] Enabling Skript v2.2-dev27
+[19:03:57] [Server thread/ERROR]: Error occurred while enabling Skript v2.2-dev27 (Is it up to date?)
+java.lang.NoClassDefFoundError: com/google/gson/GsonBuilder
+	at ch.njol.skript.util.chat.ChatMessages.<clinit>(ChatMessages.java:140) ~[?:?]
+	at ch.njol.skript.Skript.onEnable(Skript.java:202) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) ~[custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:412) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:476) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:394) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.n(MinecraftServer.java:354) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.g(MinecraftServer.java:328) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.a(MinecraftServer.java:284) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.init(DedicatedServer.java:227) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:494) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [custom.jar:git-PaperSpigot-1f7d532]
+Caused by: java.lang.ClassNotFoundException: com.google.gson.GsonBuilder
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_161]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:101) ~[custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[custom.jar:git-PaperSpigot-1f7d532]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_161]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_161]
+	... 13 more
+[19:03:57] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.0.7
+[19:03:57] [Server thread/WARN]: [ChestCommands] Vault with a compatible economy plugin was not found! Icons with a PRICE or commands that give money will not work.
+[19:03:57] [Server thread/INFO]: [NoRain] Enabling NoRain v1.0
+[19:03:57] [Server thread/INFO]: [0;32;1m>>>>>>>>>>>>>>>>>>[0;36;1mNoRain[0;32;1m<<<<<<<<<<<<<<<<<[m
+[19:03:57] [Server thread/INFO]: [0;36;1mNoRain [0;33;1m1.0 [0;33;22menabled![m
+[19:03:57] [Server thread/INFO]: [0;31;1mAll rights reserved by NeonnBukkit![m
+[19:03:57] [Server thread/INFO]: [0;31;1mYou are not allowed to decompile this plugin![m
+[19:03:57] [Server thread/INFO]: [0;32;1m>>>>>>>>>>>>>>>>>>[0;36;1mNoRain[0;32;1m<<<<<<<<<<<<<<<<<[m
+[19:03:57] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[19:03:57] [Server thread/INFO]: Il formato della versione Bukkit e' cambiato. Versione non controllata.
+[19:03:57] [Server thread/INFO]: git-PaperSpigot-1f7d532 (MC: 1.7.10)
+[19:03:57] [Server thread/INFO]: 1.7.10-R0.1-SNAPSHOT
+[19:03:58] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[19:03:58] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[19:03:58] [Server thread/INFO]: [WildSkript] Enabling WildSkript v1.8
+[19:03:58] [Server thread/INFO]: [WildSkript] skQuery hooked!
+[19:03:58] [Server thread/INFO]: [WildSkript] Classes, Events, Conditions, Effects, Expressions and EventValues have been registered!
+[19:03:58] [Server thread/INFO]: [WildSkript] Objects and Complex have been registered!
+[19:03:58] [Server thread/INFO]: [WildSkript] ~ Created by & © Dzikoysk ~
+[19:03:58] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[19:03:58] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.22.8
+[19:03:58] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[19:03:58] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[19:03:58] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[19:03:58] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[19:03:58] [Server thread/INFO]: [SkQuery] Enabling SkQuery v3.21.4
+[19:03:58] [Server thread/INFO]: [skQuery] Snooping enabled from com.w00tmast3r.skquery.SkQuery
+[19:03:58] [Server thread/INFO]: [skQuery] Locating classes from SkQuery...
+[19:03:58] [Server thread/INFO]: [skQuery] Finished snooping of SkQuery with 163 classes.
+[19:03:58] [Server thread/INFO]: [skQuery] Beginning to process a total of 163 from SkQuery
+[19:03:58] [Server thread/ERROR]: Error occurred while enabling SkQuery v3.21.4 (Is it up to date?)
+java.lang.NullPointerException
+	at com.w00tmast3r.skquery.elements.expressions.ExprWhere.getReturnType(ExprWhere.java:52) ~[?:?]
+	at com.w00tmast3r.skquery.Registration.register(Registration.java:120) ~[?:?]
+	at com.w00tmast3r.skquery.Registration.enableSnooper(Registration.java:68) ~[?:?]
+	at com.w00tmast3r.skquery.SkQuery.onEnable(SkQuery.java:25) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) ~[custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:412) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:476) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:394) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.n(MinecraftServer.java:354) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.g(MinecraftServer.java:328) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.a(MinecraftServer.java:284) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.init(DedicatedServer.java:227) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:494) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [custom.jar:git-PaperSpigot-1f7d532]
+[19:03:58] [Server thread/INFO]: [CommandNPC] Enabling CommandNPC v1.8.9
+[19:03:58] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mVault not found! Economy support for CommandNPC has been disabled.[m
+[19:03:59] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mInitiating Database[m
+[19:03:59] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mInjecting command info into Citizens.[m
+[19:03:59] [Server thread/INFO]: [0;31;22m---------------------[0;36;1m{[0;32;22mCommandNPC [0;31;1mError[0;36;1m}[0;31;22m---------------------[m
+[19:03:59] [Server thread/INFO]:                            [0;31;1mTopic[m
+[19:03:59] [Server thread/INFO]:                           [0;31;1mCitizens[m
+[19:03:59] [Server thread/INFO]: [m
+[19:03:59] [Server thread/INFO]: [0;36;1m  Couldn't implement commands into citizens! Shutting down! [m
+[19:03:59] [Server thread/INFO]: [m
+[19:03:59] [Server thread/INFO]: [0;31;1m        [0;30;1mClass: [0;31;1mCitizenCommandRegister   [0;30;1mMethod: [m
+[19:03:59] [Server thread/INFO]: [0;31;1m               [0;31;1mregisterCitizenCommand(Class) [m
+[19:03:59] [Server thread/INFO]: [m
+[19:03:59] [Server thread/INFO]: [0;31;22m---------------------[0;36;1m{[0;32;22mCommandNPC [0;31;1mError[0;36;1m}[0;31;22m---------------------[m
+[19:03:59] [Server thread/INFO]: [CommandNPC] Disabling CommandNPC v1.8.9
+[19:03:59] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mCommandNPC successfully loaded![m
+[19:03:59] [Server thread/INFO]: [CustomJoinItems] Enabling CustomJoinItems v1.5.1
+[19:03:59] [Server thread/INFO]: [ArmorOnJoin] Enabling ArmorOnJoin v1.0
+[19:03:59] [Server thread/INFO]: [RejoinTP] Enabling RejoinTP v0.1
+[19:03:59] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.2.2
+[19:03:59] [Server thread/WARN]: [StaffPlus] Default system encoding may have misread config.yml from plugin jar
+[19:03:59] [Server thread/INFO]: API class 'org.inventivetalent.packetlistener.PacketListenerAPI' is not yet initialized. Creating new instance.
+[19:03:59] [Server thread/INFO]: [ReflectionHelper] Version is v1_7_R4 (10704)
+[19:03:59] [Server thread/INFO]: [PacketListenerAPI] Using NMUChannel
+[19:03:59] [Server thread/INFO]: Injected custom channel handlers.
+[19:03:59] [Server thread/INFO]: Adding channels for online players...
+[19:03:59] [Server thread/INFO]: [0;32;22m[Staff+] [0;32;1mVersion protocol set to 'v1_7_R4'.[m
+[19:03:59] [Server thread/INFO]: [0;32;22m[Staff+] [0;32;1mStaff+ has been enabled! Initialization took 238ms.[m
+[19:03:59] [Server thread/INFO]: [0;32;22m[Staff+] [0;32;1mPlugin created by Shortninja.[m
+[19:03:59] [Server thread/INFO]: [ZavAutoMessager] Enabling ZavAutoMessager v3.2
+[19:03:59] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[19:03:59] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[19:03:59] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[19:03:59] [Server thread/INFO]: [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+[19:03:59] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: FLAT & seed: -859591930616344670
+[19:03:59] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[19:03:59] [Server thread/INFO]: [VoidSpawn] Enabling VoidSpawn v1.16.0
+[19:03:59] [Server thread/INFO]: [0;36;22m[[0;35;1mVoidSpawn[0;36;22m] [m[0;33;1mNo SkyBlock plugins found, disabling island mode support.[m
+[19:03:59] [Server thread/INFO]: [0;36;22m[[0;35;1mVoidSpawn[0;36;22m] [m[0;33;1mv1.16.0 by EnderCrest enabled[m
+[19:03:59] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[19:04:00] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[19:04:00] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[19:04:00] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[19:04:00] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[19:04:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[19:04:00] [Server thread/INFO]: [WorldGuard] Loading region data...
+[19:04:00] [Thread-9/WARN]: [PermissionsEx] An update to PermissionsEx version 1.23.4 is available to download from http://dev.bukkit.org/bukkit-plugins/permissionsex/. Please review the changes and update as soon as possible!
+[19:04:00] [Server thread/INFO]: [BungeePortals] Enabling BungeePortals v1.2
+[19:04:00] [Server thread/INFO]: [BungeePortals] Metrics initiated!
+[19:04:00] [Server thread/INFO]: [BungeePortals] Commands registered!
+[19:04:00] [Server thread/INFO]: [BungeePortals] Events registered!
+[19:04:00] [Server thread/INFO]: [BungeePortals] Plugin channel registered!
+[19:04:00] [Server thread/INFO]: [BungeePortals] Configuration file config.yml loaded!
+[19:04:00] [Server thread/INFO]: [BungeePortals] Configuration file portals.yml loaded!
+[19:04:00] [Server thread/INFO]: [BungeePortals] Portal data loaded! (0ms)
+[19:04:00] [Server thread/INFO]: [BungeePortals] Save task started!
+[19:04:00] [Server thread/INFO]: [BungeePortals] Version 1.2 has been enabled. (20ms)
+[19:04:00] [Server thread/INFO]: [LiteBans] Enabling LiteBans v2.1.23
+[19:04:01] [Server thread/INFO]: [LiteBans] Loading SQL driver: h2 (org.h2.Driver)
+[19:04:01] [Server thread/INFO]: [LiteBans] Connecting to database...
+[19:04:01] [Server thread/INFO]: [LiteBans] Connected to [jdbc:h2://C:\Users\Asus\Desktop\MC\Server Bungecord V1\Hub\plugins\LiteBans\litebans] (502,6 ms).
+[19:04:01] [Server thread/INFO]: [LiteBans] Database connection fully initialized (506,5 ms).
+[19:04:01] [Server thread/INFO]: [LiteBans] v2.1.23 enabled. Startup took 956 ms.
+[19:04:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:04:01] [Server thread/INFO]: Done (5,386s)! For help, type "help" or "?"
+[19:04:01] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mFound a new version: v3.1.4[0;37;1m (yours: v3.0.7)[m
+[19:04:01] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mDownload it on Bukkit Dev:[m
+[19:04:01] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mdev.bukkit.org/bukkit-plugins/chest-commands[m
+[19:04:01] [Server thread/INFO]: [0;33;22m[[0;33;1mCJItems[0;33;22m] [0;33;1mFound an update: v1.5.2   [0;37;1m(Your version: v1.5.1)[m
+[19:04:01] [Server thread/INFO]: [0;33;22m[[0;33;1mCJItems[0;33;22m] [0;37;1mType "[0;33;1m/cji update[0;37;1m" or download it from:[m
+[19:04:01] [Server thread/INFO]: [0;33;22m[[0;33;1mCJItems[0;33;22m] [0;37;1mdev.bukkit.org/bukkit-plugins/custom-join-items[m
+[19:04:03] [pool-5-thread-2/INFO]: [0;31;22m[LiteBans] [0;31;1mThis is a leaked copy of the plugin! ID: -2087973441.[0;33;1m https://www.spigotmc.org/resources/litebans.3715/[m
+[19:04:03] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 4.3.0 (Running 3.6.5). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
+[19:04:33] [User Authenticator #1/INFO]: UUID of player verry_manu is c9fb5add-0ad7-495c-9f14-f87c844ae090
+[19:04:34] [Server thread/INFO]: verry_manu[/192.168.137.1:52208] logged in with entity id 0 at ([world] -229.63171316359748, 65.0, -737.4777538252359)
+[19:04:43] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_1710
+[19:04:43] [Server thread/INFO]: verry_manu issued server command: /server
+[19:04:44] [Server thread/INFO]: verry_manu issued server command: /msg console &cSoon!
+[19:04:44] [Server thread/INFO]: [0;33;22m[[0;30;1m[[0;31;22m[21mOwner[0;30;1m] [0;31;22mverry_manu[m[0;33;22m -> mi[0;33;22m] [m[0;31;1mSoon![m
+[19:05:41] [Server thread/INFO]: verry_manu issued server command: /server
+[19:06:04] [Server thread/INFO]: verry_manu issued server command: /hub
+[19:06:09] [Server thread/INFO]: verry_manu issued server command: /server
+[19:06:10] [Server thread/INFO]: verry_manu issued server command: /server
+[19:06:14] [Server thread/INFO]: verry_manu issued server command: /server
+[19:06:16] [Server thread/INFO]: verry_manu issued server command: /servers
+[19:07:23] [Server thread/INFO]: verry_manu issued server command: /cc
+[19:09:31] [Server thread/INFO]: verry_manu issued server command: /server
+[19:09:32] [Server thread/INFO]: verry_manu issued server command: /msg console &cSoon!
+[19:09:32] [Server thread/INFO]: [0;33;22m[[0;30;1m[[0;31;22m[21mOwner[0;30;1m] [0;31;22mverry_manu[m[0;33;22m -> mi[0;33;22m] [m[0;31;1mSoon![m
+[19:09:36] [Server thread/INFO]: verry_manu issued server command: /cc reload
+[19:09:37] [Server thread/INFO]: verry_manu issued server command: /server
+[19:10:02] [Server thread/INFO]: §bUse /report <player> if would like to report a player
+[19:10:04] [Server thread/INFO]: verry_manu issued server command: /cc reload
+[19:10:05] [Server thread/INFO]: verry_manu issued server command: /server
+[19:10:06] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:17:26] [User Authenticator #2/INFO]: UUID of player verry_manu is c9fb5add-0ad7-495c-9f14-f87c844ae090
+[19:17:26] [Server thread/INFO]: verry_manu[/192.168.137.1:52351] logged in with entity id 1 at ([world] -236.57008300259477, 74.89785960219184, -761.0943283026589)
+[19:17:35] [Server thread/INFO]: verry_manu issued server command: /cji
+[19:17:37] [Server thread/INFO]: verry_manu issued server command: /cji reload
+[19:17:40] [Server thread/INFO]: verry_manu issued server command: /server
+[19:20:31] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[19:20:32] [Server thread/INFO]: verry_manu issued server command: /server
+[19:20:34] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:27:28] [User Authenticator #3/INFO]: UUID of player verry_manu is c9fb5add-0ad7-495c-9f14-f87c844ae090
+[19:27:28] [Server thread/INFO]: verry_manu[/192.168.137.1:52434] logged in with entity id 2 at ([world] -223.3229009765537, 60.0, -757.2318994398871)
+[19:27:29] [Server thread/INFO]: verry_manu issued server command: /server
+[19:27:54] [Server thread/INFO]: verry_manu issued server command: /report
+[19:27:55] [Server thread/INFO]: verry_manu issued server command: /report verry_manu
+[19:28:03] [Server thread/INFO]: §bUse /helpop <reason> if you wanna request help from an staff
+[19:28:07] [Server thread/INFO]: verry_manu issued server command: /helpop ciao
+[19:28:07] [Server thread/INFO]: [0;31;1m[HelpOp][0;37;1m [0;37;22m[0;30;1m[[0;31;22m[21mOwner[0;30;1m] [0;31;22mverry_manu[m:[0;37;1m ciao[m
+[19:28:10] [Server thread/INFO]: [m[0;32;1m[0;30;1m[[0;31;22m[21mOwner[0;30;1m] [0;31;22mverry_manu[m[0;37;1m: t[m
+[19:28:25] [Server thread/INFO]: verry_manu issued server command: /server
+[19:28:26] [Server thread/INFO]: verry_manu issued server command: /server
+[19:28:27] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:29:55] [User Authenticator #4/INFO]: UUID of player verry_manu is c9fb5add-0ad7-495c-9f14-f87c844ae090
+[19:29:55] [Server thread/INFO]: verry_manu[/192.168.137.1:52532] logged in with entity id 3 at ([world] -258.98018065765234, 73.3967633052036, -785.3436051411504)
+[19:30:48] [Server thread/INFO]: verry_manu issued server command: /server
+[19:30:57] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:31:34] [User Authenticator #5/INFO]: UUID of player verry_manu is c9fb5add-0ad7-495c-9f14-f87c844ae090
+[19:31:35] [Server thread/INFO]: verry_manu[/192.168.137.1:52584] logged in with entity id 4 at ([world] -203.7229898457085, 61.0, -759.0661805257835)
+[19:32:30] [Server thread/INFO]: verry_manu issued server command: /cji reload
+[19:32:33] [Server thread/INFO]: verry_manu issued server command: /cji reload
+[19:32:34] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:32:36] [User Authenticator #6/INFO]: UUID of player verry_manu is c9fb5add-0ad7-495c-9f14-f87c844ae090
+[19:32:37] [Server thread/INFO]: verry_manu[/192.168.137.1:52598] logged in with entity id 5 at ([world] -217.874189963562, 61.0, -750.7558657697826)
+[19:34:03] [Server thread/INFO]: §bStore: §d§ostore.udove.us
+[19:34:48] [Server thread/INFO]: verry_manu issued server command: /cji reload
+[19:34:49] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:34:52] [User Authenticator #7/INFO]: UUID of player verry_manu is c9fb5add-0ad7-495c-9f14-f87c844ae090
+[19:34:52] [Server thread/INFO]: verry_manu[/192.168.137.1:52655] logged in with entity id 6 at ([world] -212.03491561464548, 62.0, -766.2793767189712)
+[19:34:55] [Server thread/INFO]: verry_manu issued server command: /parkour
+[19:36:13] [Server thread/INFO]: verry_manu issued server command: /cji reload
+[19:36:14] [Server thread/INFO]: verry_manu issued server command: /pex
+[19:36:29] [Server thread/INFO]: verry_manu issued server command: /pex group default add cji.parkour
+[19:36:33] [Server thread/INFO]: verry_manu issued server command: /pex group default add cji.link
+[19:36:33] [pool-10-thread-1/ERROR]: [PermissionsEx] Error saving data for  groups/default
+java.io.IOException: Unable to overwrite config with temporary file! New config is at plugins\PermissionsEx\permissions.yml.tmp, old config atplugins\PermissionsEx\permissions.yml.old
+	at ru.tehkode.permissions.backends.file.FileConfig.save(FileConfig.java:47) ~[PermissionsEx-1.22.8.jar:?]
+	at ru.tehkode.permissions.backends.file.FileData.save(FileData.java:157) [PermissionsEx-1.22.8.jar:?]
+	at ru.tehkode.permissions.backends.caching.CachingData$1.run(CachingData.java:41) [PermissionsEx-1.22.8.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_161]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_161]
+[19:36:35] [Server thread/INFO]: verry_manu issued server command: /cji reload
+[19:36:40] [Server thread/INFO]: verry_manu issued server command: /cji reload
+[19:36:41] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:36:44] [User Authenticator #8/INFO]: UUID of player verry_manu is c9fb5add-0ad7-495c-9f14-f87c844ae090
+[19:36:44] [Server thread/INFO]: verry_manu[/192.168.137.1:52672] logged in with entity id 7 at ([world] -223.07400241487753, 62.5, -752.1426597724007)
+[19:37:15] [Server thread/INFO]: verry_manu issued server command: /cji reload
+[19:37:16] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:37:19] [User Authenticator #9/INFO]: UUID of player verry_manu is c9fb5add-0ad7-495c-9f14-f87c844ae090
+[19:37:19] [Server thread/INFO]: verry_manu[/192.168.137.1:52686] logged in with entity id 8 at ([world] -231.60159590076614, 63.49546405483112, -745.016336087186)
+[19:37:24] [Server thread/INFO]: verry_manu issued server command: /server
+[19:37:25] [Server thread/INFO]: verry_manu issued server command: /link
+[19:37:30] [Server thread/INFO]: verry_manu issued server command: /link
+[19:37:30] [Server thread/INFO]: verry_manu issued server command: /link
+[19:37:30] [Server thread/INFO]: verry_manu issued server command: /link
+[19:37:53] [Server thread/INFO]: verry_manu issued server command: /cji reload
+[19:37:53] [Server thread/INFO]: verry_manu issued server command: /cji reload
+[19:37:53] [Server thread/INFO]: verry_manu issued server command: /cji reload
+[19:37:54] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:37:57] [User Authenticator #10/INFO]: UUID of player verry_manu is c9fb5add-0ad7-495c-9f14-f87c844ae090
+[19:37:57] [Server thread/INFO]: verry_manu[/192.168.137.1:52701] logged in with entity id 9 at ([world] -212.97272077930106, 61.0, -750.8875368909382)
+[19:37:58] [Server thread/INFO]: verry_manu issued server command: /parkour
+[19:38:00] [Server thread/INFO]: verry_manu issued server command: /link
+[19:38:17] [Server thread/INFO]: Debug logging is disabled
+[19:38:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:38:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:38:17] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:38:17] [Server thread/INFO]: View Distance: 10
+[19:38:17] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:38:17] [Server thread/INFO]: Clear tick list: false
+[19:38:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:38:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:38:17] [Server thread/INFO]: Anti X-Ray: true
+[19:38:17] [Server thread/INFO]: 	Engine Mode: 1
+[19:38:17] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:38:17] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:38:17] [Server thread/INFO]: Mob Spawn Range: 4
+[19:38:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:38:17] [Server thread/INFO]: Sending up to 5 chunks per packet
+[19:38:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:38:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:38:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:38:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:38:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:38:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:38:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:38:17] [Server thread/INFO]: Max TNT Explosions: 100
+[19:38:17] [Server thread/INFO]: Random Lighting Updates: false
+[19:38:17] [Server thread/INFO]: Structure Info Saving: true
+[19:38:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:38:17] [Server thread/INFO]: Alternative Hopper Ticking: false
+[19:38:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:38:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:38:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:38:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:38:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:38:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:38:17] [Server thread/INFO]: Max Entity Collisions: 8
+[19:38:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:38:17] [Server thread/ERROR]: Could not save spigot.yml
+java.io.FileNotFoundException: spigot.yml (Impossibile accedere al file. Il file è utilizzato da un altro processo)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_161]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_161]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_161]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_161]
+	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:105) ~[custom.jar:git-PaperSpigot-1f7d532]
+	at org.spigotmc.SpigotConfig.readConfig(SpigotConfig.java:122) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.spigotmc.SpigotWorldConfig.init(SpigotWorldConfig.java:27) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.reload(CraftServer.java:829) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.Bukkit.reload(Bukkit.java:301) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:181) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchCommand(CraftServer.java:765) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchServerCommand(CraftServer.java:751) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.aB(DedicatedServer.java:344) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:308) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:643) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:549) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [custom.jar:git-PaperSpigot-1f7d532]
+[19:38:17] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:38:17] [Server thread/INFO]: WorldServer TickNextTickList cap set at 10000
+[19:38:17] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[19:38:17] [Server thread/INFO]: Keep spawn chunk loaded: true
+[19:38:17] [Server thread/INFO]: World async lighting: false
+[19:38:17] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[19:38:17] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[19:38:17] [Server thread/INFO]: Water over lava flow speed: 5
+[19:38:17] [Server thread/INFO]: Inverted Redstone Lamps: false
+[19:38:17] [Server thread/INFO]: Allow undead horse types to be leashed: true
+[19:38:17] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[19:38:17] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[19:38:17] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[19:38:17] [Server thread/INFO]: [LiteBans] Disabling LiteBans v2.1.23
+[19:38:18] [Server thread/INFO]: [LiteBans] v2.1.23 disabled.
+[19:38:18] [Server thread/INFO]: [BungeePortals] Disabling BungeePortals v1.2
+[19:38:18] [Server thread/INFO]: [BungeePortals] Portal data saved! (25ms)
+[19:38:18] [Server thread/INFO]: [BungeePortals] Version 1.2 has been disabled. (25ms)
+[19:38:18] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[19:38:18] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[19:38:18] [Server thread/INFO]: [VoidSpawn] Disabling VoidSpawn v1.16.0
+[19:38:18] [Server thread/INFO]: [0;36;22m[[0;35;1mVoidSpawn[0;36;22m] [m[0;33;1mv1.16.0 saving config[m
+[19:38:18] [Server thread/INFO]: [0;36;22m[[0;35;1mVoidSpawn[0;36;22m] [m[0;33;1mv1.16.0 disabled[m
+[19:38:18] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.6.5
+[19:38:18] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+[19:38:18] [Server thread/INFO]: [Multiverse-Core] - Disabled
+[19:38:18] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.13.1
+[19:38:18] [Server thread/INFO]: [ZavAutoMessager] Disabling ZavAutoMessager v3.2
+[19:38:18] [Server thread/INFO]: [StaffPlus] Disabling StaffPlus v3.2.2
+[19:38:18] [Server thread/INFO]: [0;31;22m[Staff+] [0;31;1mStaff+ is now disabling![m
+[19:38:18] [Server thread/INFO]: Removing channels for online players...
+[19:38:18] [Server thread/INFO]: Removing packet handlers (1)...
+[19:38:18] [Server thread/INFO]: [RejoinTP] Disabling RejoinTP v0.1
+[19:38:18] [Server thread/INFO]: [ArmorOnJoin] Disabling ArmorOnJoin v1.0
+[19:38:18] [Server thread/INFO]: [CustomJoinItems] Disabling CustomJoinItems v1.5.1
+[19:38:18] [Server thread/INFO]: [SkQuery] Disabling SkQuery v3.21.4
+[19:38:18] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.22.8
+[19:38:18] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[19:38:18] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
+[19:38:18] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[19:38:18] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[19:38:18] [Server thread/INFO]: [WildSkript] Disabling WildSkript v1.8
+[19:38:18] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
+[19:38:18] [Server thread/INFO]: [NoRain] Disabling NoRain v1.0
+[19:38:18] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.0.7
+[19:38:18] [Server thread/INFO]: [Skript] Disabling Skript v2.2-dev27
+[19:38:18] [Server thread/INFO]: [Reporter] Disabling Reporter v1.0
+[19:38:18] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.3
+[19:38:18] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.14-SNAPSHOT (build 1195)
+[19:38:18] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.14-SNAPSHOT (build 1195)
+[19:38:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[19:38:18] [Server thread/INFO]: [Reporter] Loading Reporter v1.0
+[19:38:18] [Server thread/INFO]: [Skript] Loading Skript v2.2-dev27
+[19:38:18] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.0.7
+[19:38:18] [Server thread/INFO]: [NoRain] Loading NoRain v1.0
+[19:38:18] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[19:38:18] [Server thread/INFO]: [WildSkript] Loading WildSkript v1.8
+[19:38:18] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[19:38:18] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.22.8
+[19:38:18] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[19:38:18] [Server thread/INFO]: [SkQuery] Loading SkQuery v3.21.4
+[19:38:18] [Server thread/INFO]: [CommandNPC] Loading CommandNPC v1.8.9
+[19:38:18] [Server thread/INFO]: [CustomJoinItems] Loading CustomJoinItems v1.5.1
+[19:38:18] [Server thread/INFO]: [ArmorOnJoin] Loading ArmorOnJoin v1.0
+[19:38:18] [Server thread/INFO]: [RejoinTP] Loading RejoinTP v0.1
+[19:38:18] [Server thread/INFO]: [StaffPlus] Loading StaffPlus v3.2.2
+[19:38:18] [Server thread/INFO]: [ZavAutoMessager] Loading ZavAutoMessager v3.2
+[19:38:18] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[19:38:18] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[19:38:18] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.5
+[19:38:18] [Server thread/INFO]: [VoidSpawn] Loading VoidSpawn v1.16.0
+[19:38:18] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[19:38:18] [Server thread/INFO]: [BungeePortals] Loading BungeePortals v1.2
+[19:38:18] [Server thread/INFO]: [LiteBans] Loading LiteBans v2.1.23
+[19:38:18] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.5
+[19:38:18] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[19:38:18] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.14-SNAPSHOT (build 1195)
+[19:38:18] [Server thread/ERROR]: Error occurred while enabling Citizens v2.0.14-SNAPSHOT (build 1195) (Is it up to date?)
+java.lang.NoSuchMethodError: com.google.common.io.Closeables.closeQuietly(Ljava/io/InputStream;)V
+	at net.citizensnpcs.api.util.Translator.populateDefaults(Translator.java:287) ~[?:?]
+	at net.citizensnpcs.api.util.Translator.getDefaultResourceBundle(Translator.java:256) ~[?:?]
+	at net.citizensnpcs.api.util.Translator.getDefaultBundle(Translator.java:64) ~[?:?]
+	at net.citizensnpcs.api.util.Translator.<init>(Translator.java:42) ~[?:?]
+	at net.citizensnpcs.api.util.Translator.setInstance(Translator.java:313) ~[?:?]
+	at net.citizensnpcs.Citizens.setupTranslator(Citizens.java:394) ~[?:?]
+	at net.citizensnpcs.Citizens.onEnable(Citizens.java:256) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) ~[custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:412) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:476) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:394) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.reload(CraftServer.java:867) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.Bukkit.reload(Bukkit.java:301) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:181) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchCommand(CraftServer.java:765) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchServerCommand(CraftServer.java:751) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.aB(DedicatedServer.java:344) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:308) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:643) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:549) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [custom.jar:git-PaperSpigot-1f7d532]
+[19:38:18] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[19:38:18] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:38:19] [Server thread/INFO]: [Reporter] Enabling Reporter v1.0
+[19:38:19] [Server thread/INFO]: Report plugin created by lilian58660.
+[19:38:19] [Server thread/INFO]: [Skript] Enabling Skript v2.2-dev27
+[19:38:19] [Server thread/ERROR]: Error occurred while enabling Skript v2.2-dev27 (Is it up to date?)
+java.lang.NoClassDefFoundError: com/google/gson/GsonBuilder
+	at ch.njol.skript.util.chat.ChatMessages.<clinit>(ChatMessages.java:140) ~[?:?]
+	at ch.njol.skript.Skript.onEnable(Skript.java:202) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) ~[custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:412) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:476) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:394) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.reload(CraftServer.java:867) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.Bukkit.reload(Bukkit.java:301) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:181) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchCommand(CraftServer.java:765) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchServerCommand(CraftServer.java:751) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.aB(DedicatedServer.java:344) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:308) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:643) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:549) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [custom.jar:git-PaperSpigot-1f7d532]
+Caused by: java.lang.ClassNotFoundException: com.google.gson.GsonBuilder
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_161]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:101) ~[custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[custom.jar:git-PaperSpigot-1f7d532]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_161]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_161]
+	... 18 more
+[19:38:19] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.0.7
+[19:38:19] [Server thread/WARN]: [ChestCommands] Vault with a compatible economy plugin was not found! Icons with a PRICE or commands that give money will not work.
+[19:38:19] [Server thread/INFO]: [NoRain] Enabling NoRain v1.0
+[19:38:19] [Server thread/INFO]: [0;32;1m>>>>>>>>>>>>>>>>>>[0;36;1mNoRain[0;32;1m<<<<<<<<<<<<<<<<<[m
+[19:38:19] [Server thread/INFO]: [0;36;1mNoRain [0;33;1m1.0 [0;33;22menabled![m
+[19:38:19] [Server thread/INFO]: [0;31;1mAll rights reserved by NeonnBukkit![m
+[19:38:19] [Server thread/INFO]: [0;31;1mYou are not allowed to decompile this plugin![m
+[19:38:19] [Server thread/INFO]: [0;32;1m>>>>>>>>>>>>>>>>>>[0;36;1mNoRain[0;32;1m<<<<<<<<<<<<<<<<<[m
+[19:38:19] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[19:38:19] [Server thread/INFO]: Il formato della versione Bukkit e' cambiato. Versione non controllata.
+[19:38:19] [Server thread/INFO]: git-PaperSpigot-1f7d532 (MC: 1.7.10)
+[19:38:19] [Server thread/INFO]: 1.7.10-R0.1-SNAPSHOT
+[19:38:19] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[19:38:19] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[19:38:19] [Server thread/INFO]: [WildSkript] Enabling WildSkript v1.8
+[19:38:19] [Server thread/INFO]: [WildSkript] skQuery hooked!
+[19:38:19] [Server thread/INFO]: [WildSkript] Classes, Events, Conditions, Effects, Expressions and EventValues have been registered!
+[19:38:19] [Server thread/INFO]: [WildSkript] Objects and Complex have been registered!
+[19:38:19] [Server thread/INFO]: [WildSkript] ~ Created by & © Dzikoysk ~
+[19:38:19] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[19:38:19] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.22.8
+[19:38:19] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[19:38:19] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[19:38:19] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[19:38:19] [Server thread/INFO]: [SkQuery] Enabling SkQuery v3.21.4
+[19:38:19] [Server thread/INFO]: [skQuery] Snooping enabled from com.w00tmast3r.skquery.SkQuery
+[19:38:19] [Server thread/INFO]: [skQuery] Locating classes from SkQuery...
+[19:38:19] [Server thread/INFO]: [skQuery] Finished snooping of SkQuery with 163 classes.
+[19:38:19] [Server thread/INFO]: [skQuery] Beginning to process a total of 163 from SkQuery
+[19:38:19] [Server thread/ERROR]: Error occurred while enabling SkQuery v3.21.4 (Is it up to date?)
+java.lang.NullPointerException
+	at com.w00tmast3r.skquery.elements.expressions.ExprWhere.getReturnType(ExprWhere.java:52) ~[?:?]
+	at com.w00tmast3r.skquery.Registration.register(Registration.java:120) ~[?:?]
+	at com.w00tmast3r.skquery.Registration.enableSnooper(Registration.java:68) ~[?:?]
+	at com.w00tmast3r.skquery.SkQuery.onEnable(SkQuery.java:25) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) ~[custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:412) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:476) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:394) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.reload(CraftServer.java:867) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.Bukkit.reload(Bukkit.java:301) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:181) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchCommand(CraftServer.java:765) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchServerCommand(CraftServer.java:751) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.aB(DedicatedServer.java:344) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:308) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:643) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:549) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [custom.jar:git-PaperSpigot-1f7d532]
+[19:38:19] [Server thread/INFO]: [CommandNPC] Enabling CommandNPC v1.8.9
+[19:38:19] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mVault not found! Economy support for CommandNPC has been disabled.[m
+[19:38:19] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mInitiating Database[m
+[19:38:19] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mInjecting command info into Citizens.[m
+[19:38:19] [Server thread/INFO]: [0;31;22m---------------------[0;36;1m{[0;32;22mCommandNPC [0;31;1mError[0;36;1m}[0;31;22m---------------------[m
+[19:38:19] [Server thread/INFO]:                            [0;31;1mTopic[m
+[19:38:19] [Server thread/INFO]:                           [0;31;1mCitizens[m
+[19:38:19] [Server thread/INFO]: [m
+[19:38:19] [Server thread/INFO]: [0;36;1m  Couldn't implement commands into citizens! Shutting down! [m
+[19:38:19] [Server thread/INFO]: [m
+[19:38:19] [Server thread/INFO]: [0;31;1m        [0;30;1mClass: [0;31;1mCitizenCommandRegister   [0;30;1mMethod: [m
+[19:38:19] [Server thread/INFO]: [0;31;1m               [0;31;1mregisterCitizenCommand(Class) [m
+[19:38:19] [Server thread/INFO]: [m
+[19:38:19] [Server thread/INFO]: [0;31;22m---------------------[0;36;1m{[0;32;22mCommandNPC [0;31;1mError[0;36;1m}[0;31;22m---------------------[m
+[19:38:19] [Server thread/INFO]: [CommandNPC] Disabling CommandNPC v1.8.9
+[19:38:19] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mCommandNPC successfully loaded![m
+[19:38:19] [Server thread/INFO]: [CustomJoinItems] Enabling CustomJoinItems v1.5.1
+[19:38:19] [Server thread/INFO]: [ArmorOnJoin] Enabling ArmorOnJoin v1.0
+[19:38:19] [Server thread/INFO]: [RejoinTP] Enabling RejoinTP v0.1
+[19:38:19] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.2.2
+[19:38:19] [Server thread/WARN]: [StaffPlus] Default system encoding may have misread config.yml from plugin jar
+[19:38:19] [Server thread/INFO]: API class 'org.inventivetalent.packetlistener.PacketListenerAPI' is not yet initialized. Creating new instance.
+[19:38:19] [Server thread/INFO]: [ReflectionHelper] Version is v1_7_R4 (10704)
+[19:38:19] [Server thread/INFO]: [PacketListenerAPI] Using NMUChannel
+[19:38:19] [Server thread/INFO]: Injected custom channel handlers.
+[19:38:20] [Server thread/INFO]: Adding channels for online players...
+[19:38:20] [Server thread/INFO]: [0;32;22m[Staff+] [0;32;1mVersion protocol set to 'v1_7_R4'.[m
+[19:38:20] [Server thread/INFO]: [0;32;22m[Staff+] [0;32;1mStaff+ has been enabled! Initialization took 168ms.[m
+[19:38:20] [Server thread/INFO]: [0;32;22m[Staff+] [0;32;1mPlugin created by Shortninja.[m
+[19:38:20] [Server thread/INFO]: [ZavAutoMessager] Enabling ZavAutoMessager v3.2
+[19:38:20] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[19:38:20] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[19:38:20] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[19:38:20] [Server thread/INFO]: [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+[19:38:20] [Thread-18/WARN]: [PermissionsEx] An update to PermissionsEx version 1.23.4 is available to download from http://dev.bukkit.org/bukkit-plugins/permissionsex/. Please review the changes and update as soon as possible!
+[19:38:20] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: FLAT & seed: -859591930616344670
+[19:38:20] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[19:38:20] [Server thread/INFO]: [VoidSpawn] Enabling VoidSpawn v1.16.0
+[19:38:20] [Server thread/INFO]: [0;36;22m[[0;35;1mVoidSpawn[0;36;22m] [m[0;33;1mNo SkyBlock plugins found, disabling island mode support.[m
+[19:38:20] [Server thread/INFO]: [0;36;22m[[0;35;1mVoidSpawn[0;36;22m] [m[0;33;1mv1.16.0 by EnderCrest enabled[m
+[19:38:20] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[19:38:20] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[19:38:20] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[19:38:20] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[19:38:20] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[19:38:20] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[19:38:20] [Server thread/INFO]: [WorldGuard] Loading region data...
+[19:38:20] [Server thread/INFO]: [BungeePortals] Enabling BungeePortals v1.2
+[19:38:20] [Server thread/INFO]: [BungeePortals] Metrics initiated!
+[19:38:20] [Server thread/INFO]: [BungeePortals] Commands registered!
+[19:38:20] [Server thread/INFO]: [BungeePortals] Events registered!
+[19:38:20] [Server thread/INFO]: [BungeePortals] Plugin channel registered!
+[19:38:20] [Server thread/INFO]: [BungeePortals] Configuration file config.yml loaded!
+[19:38:20] [Server thread/INFO]: [BungeePortals] Configuration file portals.yml loaded!
+[19:38:20] [Server thread/INFO]: [BungeePortals] Portal data loaded! (0ms)
+[19:38:20] [Server thread/INFO]: [BungeePortals] Save task started!
+[19:38:20] [Server thread/INFO]: [BungeePortals] Version 1.2 has been enabled. (33ms)
+[19:38:20] [Server thread/INFO]: [LiteBans] Enabling LiteBans v2.1.23
+[19:38:21] [Server thread/INFO]: [LiteBans] Loading SQL driver: h2 (org.h2.Driver)
+[19:38:21] [Server thread/INFO]: [LiteBans] Connecting to database...
+[19:38:21] [Server thread/INFO]: [LiteBans] Connected to [jdbc:h2://C:\Users\Asus\Desktop\MC\Server Bungecord V1\Hub\plugins\LiteBans\litebans] (168 ms).
+[19:38:21] [Server thread/INFO]: [LiteBans] Database connection fully initialized (171,4 ms).
+[19:38:21] [Server thread/INFO]: [LiteBans] v2.1.23 enabled. Startup took 459 ms.
+[19:38:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:38:21] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[19:38:21] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mFound a new version: v3.1.4[0;37;1m (yours: v3.0.7)[m
+[19:38:21] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mDownload it on Bukkit Dev:[m
+[19:38:21] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mdev.bukkit.org/bukkit-plugins/chest-commands[m
+[19:38:21] [Server thread/INFO]: §bUse /report <player> if would like to report a player
+[19:38:21] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:38:22] [pool-24-thread-2/INFO]: [0;31;22m[LiteBans] [0;31;1mThis is a leaked copy of the plugin! ID: -2087973441.[0;33;1m https://www.spigotmc.org/resources/litebans.3715/[m
+[19:38:28] [User Authenticator #11/INFO]: UUID of player verry_manu is c9fb5add-0ad7-495c-9f14-f87c844ae090
+[19:38:28] [Server thread/INFO]: verry_manu[/192.168.137.1:52730] logged in with entity id 10 at ([world] -218.3497011805842, 62.0, -753.4650214332183)
+[19:38:28] [Server thread/INFO]: [m
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! 
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! [Skript] Severe Error:
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! An error happened when trying to enably resolving offline players, so the feature has been turned off. Please report this at https://github.com/bensku/Skript/issues/237
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! 
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! If you're developing an add-on for Skript this likely means that you have done something wrong.
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! If you're a server admin however please go to https://github.com/bensku/Skript/issues/
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! and check whether this error has already been reported.
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! If not please create a new ticket with a meaningful title, copy & paste this whole error into it (or use paste service),
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! and describe what you did before it happened and/or what you think caused the error.
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! If you think that it's a trigger that's causing the error please post the trigger as well.
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! By following this guide fixing the error should be easy and done fast.
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! 
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! Stack trace:
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! java.lang.NullPointerException: null offline player resolve queue
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#!     at ch.njol.skript.bukkitutil.UnresolvedOfflinePlayer$1.run(UnresolvedOfflinePlayer.java:59)
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#!     at java.lang.Thread.run(Unknown Source)
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! 
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! Version Information:
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! 
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! [Skript] Severe Error:
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! Exception in thread Skript offline player resolver thread (fetches UUIDs from the minecraft servers)
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! 
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! If you're developing an add-on for Skript this likely means that you have done something wrong.
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! If you're a server admin however please go to https://github.com/bensku/Skript/issues/
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! and check whether this error has already been reported.
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! If not please create a new ticket with a meaningful title, copy & paste this whole error into it (or use paste service),
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! and describe what you did before it happened and/or what you think caused the error.
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! If you think that it's a trigger that's causing the error please post the trigger as well.
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! By following this guide fixing the error should be easy and done fast.
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! 
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! Stack trace:
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! java.lang.IllegalStateException
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#!     at ch.njol.skript.Skript.getVersion(Skript.java:185)
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#!     at ch.njol.skript.Skript.exception(Skript.java:1261)
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#!     at ch.njol.skript.Skript.exception(Skript.java:1212)
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#!     at ch.njol.skript.bukkitutil.UnresolvedOfflinePlayer$1.run(UnresolvedOfflinePlayer.java:59)
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#!     at java.lang.Thread.run(Unknown Source)
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! 
+[19:38:28] [Skript offline player resolver thread (fetches UUIDs from the minecraft servers)/ERROR]: #!#! Version Information:
+[19:38:29] [Server thread/INFO]: verry_manu Accesso negato al comando.
+[19:38:29] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_1710
+[19:38:30] [Server thread/INFO]: verry_manu issued server command: /link
+[19:38:31] [Server thread/INFO]: verry_manu issued server command: /server
+[19:38:33] [Server thread/INFO]: verry_manu issued server command: /parkour
+[19:38:34] [Server thread/INFO]: verry_manu issued server command: /server
+[19:38:35] [Server thread/INFO]: verry_manu issued server command: /link
+[19:38:37] [Server thread/INFO]: [m[0;32;1mverry_manu[m[0;37;1m: t[m
+[19:38:43] [Server thread/INFO]: verry_manu lost connection: Disconnected

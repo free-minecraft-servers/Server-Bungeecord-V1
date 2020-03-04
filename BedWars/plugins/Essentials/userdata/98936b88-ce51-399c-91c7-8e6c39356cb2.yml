@@ -1,0 +1,22 @@
+lastAccountName: CrispyBow
+timestamps:
+  login: 1506854804957
+  logout: 1506852266012
+  lastteleport: 1499011513367
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Airshow
+  x: 2.9617698473206686
+  y: 118.0
+  z: -2.1073892567848254
+  yaw: 246.00085
+  pitch: 35.699986
+afk: true
+lastlocation:
+  world: world
+  x: -307.5
+  y: 64.0
+  z: 198.5
+  yaw: 0.0
+  pitch: 0.0
+money: '250.0'

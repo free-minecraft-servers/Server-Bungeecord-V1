@@ -1,0 +1,65 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&c&lMenu Hub'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'hub;lobby'
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: note pling; tell:'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: paper
+    left-click: false
+    right-click: true
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+Hub:
+  COMMAND: 'server: hub'
+  NAME: '&c&lHub'
+  LORE:
+    - ''
+  ID: 138
+  POSITION-X: 1
+  POSITION-Y: 2
+
+
+Practice:
+  COMMAND: 'server: practice'
+  NAME: '&6&lPractice'
+  LORE:
+    - ''
+  ID: 377
+  POSITION-X: 5
+  POSITION-Y: 2
+  
+
+skypvp:
+  COMMAND: 'server: skypvp
+  NAME: '&6&lSkyPvP
+  LORE:
+    - ''
+  ID: 276
+  POSITION-X: 9
+  POSITION-Y: 2

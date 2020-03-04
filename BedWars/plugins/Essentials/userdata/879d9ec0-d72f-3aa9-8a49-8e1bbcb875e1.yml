@@ -1,0 +1,19 @@
+lastAccountName: nonstop_mau
+timestamps:
+  login: 1502256683831
+  logout: 1502257251841
+ipAddress: 192.168.1.105
+lastlocation:
+  world: world
+  x: -307.5
+  y: 64.0
+  z: 198.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: Archway
+  x: -13.501361737620849
+  y: 73.0
+  z: -75.65879493640477
+  yaw: -6.4497375
+  pitch: -58.349926

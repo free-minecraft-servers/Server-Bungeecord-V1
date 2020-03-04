@@ -1,0 +1,46 @@
+# ----- CustomItems ----- Item configuration file -----
+# This file configures the custom items registed by NBTEditor.
+# For the changes to take effect you must reload the corresponding plugin.
+# 
+# Note regarding allowed-worlds/blocked-worlds:
+#   allowed-worlds, when not empty, acts like a whitelist and only
+#   on worlds from this list the item will be enabled!
+
+custom-items:
+  bos-empty:
+    enabled: true
+    name: "\xc2\xa7aBook of Souls\xc2\xa7r - \xc2\xa7cEmpty"
+    lore:
+    - "\xc2\xa7bThis is a empty Book of Souls."
+    - "\xc2\xa7bRight-click an existing entity to capture the soul."
+    allowed-worlds: []
+    blocked-worlds: []
+  bos:
+    enabled: true
+    name: "\xc2\xa7bBook of Souls"
+    lore: []
+    allowed-worlds: []
+    blocked-worlds: []
+  entity-inspector:
+    enabled: true
+    name: "\xc2\xa7bEntity Inspector"
+    lore:
+    - "\xc2\xa7eRight-click on entities to see their information."
+    allowed-worlds: []
+    blocked-worlds: []
+  entity-remover:
+    enabled: true
+    name: "\xc2\xa7bEntity Remover"
+    lore:
+    - "\xc2\xa7eRight-click on entities remove them."
+    allowed-worlds: []
+    blocked-worlds: []
+  super-lead:
+    enabled: true
+    name: "\xc2\xa76Super Lead"
+    lore:
+    - "\xc2\xa7eRight-click on entities to rope them."
+    - "\xc2\xa7eRight-click another entity while sneaking"
+    - "\xc2\xa7e  to rope them together."
+    allowed-worlds: []
+    blocked-worlds: []

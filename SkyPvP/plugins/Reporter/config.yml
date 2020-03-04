@@ -1,0 +1,51 @@
+#Reporter config file .
+#Plugin by lilian58660.
+send-message: '&a&lReport send to an admin!'
+warning-message: '&cWarning: Please, do not spam this command.'
+# %reporter% return the reporter's name.
+# %reported% return the reported's name.
+# %reason% return the reason.
+clear-message: '&cReports cleared by %clearer%'
+# %clearer% return the clearer's name.
+cleared-message: '&cYou cleared the report list !'
+list-msg: '&c----- Report list -----'
+report-message: '&a&n %reporter% &a&nhas reported&r&c %reported% &r&a&nfor:&r&c %reason%'
+no-permission: '&cYou don t have the permission  use /report command !'
+no-player: '&cThe player %playername% does not exist !'
+correct-use: '&cUse: /report <PlayerName>.'
+# %time% is the cooldown-time variable
+cooldown-message: '&cYou must wait %time% minutes to do this command again.'
+#In minutes
+cooldown-time: 5
+
+#All material ids can be found here: http://minecraft-ids.grahamedgecombe.com/
+1-material: 101
+1-name: '&cHackings'
+
+2-material: 334
+2-name: '&cSpamming'
+
+3-material: 368
+3-name: '&cGlitching'
+
+4-material: 339
+4-name: '&cAdvertising'
+
+5-material: 345
+5-name: '&cAbusing'
+
+6-material: 330
+6-name: '&cThreats'
+
+7-material: 264
+7-name: '&cDisrespect'
+
+8-material: 265
+8-name: '&cImpersination'
+
+9-material: 340
+9-name: '&cOther'
+
+#All sounds can be found here: http://ld.lc/org/bukkit/Sound.html
+reporter-sound: 'FIREWORK_LAUNCH'
+receiver-sound: 'FUSE'

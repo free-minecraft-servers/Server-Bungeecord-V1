@@ -1,0 +1,1643 @@
+[19:04:02] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[19:04:02] [Server thread/INFO]: Loading properties
+[19:04:02] [Server thread/INFO]: Default game type: SURVIVAL
+[19:04:02] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-e1ebe52 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[19:04:02] [Server thread/INFO]: Debug logging is disabled
+[19:04:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:04:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:04:02] [Server thread/INFO]: Generating keypair
+[19:04:03] [Server thread/INFO]: Starting Minecraft server on localhost:25569
+[19:04:03] [Server thread/INFO]: Using default channel type
+[19:04:03] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[19:04:03] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[19:04:03] [Server thread/INFO]: [CrispyAntiCrash] Loading CrispyAntiCrash v1.2
+[19:04:03] [Server thread/INFO]: [Languages] Loading Languages v1.0
+[19:04:03] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[19:04:03] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[19:04:03] [Server thread/INFO]: [GroupManager] Loading GroupManager vPre2.14.1.3 FINAL (Phoenix)
+[19:04:03] [Server thread/INFO]: [NBTEditor] Loading NBTEditor v1.2
+[19:04:03] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.8.1
+[19:04:03] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.7
+[19:04:03] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[19:04:03] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b472
+[19:04:03] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.4
+[19:04:03] [Server thread/INFO]: [CrispyJoinMessages] Loading CrispyJoinMessages v1.0
+[19:04:03] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b699
+[19:04:04] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-05.1569-
+[19:04:04] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.0.6
+[19:04:04] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+[19:04:04] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.0.2
+[19:04:04] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+[19:04:04] [Server thread/INFO]: [BedWars] Loading BedWars v7.9.5
+[19:04:04] [Server thread/INFO]: [CommandNPC] Loading CommandNPC v1.7.2
+[19:04:04] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[19:04:04] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[19:04:04] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[19:04:04] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[19:04:04] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[19:04:04] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[19:04:04] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[19:04:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:04:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:04:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:04:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:04:04] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[19:04:04] [Server thread/INFO]: Preparing level "world"
+[19:04:04] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:04:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:04] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:04] [Server thread/INFO]: Clear tick list: false
+[19:04:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:04] [Server thread/INFO]: View Distance: 10
+[19:04:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:04] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:04] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:04] [Server thread/INFO]: Structure Info Saving: true
+[19:04:04] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:04] [Server thread/INFO]: Anti X-Ray: true
+[19:04:04] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:04] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:04] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:04] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:04] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:04:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:04] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:04] [Server thread/INFO]: Clear tick list: false
+[19:04:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:04] [Server thread/INFO]: View Distance: 10
+[19:04:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:04] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:04] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:04] [Server thread/INFO]: Structure Info Saving: true
+[19:04:04] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:04] [Server thread/INFO]: Anti X-Ray: true
+[19:04:04] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:04] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:04] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:04] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:04] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:04:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:04] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:04] [Server thread/INFO]: Clear tick list: false
+[19:04:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:04] [Server thread/INFO]: View Distance: 10
+[19:04:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:04] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:04] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:04] [Server thread/INFO]: Structure Info Saving: true
+[19:04:04] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:04] [Server thread/INFO]: Anti X-Ray: true
+[19:04:04] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:04] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:04] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:04] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:04] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:04] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1085312657568558992)
+[19:04:05] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1085312657568558992)
+[19:04:06] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1085312657568558992)
+[19:04:06] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[19:04:06] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:04:06] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[19:04:06] [Server thread/INFO]: [CrispyAntiCrash] Enabling CrispyAntiCrash v1.2
+[19:04:06] [Server thread/INFO]: [Languages] Enabling Languages v1.0
+[19:04:06] [Server thread/WARN]: [Languages] Could not save secondary.yml to plugins\Languages\secondary.yml because secondary.yml already exists.
+[19:04:06] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[19:04:06] [Server thread/WARN]: §4Version mismatch! Please update EssentialsSpawn to the same version.
+[19:04:06] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[19:04:06] [Server thread/INFO]: git-Spigot-21fe707-e1ebe52 (MC: 1.8.8)
+[19:04:06] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[19:04:06] [Server thread/INFO]: Using locale it_IT
+[19:04:06] [Server thread/INFO]: Using locale it_IT
+[19:04:06] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[19:04:06] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[19:04:06] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[19:04:06] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[19:04:06] [Server thread/INFO]: [GroupManager] Enabling GroupManager vPre2.14.1.3 FINAL (Phoenix)
+[19:04:06] [Server thread/WARN]: GroupManager - WARNING - The group 'Diamond' has no 'info' section!
+[19:04:06] [Server thread/WARN]: GroupManager - WARNING - Using default values: plugins\GroupManager\worlds\world\groups.yml
+[19:04:06] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[19:04:06] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[19:04:06] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[19:04:06] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[19:04:06] [Server thread/INFO]: GroupManager version Pre2.14.1.3 FINAL (Phoenix) is enabled!
+[19:04:06] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[19:04:06] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[19:04:06] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[19:04:06] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
+[19:04:06] [Server thread/INFO]: [NBTEditor] Enabling NBTEditor v1.2
+[19:04:06] [Server thread/INFO]: [CustomItemsAPI] CustomItemManager initialized.
+[19:04:07] [Server thread/INFO]: [NBTEditor] NBTEditor has been enabled.
+[19:04:07] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.8.1
+[19:04:07] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[19:04:07] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion list from extendedclip.com...
+[19:04:07] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.7
+[19:04:07] [Server thread/INFO]: [ClearLag] Loading modules...
+[19:04:07] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[19:04:07] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[19:04:07] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[19:04:07] [Thread-10/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.8]...
+[19:04:07] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b472
+[19:04:07] [Server thread/WARN]: §4Versione incorretta! Aggiornare tutti i jar Essentials alla stessa versione.
+[19:04:07] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.4
+[19:04:07] [Server thread/INFO]: [CrispyJoinMessages] Enabling CrispyJoinMessages v1.0
+[19:04:07] [Server thread/INFO]: [0;30;1m[[0;33;1mCrispyJoinMessages[0;30;1m] [0;37;22mPlugin enabled![m
+[19:04:07] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b699
+[19:04:07] [Server thread/INFO]: -------- World Settings For [Chained] --------
+[19:04:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:07] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:07] [Server thread/INFO]: Clear tick list: false
+[19:04:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:07] [Server thread/INFO]: View Distance: 10
+[19:04:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:07] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:07] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:07] [Server thread/INFO]: Structure Info Saving: true
+[19:04:07] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:07] [Server thread/INFO]: Anti X-Ray: true
+[19:04:07] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:07] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:07] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:07] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:07] [Server thread/INFO]: Preparing start region for level 3 (Seed: 0)
+[19:04:07] [Server thread/INFO]: -------- World Settings For [Lectus] --------
+[19:04:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:07] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:07] [Server thread/INFO]: Clear tick list: false
+[19:04:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:07] [Server thread/INFO]: View Distance: 10
+[19:04:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:07] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:07] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:07] [Server thread/INFO]: Structure Info Saving: true
+[19:04:07] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:07] [Server thread/INFO]: Anti X-Ray: true
+[19:04:07] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:07] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:07] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:07] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:07] [Server thread/INFO]: Preparing start region for level 4 (Seed: 0)
+[19:04:07] [Server thread/INFO]: -------- World Settings For [Lighthouse] --------
+[19:04:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:07] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:07] [Server thread/INFO]: Clear tick list: false
+[19:04:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:07] [Server thread/INFO]: View Distance: 10
+[19:04:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:07] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:07] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:07] [Server thread/INFO]: Structure Info Saving: true
+[19:04:07] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:07] [Server thread/INFO]: Anti X-Ray: true
+[19:04:07] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:07] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:07] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:07] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:07] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:08] [Server thread/INFO]: Preparing start region for level 5 (Seed: 0)
+[19:04:08] [Thread-10/INFO]: [ClearLag] No updates found!
+[19:04:08] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Omega
+[19:04:08] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[19:04:08] [Server thread/INFO]: -------- World Settings For [Treenan] --------
+[19:04:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:08] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:08] [Server thread/INFO]: Clear tick list: false
+[19:04:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:08] [Server thread/INFO]: View Distance: 10
+[19:04:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:08] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:08] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:08] [Server thread/INFO]: Structure Info Saving: true
+[19:04:08] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:08] [Server thread/INFO]: Anti X-Ray: true
+[19:04:08] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:08] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:08] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:08] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:08] [Server thread/INFO]: Preparing start region for level 6 (Seed: 0)
+[19:04:08] [Server thread/INFO]: -------- World Settings For [Rooftop] --------
+[19:04:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:08] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:08] [Server thread/INFO]: Clear tick list: false
+[19:04:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:08] [Server thread/INFO]: View Distance: 10
+[19:04:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:08] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:08] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:08] [Server thread/INFO]: Structure Info Saving: true
+[19:04:08] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:08] [Server thread/INFO]: Anti X-Ray: true
+[19:04:08] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:08] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:08] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:08] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:08] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:08] [Server thread/INFO]: Preparing start region for level 7 (Seed: 0)
+[19:04:09] [Server thread/INFO]: -------- World Settings For [Lobby] --------
+[19:04:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:09] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:09] [Server thread/INFO]: Clear tick list: false
+[19:04:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:09] [Server thread/INFO]: View Distance: 10
+[19:04:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:09] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:09] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:09] [Server thread/INFO]: Structure Info Saving: true
+[19:04:09] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:09] [Server thread/INFO]: Anti X-Ray: true
+[19:04:09] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:09] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:09] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:09] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:09] [Server thread/INFO]: Preparing start region for level 8 (Seed: 3976368541835187749)
+[19:04:09] [Server thread/INFO]: -------- World Settings For [Aquarium] --------
+[19:04:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:09] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:09] [Server thread/INFO]: Clear tick list: false
+[19:04:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:09] [Server thread/INFO]: View Distance: 10
+[19:04:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:09] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:09] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:09] [Server thread/INFO]: Structure Info Saving: true
+[19:04:09] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:09] [Server thread/INFO]: Anti X-Ray: true
+[19:04:09] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:09] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:09] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:09] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:09] [Server thread/INFO]: Preparing start region for level 9 (Seed: 0)
+[19:04:09] [Server thread/INFO]: -------- World Settings For [Archway] --------
+[19:04:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:09] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:09] [Server thread/INFO]: Clear tick list: false
+[19:04:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:09] [Server thread/INFO]: View Distance: 10
+[19:04:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:09] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:09] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:09] [Server thread/INFO]: Structure Info Saving: true
+[19:04:09] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:09] [Server thread/INFO]: Anti X-Ray: true
+[19:04:09] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:09] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:09] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:09] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:09] [Server thread/INFO]: Preparing start region for level 10 (Seed: 0)
+[19:04:09] [Server thread/INFO]: -------- World Settings For [StoneKeep] --------
+[19:04:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:09] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:09] [Server thread/INFO]: Clear tick list: false
+[19:04:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:09] [Server thread/INFO]: View Distance: 10
+[19:04:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:09] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:09] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:09] [Server thread/INFO]: Structure Info Saving: true
+[19:04:09] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:09] [Server thread/INFO]: Anti X-Ray: true
+[19:04:09] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:09] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:09] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:09] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:09] [Server thread/INFO]: Preparing start region for level 11 (Seed: 0)
+[19:04:09] [Server thread/INFO]: -------- World Settings For [Hollow] --------
+[19:04:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:09] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:09] [Server thread/INFO]: Clear tick list: false
+[19:04:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:09] [Server thread/INFO]: View Distance: 10
+[19:04:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:09] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:09] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:09] [Server thread/INFO]: Structure Info Saving: true
+[19:04:09] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:09] [Server thread/INFO]: Anti X-Ray: true
+[19:04:09] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:09] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:09] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:09] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:09] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:09] [Server thread/INFO]: Preparing start region for level 12 (Seed: 0)
+[19:04:10] [Server thread/INFO]: -------- World Settings For [Glacier] --------
+[19:04:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:10] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:10] [Server thread/INFO]: Clear tick list: false
+[19:04:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:10] [Server thread/INFO]: View Distance: 10
+[19:04:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:10] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:10] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:10] [Server thread/INFO]: Structure Info Saving: true
+[19:04:10] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:10] [Server thread/INFO]: Anti X-Ray: true
+[19:04:10] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:10] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:10] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:10] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:10] [Server thread/INFO]: Preparing start region for level 13 (Seed: 0)
+[19:04:10] [Server thread/INFO]: -------- World Settings For [Swashbuckle] --------
+[19:04:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:10] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:10] [Server thread/INFO]: Clear tick list: false
+[19:04:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:10] [Server thread/INFO]: View Distance: 10
+[19:04:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:10] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:10] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:10] [Server thread/INFO]: Structure Info Saving: true
+[19:04:10] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:10] [Server thread/INFO]: Anti X-Ray: true
+[19:04:10] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:10] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:10] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:10] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:10] [Server thread/INFO]: Preparing start region for level 14 (Seed: 0)
+[19:04:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: eben
+[19:04:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[19:04:10] [Server thread/INFO]: -------- World Settings For [Crypt] --------
+[19:04:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:10] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:10] [Server thread/INFO]: Clear tick list: false
+[19:04:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:10] [Server thread/INFO]: View Distance: 10
+[19:04:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:10] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:10] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:10] [Server thread/INFO]: Structure Info Saving: true
+[19:04:10] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:10] [Server thread/INFO]: Anti X-Ray: true
+[19:04:10] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:10] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:10] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:10] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:10] [Server thread/INFO]: Preparing start region for level 15 (Seed: 0)
+[19:04:10] [Server thread/INFO]: -------- World Settings For [Lotus] --------
+[19:04:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:10] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:10] [Server thread/INFO]: Clear tick list: false
+[19:04:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:10] [Server thread/INFO]: View Distance: 10
+[19:04:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:10] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:10] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:10] [Server thread/INFO]: Structure Info Saving: true
+[19:04:10] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:10] [Server thread/INFO]: Anti X-Ray: true
+[19:04:10] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:10] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:10] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:10] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:10] [Server thread/INFO]: Preparing start region for level 16 (Seed: 0)
+[19:04:10] [Server thread/INFO]: -------- World Settings For [Invasion] --------
+[19:04:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:10] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:10] [Server thread/INFO]: Clear tick list: false
+[19:04:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:10] [Server thread/INFO]: View Distance: 10
+[19:04:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:10] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:10] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:10] [Server thread/INFO]: Structure Info Saving: true
+[19:04:10] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:10] [Server thread/INFO]: Anti X-Ray: true
+[19:04:10] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:10] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:10] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:10] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:10] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:10] [Server thread/INFO]: Preparing start region for level 17 (Seed: 0)
+[19:04:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Playground
+[19:04:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[19:04:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: WaterFall
+[19:04:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[19:04:11] [Server thread/INFO]: -------- World Settings For [Airshow] --------
+[19:04:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:11] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:11] [Server thread/INFO]: Clear tick list: false
+[19:04:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:11] [Server thread/INFO]: View Distance: 10
+[19:04:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:11] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:11] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:11] [Server thread/INFO]: Structure Info Saving: true
+[19:04:11] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:11] [Server thread/INFO]: Anti X-Ray: true
+[19:04:11] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:11] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:11] [Server thread/INFO]: Preparing start region for level 18 (Seed: 0)
+[19:04:11] [Server thread/INFO]: -------- World Settings For [Speedway] --------
+[19:04:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:11] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:11] [Server thread/INFO]: Clear tick list: false
+[19:04:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:11] [Server thread/INFO]: View Distance: 10
+[19:04:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:11] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:11] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:11] [Server thread/INFO]: Structure Info Saving: true
+[19:04:11] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:11] [Server thread/INFO]: Anti X-Ray: true
+[19:04:11] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:11] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:11] [Server thread/INFO]: Preparing start region for level 19 (Seed: 0)
+[19:04:11] [Server thread/INFO]: -------- World Settings For [Ashore] --------
+[19:04:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:11] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:11] [Server thread/INFO]: Clear tick list: false
+[19:04:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:11] [Server thread/INFO]: View Distance: 10
+[19:04:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:11] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:11] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:11] [Server thread/INFO]: Structure Info Saving: true
+[19:04:11] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:11] [Server thread/INFO]: Anti X-Ray: true
+[19:04:11] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:11] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:11] [Server thread/INFO]: Preparing start region for level 20 (Seed: 0)
+[19:04:11] [Server thread/INFO]: -------- World Settings For [Amazon] --------
+[19:04:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:04:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:04:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:04:11] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:04:11] [Server thread/INFO]: Clear tick list: false
+[19:04:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:04:11] [Server thread/INFO]: View Distance: 10
+[19:04:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:04:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:04:11] [Server thread/INFO]: Max Entity Collisions: 8
+[19:04:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:04:11] [Server thread/INFO]: Random Lighting Updates: false
+[19:04:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:04:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:04:11] [Server thread/INFO]: Structure Info Saving: true
+[19:04:11] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:04:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:04:11] [Server thread/INFO]: Anti X-Ray: true
+[19:04:11] [Server thread/INFO]: 	Engine Mode: 1
+[19:04:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:04:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:04:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:04:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:04:11] [Server thread/INFO]: Mob Spawn Range: 4
+[19:04:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:04:11] [Server thread/INFO]: Max TNT Explosions: 100
+[19:04:11] [Server thread/INFO]: Preparing start region for level 21 (Seed: 0)
+[19:04:11] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: WaitingLobby
+[19:04:11] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[19:04:11] [Server thread/INFO]: [Multiverse-Core] 22 - World(s) loaded.
+[19:04:11] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b699 (API v19) Enabled - By Rigby, fernferret, lithium3141 and main--
+[19:04:11] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-05.1569-
+[19:04:11] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Chained) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Chained) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Chained) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Chained) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Chained'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lectus) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lectus) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lectus) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lectus) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lectus'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lighthouse) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lighthouse) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lighthouse) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lighthouse) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lighthouse'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Treenan) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Treenan) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Treenan) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Treenan) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Treenan'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Rooftop) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Rooftop) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Rooftop) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Rooftop) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Rooftop'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lobby) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lobby) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lobby) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lobby) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lobby'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Aquarium) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Aquarium) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Aquarium) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Aquarium) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Aquarium'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Archway) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Archway) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Archway) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Archway) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Archway'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (StoneKeep) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (StoneKeep) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (StoneKeep) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (StoneKeep) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'StoneKeep'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Hollow) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Hollow) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Hollow) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Hollow) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Hollow'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Glacier) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Glacier) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Glacier) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Glacier) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Glacier'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Swashbuckle) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Swashbuckle) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Swashbuckle) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Swashbuckle) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Swashbuckle'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Crypt) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Crypt) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Crypt) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Crypt) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Crypt'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lotus) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lotus) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lotus) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Lotus) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lotus'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Invasion) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Invasion) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Invasion) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Invasion) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Invasion'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Airshow) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Airshow) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Airshow) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Airshow) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Airshow'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Speedway) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Speedway) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Speedway) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Speedway) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Speedway'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Ashore) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Ashore) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Ashore) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Ashore) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Ashore'
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Amazon) TNT ignition is PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Amazon) Lighters are PERMITTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Amazon) Lava fire is blocked.
+[19:04:11] [Server thread/INFO]: [WorldGuard] (Amazon) Fire spread is UNRESTRICTED.
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Amazon'
+[19:04:11] [Server thread/INFO]: [WorldGuard] Loading region data...
+[19:04:12] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.0.6
+[19:04:13] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[19:04:13] [Server thread/ERROR]: [Citizens] Missing preferred location bundle.
+[19:04:13] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.0.2
+[19:04:13] [Server thread/INFO]: [0;37;22mDetected Minecraft [0;37;22mv1_8_R3[0;37;22m, using [0;37;22mUniversalSkinFactory[m
+[19:04:13] [Server thread/INFO]: [0;37;22mDetected [0;37;22mMultiverse-Core [0;37;22mUsing it for dimensions.[m
+[19:04:13] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[19:04:13] [Server thread/INFO]: [ChestCommands] Hooked PlayerPoints
+[19:04:13] [Server thread/INFO]: [BedWars] Enabling BedWars v7.9.5
+[19:04:14] [Server thread/INFO]: [BedWars] Loading arena: Airshow.
+[19:04:14] [Server thread/INFO]: [BedWars] Arena Airshow has been successfully loaded.
+[19:04:14] [Server thread/INFO]: [BedWars] Loading arena: Amazon.
+[19:04:15] [Server thread/INFO]: [BedWars] Arena Amazon has been successfully loaded.
+[19:04:15] [Server thread/INFO]: [BedWars] Loading arena: Aquarium.
+[19:04:15] [Server thread/INFO]: [BedWars] Arena Aquarium has been successfully loaded.
+[19:04:15] [Server thread/INFO]: [BedWars] Loading arena: Ashore.
+[19:04:15] [Server thread/INFO]: [BedWars] Arena Ashore has been successfully loaded.
+[19:04:15] [Server thread/INFO]: [BedWars] Loading arena: Rooftop.
+[19:04:19] [Server thread/INFO]: [BedWars] Arena Rooftop has been successfully loaded.
+[19:04:20] [Server thread/INFO]: [BedWars] Loading arena: Treenan.
+[19:04:20] [Server thread/INFO]: [BedWars] Arena Treenan has been successfully loaded.
+[19:04:20] [Server thread/INFO]: [BedWars] Loading arena: Lighthouse.
+[19:04:20] [Server thread/INFO]: [BedWars] Arena Lighthouse has been successfully loaded.
+[19:04:20] [Server thread/INFO]: [BedWars] Loading arena: Lotus.
+[19:04:20] [Server thread/INFO]: [BedWars] Arena Lotus has been successfully loaded.
+[19:04:20] [Server thread/INFO]: [BedWars] Loading arena: Archway.
+[19:04:21] [Server thread/INFO]: [BedWars] Arena Archway has been successfully loaded.
+[19:04:21] [Server thread/INFO]: [BedWars] Loading arena: Speedway.
+[19:04:21] [Server thread/INFO]: [BedWars] Arena Speedway has been successfully loaded.
+[19:04:21] [Server thread/INFO]: [BedWars] Loading arena: Swashbuckle.
+[19:04:21] [Server thread/INFO]: [BedWars] Arena Swashbuckle has been successfully loaded.
+[19:04:21] [Server thread/INFO]: [BedWars] Loading arena: Hollow.
+[19:04:21] [Server thread/INFO]: [BedWars] Arena Hollow has been successfully loaded.
+[19:04:21] [Server thread/INFO]: [BedWars] Loading arena: Chained.
+[19:04:21] [Server thread/INFO]: [BedWars] Arena Chained has been successfully loaded.
+[19:04:21] [Server thread/INFO]: [BedWars] Loading arena: Crypt.
+[19:04:21] [Server thread/INFO]: [BedWars] Arena Crypt has been successfully loaded.
+[19:04:21] [Server thread/INFO]: [BedWars] Loading arena: StoneKeep.
+[19:04:22] [Server thread/INFO]: [BedWars] Arena StoneKeep has been successfully loaded.
+[19:04:22] [Server thread/INFO]: [BedWars] Loading arena: Invasion.
+[19:04:22] [Server thread/INFO]: [BedWars] Arena Invasion has been successfully loaded.
+[19:04:22] [Server thread/INFO]: [BedWars] Loading arena: Glacier.
+[19:04:22] [Server thread/INFO]: [BedWars] Arena Glacier has been successfully loaded.
+[19:04:22] [Server thread/INFO]: [BedWars] Your server run version: 1.8
+[19:04:22] [Server thread/INFO]: [BedWars] Cracked By yeongpin
+[19:04:24] [Server thread/INFO]: [CommandNPC] Enabling CommandNPC v1.7.2
+[19:04:24] [Server thread/INFO]: Injecting command information into Citizens.[m
+[19:04:24] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[19:04:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:04:24] [Server thread/INFO]: Done (20,510s)! For help, type "help" or "?"
+[19:04:24] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[19:04:24] [Craft Scheduler Thread - 6/INFO]: Failed to check for an update on spigot.
+[19:04:24] [Craft Scheduler Thread - 6/INFO]: [m
+[19:04:24] [Craft Scheduler Thread - 6/INFO]: [0;32;1m    +===============+[m
+[19:04:24] [Craft Scheduler Thread - 6/INFO]: [0;32;1m    | SkinsRestorer |[m
+[19:04:24] [Craft Scheduler Thread - 6/INFO]: [0;32;1m    +===============+[m
+[19:04:24] [Craft Scheduler Thread - 6/INFO]: [m
+[19:04:24] [Craft Scheduler Thread - 6/INFO]: [0;36;1m    Current version: [0;31;1m13.0.2[m
+[19:04:24] [Craft Scheduler Thread - 6/INFO]: [0;32;1m    The latest version![m
+[19:04:24] [Craft Scheduler Thread - 6/INFO]: [m
+[19:04:24] [Craft Scheduler Thread - 26/INFO]: [PlaceholderAPI] Failed to check for a update on spigot.
+[19:04:24] [Server thread/INFO]: [Citizens] Loaded 2 NPCs.
+[19:04:24] [Craft Scheduler Thread - 26/INFO]: [Vault] Checking for Updates ... 
+[19:04:25] [Craft Scheduler Thread - 26/INFO]: [Vault] No new version available
+[19:04:25] [Craft Scheduler Thread - 28/INFO]: [PlaceholderAPI] 111 placeholder expansions are available on the cloud.
+[19:04:25] [Craft Scheduler Thread - 28/INFO]: [PlaceholderAPI] 0 expansions you use have updates.
+[19:10:06] [Thread-15/INFO]: UUID of player verry_manu is 9423e716-9c0b-3b60-92b0-d35c3d5879d3
+[19:10:06] [Server thread/INFO]: verry_manu[/127.0.0.1:52265] logged in with entity id 249 at ([Lobby]-66.5, 22.0, -3.5)
+[19:10:07] [Craft Scheduler Thread - 35/INFO]: [Essentials] Lag Notice - Slow Permissions System (GroupManager) Response - Request took over 288,339ms!
+[19:10:08] [pool-5-thread-1/INFO]: Creazione configurazione vuota: C:\Users\Asus\Desktop\MC\Server Bungecord V1\BedWars\plugins\Essentials\userdata\9423e716-9c0b-3b60-92b0-d35c3d5879d3.yml
+[19:10:11] [Server thread/WARN]: verry_manu moved too quickly! -241.0,42.0,202.0 (-241.0, 42.0, 202.0)
+[19:10:30] [Server thread/INFO]: verry_manu has just earned the achievement [Taking Inventory]
+[19:10:39] [Server thread/INFO]: verry_manu issued server command: /stats
+[19:11:08] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:11:18] [Async Chat Thread - #0/INFO]: [BedWars] verry_manu: tt
+[19:11:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:12:09] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[19:12:46] [Server thread/INFO]: verry_manu issued server command: /stats
+[19:13:18] [Server thread/INFO]: verry_manu issued server command: /bw
+[19:13:29] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:14:06] [pool-7-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[19:14:10] [Server thread/INFO]: verry_manu issued server command: /hub
+[19:17:23] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:18:50] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:19:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:19:50] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[19:19:52] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:19:52] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+[19:19:52] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226)
+[19:19:52] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169)
+[19:19:52] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.config.yaml.PluginConfig.load(PluginConfig.java:45)
+[19:19:52] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.ChestCommands.load(ChestCommands.java:187)
+[19:19:52] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandHandler.execute(CommandHandler.java:59)
+[19:19:52] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandFramework.onCommand(CommandFramework.java:46)
+[19:19:52] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+[19:19:52] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141)
+[19:19:52] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:641)
+[19:19:52] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchServerCommand(CraftServer.java:627)
+[19:19:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.aO(DedicatedServer.java:412)
+[19:19:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:375)
+[19:19:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654)
+[19:19:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557)
+[19:19:52] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:19:52] [Server thread/WARN]: Caused by: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.scanAnchor(ScannerImpl.java:1446)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchAnchor(ScannerImpl.java:939)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:370)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+[19:19:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369)
+[19:19:52] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+[19:19:52] [Server thread/WARN]: 	... 15 more
+[19:19:52] [Server thread/INFO]:  
+[0;31;1m#------------------- Chest Commands Errors -------------------#
+[0;37;22m1) [0;37;1mInvalid YAML configuration for the menu "hub.yml". Please look at the error above, or use an online YAML parser (google is your friend).
+[0;31;1m#-------------------------------------------------------------#[m
+[19:19:52] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;31;1mPlugin reloaded with 1 error(s).[m
+[19:20:13] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:20:13] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+[19:20:13] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226)
+[19:20:13] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169)
+[19:20:13] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.config.yaml.PluginConfig.load(PluginConfig.java:45)
+[19:20:13] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.ChestCommands.load(ChestCommands.java:187)
+[19:20:13] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandHandler.execute(CommandHandler.java:59)
+[19:20:13] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandFramework.onCommand(CommandFramework.java:46)
+[19:20:13] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+[19:20:13] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141)
+[19:20:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:641)
+[19:20:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchServerCommand(CraftServer.java:627)
+[19:20:13] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.aO(DedicatedServer.java:412)
+[19:20:13] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:375)
+[19:20:13] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654)
+[19:20:13] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557)
+[19:20:13] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:20:13] [Server thread/WARN]: Caused by: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.scanAnchor(ScannerImpl.java:1446)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchAnchor(ScannerImpl.java:939)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:370)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+[19:20:13] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369)
+[19:20:13] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+[19:20:13] [Server thread/WARN]: 	... 15 more
+[19:20:13] [Server thread/INFO]:  
+[0;31;1m#------------------- Chest Commands Errors -------------------#
+[0;37;22m1) [0;37;1mInvalid YAML configuration for the menu "hub.yml". Please look at the error above, or use an online YAML parser (google is your friend).
+[0;31;1m#-------------------------------------------------------------#[m
+[19:20:13] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;31;1mPlugin reloaded with 1 error(s).[m
+[19:20:28] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:20:28] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+[19:20:28] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226)
+[19:20:28] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169)
+[19:20:28] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.config.yaml.PluginConfig.load(PluginConfig.java:45)
+[19:20:28] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.ChestCommands.load(ChestCommands.java:187)
+[19:20:28] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandHandler.execute(CommandHandler.java:59)
+[19:20:28] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandFramework.onCommand(CommandFramework.java:46)
+[19:20:28] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+[19:20:28] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141)
+[19:20:28] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:641)
+[19:20:28] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchServerCommand(CraftServer.java:627)
+[19:20:28] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.aO(DedicatedServer.java:412)
+[19:20:28] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:375)
+[19:20:28] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654)
+[19:20:28] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557)
+[19:20:28] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:20:28] [Server thread/WARN]: Caused by: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.scanAnchor(ScannerImpl.java:1446)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchAnchor(ScannerImpl.java:939)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:370)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+[19:20:28] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369)
+[19:20:28] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+[19:20:28] [Server thread/WARN]: 	... 15 more
+[19:20:28] [Server thread/INFO]:  
+[0;31;1m#------------------- Chest Commands Errors -------------------#
+[0;37;22m1) [0;37;1mInvalid YAML configuration for the menu "hub.yml". Please look at the error above, or use an online YAML parser (google is your friend).
+[0;31;1m#-------------------------------------------------------------#[m
+[19:20:28] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;31;1mPlugin reloaded with 1 error(s).[m
+[19:20:33] [Thread-19/INFO]: UUID of player verry_manu is 9423e716-9c0b-3b60-92b0-d35c3d5879d3
+[19:20:34] [Server thread/INFO]: verry_manu[/127.0.0.1:52381] logged in with entity id 506 at ([Lobby]-66.5, 22.0, -3.5)
+[19:20:34] [Craft Scheduler Thread - 42/WARN]: Exception in thread "Craft Scheduler Thread - 42" 
+[19:20:34] [Craft Scheduler Thread - 42/WARN]: org.apache.commons.lang.UnhandledException: Plugin Essentials vTeamCity generated an exception while executing task 396
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NoSuchMethodError: com.earth2me.essentials.ISettings.getSpawnOnJoinGroups()Ljava/util/List;
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.delayedJoin(EssentialsSpawnPlayerListener.java:75)
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener$1.run(EssentialsSpawnPlayerListener.java:67)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	... 3 more
+
+[19:20:42] [Server thread/INFO]: verry_manu issued server command: /ranks
+[19:20:43] [Server thread/INFO]: verry_manu issued server command: /ranks
+[19:20:44] [Server thread/INFO]: verry_manu issued server command: /rank
+[19:20:48] [Server thread/INFO]: verry_manu issued server command: /hub
+[19:20:49] [Server thread/INFO]: verry_manu issued server command: /hub
+[19:21:06] [Server thread/INFO]: verry_manu issued server command: /Gmc
+[19:21:06] [Server thread/INFO]: verry_manu Accesso negato al comando.
+[19:21:12] [Server thread/INFO]: Opped verry_manu
+[19:21:14] [Server thread/INFO]: verry_manu issued server command: /gmc
+[19:22:10] [Server thread/INFO]: verry_manu issued server command: /vip
+[19:22:41] [Async Chat Thread - #1/INFO]: [BedWars] verry_manu: r/hd
+[19:22:44] [Server thread/INFO]: verry_manu issued server command: /hd
+[19:22:50] [Server thread/INFO]: verry_manu issued server command: /hd create
+[19:23:04] [Server thread/INFO]: verry_manu issued server command: /hd create vip &u&l/rank for buy kit
+[19:23:07] [Server thread/INFO]: verry_manu issued server command: /rank
+[19:23:22] [Server thread/INFO]: verry_manu issued server command: /cc reload
+[19:23:22] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:23:22] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+[19:23:22] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226)
+[19:23:22] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169)
+[19:23:23] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.config.yaml.PluginConfig.load(PluginConfig.java:45)
+[19:23:23] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.ChestCommands.load(ChestCommands.java:187)
+[19:23:23] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandHandler.execute(CommandHandler.java:59)
+[19:23:23] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandFramework.onCommand(CommandFramework.java:46)
+[19:23:23] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+[19:23:23] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141)
+[19:23:23] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:641)
+[19:23:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.handleCommand(PlayerConnection.java:1162)
+[19:23:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:997)
+[19:23:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:45)
+[19:23:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:1)
+[19:23:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13)
+[19:23:23] [Server thread/WARN]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[19:23:23] [Server thread/WARN]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[19:23:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44)
+[19:23:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715)
+[19:23:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374)
+[19:23:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654)
+[19:23:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557)
+[19:23:23] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:23:23] [Server thread/WARN]: Caused by: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.scanAnchor(ScannerImpl.java:1446)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchAnchor(ScannerImpl.java:939)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:370)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+[19:23:23] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369)
+[19:23:23] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+[19:23:23] [Server thread/WARN]: 	... 22 more
+[19:23:23] [Server thread/INFO]:  
+[0;31;1m#------------------- Chest Commands Errors -------------------#
+[0;37;22m1) [0;37;1mInvalid YAML configuration for the menu "hub.yml". Please look at the error above, or use an online YAML parser (google is your friend).
+[0;31;1m#-------------------------------------------------------------#[m
+[19:23:24] [Server thread/INFO]: verry_manu issued server command: /hubv
+[19:23:25] [Server thread/INFO]: verry_manu issued server command: /hub
+[19:23:50] [Server thread/INFO]: verry_manu issued server command: /hub
+[19:23:52] [Server thread/INFO]: verry_manu issued server command: /cc reload
+[19:23:52] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:23:52] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+[19:23:52] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226)
+[19:23:52] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169)
+[19:23:52] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.config.yaml.PluginConfig.load(PluginConfig.java:45)
+[19:23:52] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.ChestCommands.load(ChestCommands.java:187)
+[19:23:52] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandHandler.execute(CommandHandler.java:59)
+[19:23:52] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandFramework.onCommand(CommandFramework.java:46)
+[19:23:52] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+[19:23:52] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141)
+[19:23:52] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:641)
+[19:23:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.handleCommand(PlayerConnection.java:1162)
+[19:23:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:997)
+[19:23:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:45)
+[19:23:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:1)
+[19:23:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13)
+[19:23:52] [Server thread/WARN]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[19:23:52] [Server thread/WARN]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[19:23:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44)
+[19:23:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715)
+[19:23:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374)
+[19:23:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654)
+[19:23:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557)
+[19:23:52] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:23:52] [Server thread/WARN]: Caused by: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.scanAnchor(ScannerImpl.java:1446)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchAnchor(ScannerImpl.java:939)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:370)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+[19:23:52] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369)
+[19:23:52] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+[19:23:52] [Server thread/WARN]: 	... 22 more
+[19:23:52] [Server thread/INFO]:  
+[0;31;1m#------------------- Chest Commands Errors -------------------#
+[0;37;22m1) [0;37;1mInvalid YAML configuration for the menu "hub.yml". Please look at the error above, or use an online YAML parser (google is your friend).
+[0;31;1m#-------------------------------------------------------------#[m
+[19:23:56] [Server thread/INFO]: verry_manu issued server command: /hub
+[19:24:09] [Server thread/INFO]: verry_manu issued server command: /hub
+[19:24:11] [Server thread/INFO]: verry_manu issued server command: /cc reload
+[19:24:11] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:24:11] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+[19:24:11] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226)
+[19:24:11] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169)
+[19:24:11] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.config.yaml.PluginConfig.load(PluginConfig.java:45)
+[19:24:11] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.ChestCommands.load(ChestCommands.java:187)
+[19:24:11] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandHandler.execute(CommandHandler.java:59)
+[19:24:11] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandFramework.onCommand(CommandFramework.java:46)
+[19:24:11] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+[19:24:11] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141)
+[19:24:11] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:641)
+[19:24:11] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.handleCommand(PlayerConnection.java:1162)
+[19:24:11] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:997)
+[19:24:11] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:45)
+[19:24:11] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:1)
+[19:24:11] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13)
+[19:24:11] [Server thread/WARN]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[19:24:11] [Server thread/WARN]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[19:24:11] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44)
+[19:24:11] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715)
+[19:24:11] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374)
+[19:24:11] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654)
+[19:24:11] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557)
+[19:24:11] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:24:11] [Server thread/WARN]: Caused by: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.scanAnchor(ScannerImpl.java:1446)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchAnchor(ScannerImpl.java:939)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:370)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+[19:24:11] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369)
+[19:24:11] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+[19:24:11] [Server thread/WARN]: 	... 22 more
+[19:24:11] [Server thread/INFO]:  
+[0;31;1m#------------------- Chest Commands Errors -------------------#
+[0;37;22m1) [0;37;1mInvalid YAML configuration for the menu "hub.yml". Please look at the error above, or use an online YAML parser (google is your friend).
+[0;31;1m#-------------------------------------------------------------#[m
+[19:24:12] [Server thread/INFO]: verry_manu issued server command: /hub
+[19:24:25] [Server thread/INFO]: verry_manu issued server command: /cc reload
+[19:24:25] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:24:25] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+[19:24:25] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226)
+[19:24:25] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169)
+[19:24:25] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.config.yaml.PluginConfig.load(PluginConfig.java:45)
+[19:24:25] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.ChestCommands.load(ChestCommands.java:187)
+[19:24:25] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandHandler.execute(CommandHandler.java:59)
+[19:24:25] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandFramework.onCommand(CommandFramework.java:46)
+[19:24:25] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+[19:24:25] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141)
+[19:24:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:641)
+[19:24:25] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.handleCommand(PlayerConnection.java:1162)
+[19:24:25] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:997)
+[19:24:25] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:45)
+[19:24:25] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:1)
+[19:24:25] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13)
+[19:24:25] [Server thread/WARN]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[19:24:25] [Server thread/WARN]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[19:24:25] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44)
+[19:24:25] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715)
+[19:24:25] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374)
+[19:24:25] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654)
+[19:24:25] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557)
+[19:24:25] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:24:25] [Server thread/WARN]: Caused by: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.scanAnchor(ScannerImpl.java:1446)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchAnchor(ScannerImpl.java:939)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:370)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+[19:24:25] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369)
+[19:24:25] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+[19:24:25] [Server thread/WARN]: 	... 22 more
+[19:24:25] [Server thread/INFO]:  
+[0;31;1m#------------------- Chest Commands Errors -------------------#
+[0;37;22m1) [0;37;1mInvalid YAML configuration for the menu "hub.yml". Please look at the error above, or use an online YAML parser (google is your friend).
+[0;31;1m#-------------------------------------------------------------#[m
+[19:24:27] [Server thread/INFO]: verry_manu issued server command: /hub
+[19:24:49] [Server thread/INFO]: verry_manu issued server command: /cc reload
+[19:24:49] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:24:49] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+[19:24:49] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226)
+[19:24:49] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169)
+[19:24:49] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.config.yaml.PluginConfig.load(PluginConfig.java:45)
+[19:24:49] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.ChestCommands.load(ChestCommands.java:187)
+[19:24:49] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandHandler.execute(CommandHandler.java:59)
+[19:24:49] [Server thread/WARN]: 	at com.gmail.filoghost.chestcommands.command.CommandFramework.onCommand(CommandFramework.java:46)
+[19:24:49] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+[19:24:49] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141)
+[19:24:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:641)
+[19:24:49] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.handleCommand(PlayerConnection.java:1162)
+[19:24:49] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:997)
+[19:24:49] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:45)
+[19:24:49] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:1)
+[19:24:49] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13)
+[19:24:49] [Server thread/WARN]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[19:24:49] [Server thread/WARN]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[19:24:49] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44)
+[19:24:49] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715)
+[19:24:49] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374)
+[19:24:49] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654)
+[19:24:49] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557)
+[19:24:49] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[19:24:49] [Server thread/WARN]: Caused by: while scanning an anchor
+ in 'string', line 60, column 10:
+      NAME: '&6&lSkyPvP
+             ^
+expected alphabetic or numeric character, but found &(38)
+ in 'string', line 60, column 12:
+      NAME: '&6&lSkyPvP
+               ^
+
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.scanAnchor(ScannerImpl.java:1446)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchAnchor(ScannerImpl.java:939)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:370)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+[19:24:49] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369)
+[19:24:49] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+[19:24:49] [Server thread/WARN]: 	... 22 more
+[19:24:49] [Server thread/INFO]:  
+[0;31;1m#------------------- Chest Commands Errors -------------------#
+[0;37;22m1) [0;37;1mInvalid YAML configuration for the menu "hub.yml". Please look at the error above, or use an online YAML parser (google is your friend).
+[0;31;1m#-------------------------------------------------------------#[m
+[19:24:52] [Server thread/INFO]: verry_manu issued server command: /hub
+[19:25:12] [Server thread/INFO]: verry_manu issued server command: /hd addline vip &c&l/hub is blocked
+[19:25:22] [Server thread/INFO]: verry_manu issued server command: /hd addline vip &c&lfor this bug
+[19:25:35] [Server thread/INFO]: verry_manu issued server command: /hd addline vip &c&lfix the bug in the
+[19:25:48] [Server thread/INFO]: verry_manu issued server command: /hd addline vip &c&lversion 3.0
+[19:25:55] [Server thread/INFO]: verry_manu issued server command: /bw play
+[19:25:56] [Server thread/INFO]: verry_manu issued server command: /randomjoin
+[19:25:56] [Server thread/INFO]: verry_manu issued server command: /random join
+[19:25:56] [Server thread/INFO]: verry_manu issued server command: /randomjoin
+[19:25:56] [Server thread/INFO]: verry_manu issued server command: /bw randomjoin
+[19:26:11] [Server thread/INFO]: verry_manu issued server command: /rank
+[19:26:16] [Server thread/INFO]: verry_manu issued server command: /bw
+[19:26:20] [Server thread/INFO]: verry_manu issued server command: /bw coins
+[19:26:25] [Server thread/INFO]: verry_manu issued server command: /bw coins add verry_manu 500
+[19:26:26] [Server thread/INFO]: verry_manu issued server command: /rank
+[19:26:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:26:32] [Server thread/INFO]: verry_manu issued server command: /rank
+[19:26:50] [Server thread/INFO]: verry_manu issued server command: /bw coins reset verry_manu
+[19:26:55] [Server thread/INFO]: verry_manu issued server command: /stats
+[19:27:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:27:13] [Server thread/INFO]: verry_manu issued server command: /stats
+[19:27:22] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:27:31] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[19:29:44] [Thread-22/INFO]: UUID of player verry_manu is 9423e716-9c0b-3b60-92b0-d35c3d5879d3
+[19:29:44] [Server thread/INFO]: verry_manu[/127.0.0.1:52515] logged in with entity id 1218 at ([Lobby]-66.5, 22.0, -3.5)
+[19:29:44] [Craft Scheduler Thread - 47/WARN]: Exception in thread "Craft Scheduler Thread - 47" 
+[19:29:44] [Craft Scheduler Thread - 47/WARN]: org.apache.commons.lang.UnhandledException: Plugin Essentials vTeamCity generated an exception while executing task 561
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NoSuchMethodError: com.earth2me.essentials.ISettings.getSpawnOnJoinGroups()Ljava/util/List;
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.delayedJoin(EssentialsSpawnPlayerListener.java:75)
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener$1.run(EssentialsSpawnPlayerListener.java:67)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	... 3 more
+
+[19:29:48] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:34:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[19:34:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[19:35:15] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m

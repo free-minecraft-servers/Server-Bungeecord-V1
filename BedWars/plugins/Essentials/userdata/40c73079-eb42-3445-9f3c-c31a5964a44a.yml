@@ -1,0 +1,19 @@
+lastAccountName: Admin
+timestamps:
+  login: 1502174287242
+  logout: 1502175933866
+ipAddress: 192.168.1.108
+lastlocation:
+  world: world
+  x: -307.5
+  y: 64.0
+  z: 198.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: Lobby
+  x: 48.34053862114523
+  y: 177.0
+  z: -66.3765281214136
+  yaw: -120.34667
+  pitch: 10.460478

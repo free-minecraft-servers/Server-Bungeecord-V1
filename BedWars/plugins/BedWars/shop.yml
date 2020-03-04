@@ -1,0 +1,107 @@
+Shop:
+  Armor:
+    CHAINMAIL_BOOTS:
+      Name: Permanent Chainmail Armor
+      Price: 40
+      PriceItem: I
+    IRON_BOOTS:
+      Name: Permanent Iron Armor
+      Price: 12
+      PriceItem: G
+    DIAMOND_BOOTS:
+      Name: Permanent Diamond Armor
+      Price: 6
+      PriceItem: E
+  Blocks:
+    WOOL:
+      Name: Wool
+      Price: 4
+      PriceItem: I
+    SANDSTONE:
+      Name: Sandstone
+      Price: 12
+      PriceItem: I
+    ENDER_STONE:
+      Name: End Stone
+      Price: 24
+      PriceItem: I
+    LADDER:
+      Name: Ladder
+      Price: 4
+      PriceItem: I
+    WOOD:
+      Name: Oak Wood
+      Price: 4
+      PriceItem: G
+    OBSIDIAN:
+      Name: Obsidian
+      Price: 4
+      PriceItem: E
+  Ranged:
+    ARROW:
+      Name: Arrow
+      Price: 2
+      PriceItem: G
+  Melee:
+    STONE_SWORD:
+      Name: Stone Sword
+      Price: 20
+      PriceItem: I
+    IRON_SWORD:
+      Name: Iron Sword
+      Price: 8
+      PriceItem: G
+    DIAMOND_SWORD:
+      Name: Diamond Sword
+      Price: 4
+      PriceItem: E
+    STICK:
+      Name: Stick
+      Price: 5
+      PriceItem: E
+  Tools:
+    SHEARS:
+      Name: Shears
+      Price: 20
+      PriceItem: I
+    IRON_PICKAXE:
+      Name: Iron Pickaxe
+      Price: 30
+      PriceItem: I
+    DIAMOND_PICKAXE:
+      Name: Diamond Pickaxe
+      Price: 12
+      PriceItem: G
+    DIAMOND_AXE:
+      Name: Diamond Axe
+      Price: 12
+      PriceItem: G
+  Utility:
+    GOLDEN_APPLE:
+      Name: Golden Apple
+      Price: 2
+      PriceItem: G
+    ENDER_PEARL:
+      Name: Ender Pearl
+      Price: 4
+      PriceItem: E
+    MONSTER_EGG:
+      Name: Iron Golem Egg
+      Price: 50
+      PriceItem: G
+    SNOW_BALL:
+      Name: Icefish
+      Price: 50
+      PriceItem: I
+    FIREBALL:
+      Name: Fireball
+      Price: 100
+      PriceItem: I
+    TNT:
+      Name: TNT
+      Price: 20
+      PriceItem: G
+    WATER_BUCKET:
+      Name: Water Bucket
+      Price: 1
+      PriceItem: E

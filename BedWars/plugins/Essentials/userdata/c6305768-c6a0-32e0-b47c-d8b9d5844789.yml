@@ -1,0 +1,23 @@
+lastAccountName: ZeroGamesYT
+timestamps:
+  login: 1505293186224
+  logout: 1505294850576
+  lastteleport: 1505293435009
+ipAddress: 192.168.1.90
+lastlocation:
+  world: Chained
+  x: 1.3224505077649513
+  y: 63.5
+  z: -84.68489659256419
+  yaw: -352.047
+  pitch: 20.020672
+logoutlocation:
+  world: Lobby
+  x: -40.14099085903603
+  y: 71.0
+  z: 0.7747064446565715
+  yaw: -82.99808
+  pitch: 5.399999
+powertools:
+  '339':
+  - kill nguoidinhlon

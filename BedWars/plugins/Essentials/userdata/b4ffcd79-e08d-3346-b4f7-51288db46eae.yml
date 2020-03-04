@@ -1,0 +1,22 @@
+lastAccountName: The_Dark
+timestamps:
+  login: 1502952128837
+  logout: 1502952423242
+  lastteleport: 1502261137886
+ipAddress: 192.168.1.109
+lastlocation:
+  world: Lobby
+  x: -22.536735316744448
+  y: -195.94790199044724
+  z: 15.44733569891597
+  yaw: -237.79774
+  pitch: -90.0
+logoutlocation:
+  world: Lobby
+  x: -7.644062573214203
+  y: 67.0
+  z: -13.662602269892771
+  yaw: -147.64781
+  pitch: 13.949999
+money: '2000'
+afk: false

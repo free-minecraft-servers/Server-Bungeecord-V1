@@ -1,0 +1,21 @@
+lastlocation:
+  world: Lotus
+  x: -13.679543400663384
+  y: 130.86891904601276
+  z: -16.821402855985042
+  yaw: -41.28978
+  pitch: 21.638517
+lastAccountName: Wassim_
+timestamps:
+  login: 1515875014255
+  logout: 1515875469718
+  lastteleport: 1514764501101
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Lobby
+  x: -66.46695724843647
+  y: 22.0
+  z: -0.7118369005152949
+  yaw: -247.95166
+  pitch: 10.407102
+afk: false

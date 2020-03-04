@@ -1,0 +1,20 @@
+uuid: b9231c19-521a-301c-b0f9-268391a1ef6b
+timestamps:
+  login: 1505286457921
+  logout: 1499241317144
+  lastteleport: 1499502513583
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: spawn
+  x: -208.83955930320073
+  y: 38.3655521544644
+  z: -388.5023932727128
+  yaw: 4.951359
+  pitch: 19.721138
+lastlocation:
+  world: spawn
+  x: -132.6850453183898
+  y: 170.0
+  z: -1394.7800282671092
+  yaw: -93.546555
+  pitch: 44.627094

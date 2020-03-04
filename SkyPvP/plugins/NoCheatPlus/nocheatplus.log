@@ -1,0 +1,761 @@
+18-04-30 19:52:57 [INFORMAZIONI] Logger started.
+18-04-30 19:52:58 [INFORMAZIONI] Logging system initialized.
+18-04-30 19:52:58 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 19:53:23 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 19:53:23 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 19:53:23 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 19:53:23 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 19:53:23 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 19:53:23 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 19:53:23 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 19:53:23 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 19:53:29 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 19:53:29 [INFORMAZIONI] Post-enable running...
+18-04-30 19:53:29 [INFORMAZIONI] Post-enable finished.
+18-04-30 19:53:29 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 19:56:05 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 19:56:05 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+18-04-30 20:47:20 [INFORMAZIONI] Logger started.
+18-04-30 20:47:20 [INFORMAZIONI] Logging system initialized.
+18-04-30 20:47:20 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 20:47:23 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 20:47:23 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 20:47:23 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 20:47:23 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 20:47:23 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 20:47:23 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 20:47:23 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 20:47:23 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 20:47:24 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 20:47:24 [INFORMAZIONI] Post-enable running...
+18-04-30 20:47:24 [INFORMAZIONI] Post-enable finished.
+18-04-30 20:47:24 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 21:09:04 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 21:09:04 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 7450 (7450/0) | event.player.move.handled.pos 1727 (1727/0) | event.player.move.handled.look 465 (465/0) | event.player.move.handled.pos_look 5237 (5237/0) |
+18-04-30 21:09:05 [INFORMAZIONI] Logger started.
+18-04-30 21:09:05 [INFORMAZIONI] Logging system initialized.
+18-04-30 21:09:05 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 21:09:07 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 21:09:07 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 21:09:07 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 21:09:07 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 21:09:07 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 21:09:07 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 21:09:07 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 21:09:07 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 21:09:08 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 21:09:08 [INFORMAZIONI] Post-enable running...
+18-04-30 21:09:08 [INFORMAZIONI] Post-enable finished.
+18-04-30 21:09:08 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 21:10:57 [INFORMAZIONI] Logger started.
+18-04-30 21:10:57 [INFORMAZIONI] Logging system initialized.
+18-04-30 21:10:57 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 21:11:01 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 21:11:01 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 21:11:01 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 21:11:01 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 21:11:01 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 21:11:01 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 21:11:01 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 21:11:01 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 21:11:04 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 21:11:04 [INFORMAZIONI] Post-enable running...
+18-04-30 21:11:04 [INFORMAZIONI] Post-enable finished.
+18-04-30 21:11:04 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 21:12:34 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 21:12:34 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+18-04-30 21:13:59 [INFORMAZIONI] Logger started.
+18-04-30 21:13:59 [INFORMAZIONI] Logging system initialized.
+18-04-30 21:13:59 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 21:14:02 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 21:14:02 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 21:14:02 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 21:14:02 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 21:14:02 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 21:14:02 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 21:14:02 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 21:14:02 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 21:14:04 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 21:14:04 [INFORMAZIONI] Post-enable running...
+18-04-30 21:14:04 [INFORMAZIONI] Post-enable finished.
+18-04-30 21:14:04 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 21:20:01 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 21:20:01 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 852 (852/0) | event.player.move.handled.pos 211 (211/0) | event.player.move.handled.look 71 (71/0) | event.player.move.handled.pos_look 570 (570/0) |
+18-04-30 21:20:02 [INFORMAZIONI] Logger started.
+18-04-30 21:20:02 [INFORMAZIONI] Logging system initialized.
+18-04-30 21:20:02 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 21:20:04 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 21:20:04 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 21:20:04 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 21:20:04 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 21:20:04 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 21:20:04 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 21:20:04 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 21:20:04 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 21:20:05 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 21:20:05 [INFORMAZIONI] Post-enable running...
+18-04-30 21:20:06 [INFORMAZIONI] Post-enable finished.
+18-04-30 21:20:06 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 21:28:02 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 21:28:02 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 161 (161/0) | event.player.move.handled.pos 84 (84/0) | event.player.move.handled.look 8 (8/0) | event.player.move.handled.pos_look 69 (69/0) |
+18-04-30 21:28:02 [INFORMAZIONI] Logger started.
+18-04-30 21:28:02 [INFORMAZIONI] Logging system initialized.
+18-04-30 21:28:02 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 21:28:05 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 21:28:05 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 21:28:05 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 21:28:05 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 21:28:05 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 21:28:05 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 21:28:05 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 21:28:05 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 21:28:07 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 21:28:07 [INFORMAZIONI] Post-enable running...
+18-04-30 21:28:07 [INFORMAZIONI] Updated data for 1 players (post-enable).
+18-04-30 21:28:07 [INFORMAZIONI] Post-enable finished.
+18-04-30 21:28:08 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 21:31:57 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 21:31:57 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 46 (46/0) | event.player.move.handled.pos 22 (22/0) | event.player.move.handled.look 8 (8/0) | event.player.move.handled.pos_look 16 (16/0) |
+18-04-30 21:31:57 [INFORMAZIONI] Logger started.
+18-04-30 21:31:57 [INFORMAZIONI] Logging system initialized.
+18-04-30 21:31:57 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 21:31:59 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 21:32:00 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 21:32:00 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 21:32:00 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 21:32:00 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 21:32:00 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 21:32:00 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 21:32:00 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 21:32:01 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 21:32:01 [INFORMAZIONI] Post-enable running...
+18-04-30 21:32:01 [INFORMAZIONI] Updated data for 1 players (post-enable).
+18-04-30 21:32:01 [INFORMAZIONI] Post-enable finished.
+18-04-30 21:32:01 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 21:56:49 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 21:56:49 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 5833 (5833/0) | event.player.move.handled.pos 2394 (2394/0) | event.player.move.handled.look 648 (648/0) | event.player.move.handled.pos_look 2775 (2775/0) |
+18-04-30 21:56:50 [INFORMAZIONI] Logger started.
+18-04-30 21:56:50 [INFORMAZIONI] Logging system initialized.
+18-04-30 21:56:50 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 21:56:53 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 21:56:53 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 21:56:53 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 21:56:53 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 21:56:54 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 21:56:54 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 21:56:54 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 21:56:54 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 21:56:56 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 21:56:56 [INFORMAZIONI] Post-enable running...
+18-04-30 21:56:56 [INFORMAZIONI] Updated data for 2 players (post-enable).
+18-04-30 21:56:56 [INFORMAZIONI] Post-enable finished.
+18-04-30 21:56:57 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 21:57:34 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 21:57:34 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 134 (134/0) | event.player.move.handled.pos 79 (79/0) | event.player.move.handled.look 14 (14/0) | event.player.move.handled.pos_look 41 (41/0) |
+18-04-30 21:57:37 [INFORMAZIONI] Logger started.
+18-04-30 21:57:37 [INFORMAZIONI] Logging system initialized.
+18-04-30 21:57:37 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 21:57:39 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 21:57:39 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 21:57:39 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 21:57:39 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 21:57:39 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 21:57:39 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 21:57:39 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 21:57:39 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 21:57:42 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 21:57:42 [INFORMAZIONI] Post-enable running...
+18-04-30 21:57:43 [INFORMAZIONI] Updated data for 2 players (post-enable).
+18-04-30 21:57:43 [INFORMAZIONI] Post-enable finished.
+18-04-30 21:57:43 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 21:59:07 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 21:59:07 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 32 (32/0) | event.player.move.handled.pos 27 (27/0) | event.player.move.handled.look 5 (5/0) | event.player.move.handled.pos_look 0 |
+18-04-30 21:59:08 [INFORMAZIONI] Logger started.
+18-04-30 21:59:08 [INFORMAZIONI] Logging system initialized.
+18-04-30 21:59:08 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 21:59:10 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 21:59:10 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 21:59:10 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 21:59:10 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 21:59:11 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 21:59:11 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 21:59:11 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 21:59:11 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 21:59:14 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 21:59:14 [INFORMAZIONI] Post-enable running...
+18-04-30 21:59:14 [INFORMAZIONI] Updated data for 1 players (post-enable).
+18-04-30 21:59:14 [INFORMAZIONI] Post-enable finished.
+18-04-30 21:59:14 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 22:13:16 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 22:13:16 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 3363 (3363/0) | event.player.move.handled.pos 1197 (1197/0) | event.player.move.handled.look 159 (159/0) | event.player.move.handled.pos_look 2005 (2005/0) |
+18-04-30 22:13:17 [INFORMAZIONI] Logger started.
+18-04-30 22:13:17 [INFORMAZIONI] Logging system initialized.
+18-04-30 22:13:17 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 22:13:20 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 22:13:20 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 22:13:20 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 22:13:20 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 22:13:21 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 22:13:21 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 22:13:21 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 22:13:21 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 22:13:23 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 22:13:23 [INFORMAZIONI] Post-enable running...
+18-04-30 22:13:23 [INFORMAZIONI] Updated data for 1 players (post-enable).
+18-04-30 22:13:23 [INFORMAZIONI] Post-enable finished.
+18-04-30 22:13:23 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 22:15:58 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 22:15:58 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 497 (497/0) | event.player.move.handled.pos 128 (128/0) | event.player.move.handled.look 20 (20/0) | event.player.move.handled.pos_look 348 (348/0) |
+18-04-30 22:15:59 [INFORMAZIONI] Logger started.
+18-04-30 22:15:59 [INFORMAZIONI] Logging system initialized.
+18-04-30 22:15:59 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 22:16:01 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 22:16:01 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 22:16:01 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 22:16:01 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 22:16:02 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 22:16:02 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 22:16:02 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 22:16:02 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 22:16:03 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 22:16:03 [INFORMAZIONI] Post-enable running...
+18-04-30 22:16:04 [INFORMAZIONI] Updated data for 2 players (post-enable).
+18-04-30 22:16:04 [INFORMAZIONI] Post-enable finished.
+18-04-30 22:16:04 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 22:17:16 [INFORMAZIONI] Logger started.
+18-04-30 22:17:16 [INFORMAZIONI] Logging system initialized.
+18-04-30 22:17:16 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 22:17:26 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 22:17:26 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 22:17:26 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 22:17:26 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 22:17:26 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 22:17:26 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 22:17:26 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 22:17:27 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 22:17:30 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 22:17:30 [INFORMAZIONI] Post-enable running...
+18-04-30 22:17:30 [INFORMAZIONI] Post-enable finished.
+18-04-30 22:17:30 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 22:17:54 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 22:17:54 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 92 (92/0) | event.player.move.handled.pos 26 (26/0) | event.player.move.handled.look 2 (2/0) | event.player.move.handled.pos_look 64 (64/0) |
+18-04-30 22:17:57 [INFORMAZIONI] Logger started.
+18-04-30 22:17:57 [INFORMAZIONI] Logging system initialized.
+18-04-30 22:17:57 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 22:18:00 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 22:18:00 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 22:18:00 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 22:18:00 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 22:18:00 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 22:18:00 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 22:18:00 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 22:18:00 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 22:18:02 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 22:18:02 [INFORMAZIONI] Post-enable running...
+18-04-30 22:18:03 [INFORMAZIONI] Updated data for 1 players (post-enable).
+18-04-30 22:18:03 [INFORMAZIONI] Post-enable finished.
+18-04-30 22:18:03 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 22:19:02 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 22:19:02 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+18-04-30 22:19:04 [INFORMAZIONI] Logger started.
+18-04-30 22:19:04 [INFORMAZIONI] Logging system initialized.
+18-04-30 22:19:04 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 22:19:06 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 22:19:06 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 22:19:06 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 22:19:06 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 22:19:07 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 22:19:07 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 22:19:07 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 22:19:07 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 22:19:10 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 22:19:10 [INFORMAZIONI] Post-enable running...
+18-04-30 22:19:10 [INFORMAZIONI] Updated data for 1 players (post-enable).
+18-04-30 22:19:10 [INFORMAZIONI] Post-enable finished.
+18-04-30 22:19:10 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 22:19:58 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 22:19:58 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 270 (270/0) | event.player.move.handled.pos 128 (128/0) | event.player.move.handled.look 2 (2/0) | event.player.move.handled.pos_look 140 (140/0) |
+18-04-30 22:20:01 [INFORMAZIONI] Logger started.
+18-04-30 22:20:02 [INFORMAZIONI] Logging system initialized.
+18-04-30 22:20:02 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 22:20:04 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 22:20:04 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 22:20:04 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 22:20:04 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 22:20:04 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 22:20:04 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 22:20:04 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 22:20:04 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 22:20:07 [INFORMAZIONI] Post-enable running...
+18-04-30 22:20:07 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 22:20:07 [INFORMAZIONI] Updated data for 1 players (post-enable).
+18-04-30 22:20:07 [INFORMAZIONI] Post-enable finished.
+18-04-30 22:20:07 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 22:39:46 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 22:39:46 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 772 (772/0) | event.player.move.handled.pos 295 (295/0) | event.player.move.handled.look 43 (43/0) | event.player.move.handled.pos_look 432 (432/0) |
+18-04-30 23:22:06 [INFORMAZIONI] Logger started.
+18-04-30 23:22:06 [INFORMAZIONI] Logging system initialized.
+18-04-30 23:22:06 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-04-30 23:22:09 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-04-30 23:22:09 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-04-30 23:22:09 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-04-30 23:22:09 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-04-30 23:22:09 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-04-30 23:22:09 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-04-30 23:22:09 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-04-30 23:22:09 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-04-30 23:22:15 [INFORMAZIONI] Post-enable running...
+18-04-30 23:22:15 [INFORMAZIONI] Post-enable finished.
+18-04-30 23:22:15 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-04-30 23:22:15 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-04-30 23:23:20 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-04-30 23:23:20 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 46 (46/0) | event.player.move.handled.pos 16 (16/0) | event.player.move.handled.look 10 (10/0) | event.player.move.handled.pos_look 20 (20/0) |
+18-05-01 12:20:13 [INFORMAZIONI] Logger started.
+18-05-01 12:20:13 [INFORMAZIONI] Logging system initialized.
+18-05-01 12:20:13 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-05-01 12:20:19 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-05-01 12:20:19 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-05-01 12:20:19 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-05-01 12:20:19 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-05-01 12:20:19 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-05-01 12:20:19 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-05-01 12:20:19 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-05-01 12:20:19 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-05-01 12:20:24 [INFORMAZIONI] Post-enable running...
+18-05-01 12:20:24 [INFORMAZIONI] Post-enable finished.
+18-05-01 12:20:24 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-05-01 12:20:24 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-05-01 12:20:38 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-05-01 12:20:38 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+18-05-01 12:20:41 [INFORMAZIONI] Logger started.
+18-05-01 12:20:41 [INFORMAZIONI] Logging system initialized.
+18-05-01 12:20:41 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-05-01 12:20:41 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-05-01 12:20:41 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-05-01 12:20:41 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-05-01 12:20:41 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-05-01 12:20:41 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-05-01 12:20:41 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-05-01 12:20:41 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-05-01 12:20:41 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-05-01 12:20:43 [INFORMAZIONI] Post-enable running...
+18-05-01 12:20:43 [INFORMAZIONI] Post-enable finished.
+18-05-01 12:20:43 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-05-01 12:20:43 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-05-01 12:26:10 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-05-01 12:26:10 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 306 (306/0) | event.player.move.handled.pos 159 (159/0) | event.player.move.handled.look 21 (21/0) | event.player.move.handled.pos_look 126 (126/0) |
+18-05-01 12:26:11 [INFORMAZIONI] Logger started.
+18-05-01 12:26:11 [INFORMAZIONI] Logging system initialized.
+18-05-01 12:26:11 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-05-01 12:26:12 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-05-01 12:26:12 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-05-01 12:26:12 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-05-01 12:26:12 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-05-01 12:26:12 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-05-01 12:26:12 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-05-01 12:26:12 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-05-01 12:26:12 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-05-01 12:26:15 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-05-01 12:26:15 [INFORMAZIONI] Post-enable running...
+18-05-01 12:26:16 [INFORMAZIONI] Updated data for 1 players (post-enable).
+18-05-01 12:26:16 [INFORMAZIONI] Post-enable finished.
+18-05-01 12:26:16 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-05-01 12:27:58 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-05-01 12:27:58 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 254 (254/0) | event.player.move.handled.pos 84 (84/0) | event.player.move.handled.look 4 (4/0) | event.player.move.handled.pos_look 166 (166/0) |
+18-05-01 12:27:59 [INFORMAZIONI] Logger started.
+18-05-01 12:27:59 [INFORMAZIONI] Logging system initialized.
+18-05-01 12:27:59 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-05-01 12:28:00 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-05-01 12:28:00 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-05-01 12:28:00 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-05-01 12:28:00 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-05-01 12:28:00 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-05-01 12:28:00 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-05-01 12:28:00 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-05-01 12:28:00 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-05-01 12:28:03 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-05-01 12:28:04 [INFORMAZIONI] Post-enable running...
+18-05-01 12:28:04 [INFORMAZIONI] Updated data for 1 players (post-enable).
+18-05-01 12:28:04 [INFORMAZIONI] Post-enable finished.
+18-05-01 12:28:04 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-05-01 12:48:28 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-05-01 12:48:28 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 1316 (1316/0) | event.player.move.handled.pos 467 (467/0) | event.player.move.handled.look 158 (158/0) | event.player.move.handled.pos_look 691 (691/0) |
+18-05-01 12:48:31 [INFORMAZIONI] Logger started.
+18-05-01 12:48:31 [INFORMAZIONI] Logging system initialized.
+18-05-01 12:48:31 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-05-01 12:48:33 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-05-01 12:48:33 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-05-01 12:48:33 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-05-01 12:48:33 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-05-01 12:48:33 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-05-01 12:48:33 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-05-01 12:48:33 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-05-01 12:48:33 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-05-01 12:48:37 [INFORMAZIONI] Post-enable running...
+18-05-01 12:48:37 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-05-01 12:48:38 [INFORMAZIONI] Updated data for 2 players (post-enable).
+18-05-01 12:48:38 [INFORMAZIONI] Post-enable finished.
+18-05-01 12:48:38 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-05-01 13:08:56 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-05-01 13:08:56 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 1950 (1950/0) | event.player.move.handled.pos 812 (812/0) | event.player.move.handled.look 129 (129/0) | event.player.move.handled.pos_look 1008 (1008/0) |
+18-05-01 13:13:34 [INFORMAZIONI] Logger started.
+18-05-01 13:13:34 [INFORMAZIONI] Logging system initialized.
+18-05-01 13:13:34 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-05-01 13:13:38 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-05-01 13:13:38 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-05-01 13:13:38 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-05-01 13:13:38 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-05-01 13:13:38 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-05-01 13:13:38 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-05-01 13:13:38 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-05-01 13:13:38 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-05-01 13:13:41 [INFORMAZIONI] Post-enable running...
+18-05-01 13:13:41 [INFORMAZIONI] Post-enable finished.
+18-05-01 13:13:41 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-05-01 13:13:41 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-05-01 13:22:40 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-05-01 13:22:40 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 1025 (1025/0) | event.player.move.handled.pos 546 (546/0) | event.player.move.handled.look 13 (13/0) | event.player.move.handled.pos_look 466 (466/0) |
+18-05-18 19:27:48 [INFORMAZIONI] Logger started.
+18-05-18 19:27:48 [INFORMAZIONI] Logging system initialized.
+18-05-18 19:27:48 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-05-18 19:27:53 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-05-18 19:27:53 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-05-18 19:27:53 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-05-18 19:27:53 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-05-18 19:27:54 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-05-18 19:27:54 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-05-18 19:27:54 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-05-18 19:27:54 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-05-18 19:27:57 [INFORMAZIONI] Post-enable running...
+18-05-18 19:27:58 [INFORMAZIONI] Post-enable finished.
+18-05-18 19:27:58 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-05-18 19:27:58 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0
+18-05-18 19:29:27 [INFORMAZIONI] Removed hook: AllViolations(NCP) [1.0].
+18-05-18 19:29:27 [BUONO] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 44 (44/0) | event.player.move.handled.pos 34 (34/0) | event.player.move.handled.look 2 (2/0) | event.player.move.handled.pos_look 8 (8/0) |
+18-05-18 19:29:28 [INFORMAZIONI] Logger started.
+18-05-18 19:29:28 [INFORMAZIONI] Logging system initialized.
+18-05-18 19:29:28 [INFORMAZIONI] Detected Minecraft version: 1.7.10
+18-05-18 19:29:29 [INFORMAZIONI] McAccess set to: 1.7.10 / CB3100
+18-05-18 19:29:29 [INFORMAZIONI] Added block-info for Minecraft 1.5 blocks.
+18-05-18 19:29:29 [INFORMAZIONI] Added block-info for Minecraft 1.6.1 blocks.
+18-05-18 19:29:29 [INFORMAZIONI] Added block-info for Minecraft 1.7.2 blocks.
+18-05-18 19:29:29 [INFORMAZIONI] Inventory checks: FastConsume is available, disabled InstantEat.
+18-05-18 19:29:29 [AVVERTENZA] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+18-05-18 19:29:29 [INFORMAZIONI] Packet level access: ProtocolLib is not available.
+18-05-18 19:29:29 [INFORMAZIONI] Version 3.14.0-SNAPSHOT-sMD5NET-b960 is enabled.
+18-05-18 19:29:32 [INFORMAZIONI] Added hook: AllViolations(NCP) [1.0].
+18-05-18 19:29:33 [INFORMAZIONI] Post-enable running...
+18-05-18 19:29:33 [INFORMAZIONI] Updated data for 1 players (post-enable).
+18-05-18 19:29:33 [INFORMAZIONI] Post-enable finished.
+18-05-18 19:29:33 [INFORMAZIONI] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b960
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.7.0

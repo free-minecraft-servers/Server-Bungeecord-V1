@@ -1,0 +1,441 @@
+# █  █ █  █ █▀▀▄   █▀▀▀█ █   █ █▀▀█ █▀▀█ █▀▀▄ 
+# █▀▀█ █  █ █▀▀▄   ▀▀▀▄▄ █▄█▄█ █  █ █▄▄▀ █  █ 
+# █  █  ▀▀▀ ▀▀▀    █▄▄▄█  ▀ ▀  ▀▀▀▀ ▀ ▀▀ ▀▀▀ 
+ 
+# █▀▀█ █  █ ▄  █    ▀ █▀▄▀█ █▀▀  █▀▀█ █   █▀▀█ █▀▀ █▀▀ 
+# █▀▀▄ █▄▄█    █    █ █ ▀ █ █▀▀  █ ▄▄ █   █▄▄█ ▀▀█ ▀▀█ 
+# █▄▄█ ▄▄▄█ ▀  █▄▄█ ▀ ▀   ▀ ▀▀▀  █▄▄█ ▀▀▀ ▀  ▀ ▀▀▀ ▀▀▀ 
+
+#My spigot page: https://www.spigotmc.org/members/limeglass.36610/
+#----------------------------------------------------------
+#Config below, edit it to your liking :D
+options:
+	swordprefixon: &6&lPvP: &a&lON
+	swordprefixoff: &6&lPvP: &c&lOFF
+	prefix: &6[&c&lHubSword&r&6]
+	MainColor: &6
+	SecondColor: &e
+	DenyColor: &c
+#Disable the waiting message if you have like a gui making this setting true or false :P
+#This also includes disabling sounds, messages, and waiting times
+	DisableWait: false
+#set if you want players to be in pvpmode or not when they login (flase/true)
+	OnJoinPVPMode: false
+#Timmings, Time between toggle of PVP mode
+	PVPToggleTime: 1 second
+#world configurations
+	#Worlds that HubSword works in (If you want multiple worlds, tell me in discussion, I can give you an example)
+	World: world
+#Weapon
+	sword: diamond sword
+	swordenchant: sharpness
+	swordenchantlevel: 1
+#Slot number (0-35)
+	slot: 0
+#Armor (Enchants coming soon)
+	helmet: iron helmet
+	chestplate: iron chestplate
+	leggings: iron leggings
+	boots: iron boots
+#Particle
+	#Particle List http://hastebin.com/ibumabezen.md
+	Particle: REDSTONE
+	ParticleAmount: 20
+	#Position is the particle offset from player, if you don't know what this is, I recommend not touching it
+	ParticlePosition: 0.5, 1.5, 0.5
+#Language files
+	DeniedPermission: You do not have the correct permissions
+	DenyDrop: You are not allowed to drop that
+	FlyDenyMessage: You cannot be flying to enable pvp
+	CreativeDenyMessage: You cannot be in creative to enable pvp
+	DenyCommand: You can only use /hubsword commands while in pvp mode, right click sword again to get out of pvp mode
+	enable3: &aPvP enabled in 3...
+	enable2: &aPvP enabled in 2...
+	enable1: &aPvP enabled in 1...
+	disable3: &cPvP disabled in 3...
+	disable2: &cPvP disabled in 2...
+	disable1: &cPvP disabled in 1...
+	Help1: /HubSword info/i
+	Help1Description: - Shows info on HubSword
+	Help2: /HubSword reload/r
+	Help2Description: - Reloads HubSword
+	Help3: /HubSword enchantment/e
+	Help3Description: - Enable/Disable enchantments
+	Help4: /HubSword autoupdate/a
+	Help4Description: - Disable/Enable AutoUpdater
+	Help5: /HubSword particle/p
+	Help5Description: - Disable/Enable particles
+	Help6: /HubSword disablewait/d
+	Help6Description: - Disable/Enable Waiting, this includes, sound, messages and times
+	HalfLine: &m---------------
+	Line: &m-------------------------------------------
+	EnchantTrue: &lEnchantments has been set to True
+	EnchantFalse: &lEnchantments has been set to False
+	UpdaterFalse: &lAutoUpdater has been set to False
+	UpdaterTrue: &lAutoUpdater has been set to True
+	ParticleFalse: &lParticles have been set to False
+	ParticleTrue: &lParticles have been set to True
+	UpdaterDenied: AutoUpdater disabled! Abandoning update
+	FailedPVPmodeON: You're already in PVP mode
+	FailedPVPmodeOFF: You're already out of PVP mode
+	FailedManualCommand: Error, Invalid arguments, you must put Enable or Disable after the command
+	DisableWaitMessage: &lDisable waiting has been set to
+#command You can edit the command for the /hubsword here, if /hubsword is interfering with another plugin
+#WARNING: This does not update the messages, only the command, you will have to edit that manually if you would like
+	command: /hubsword
+	#The ManualOverRidePermission is a custom permission to give players to allow
+	#them to manually enable or disalbe their pvpmode
+	ManualOverRidePermission: hubsword.changestate
+	ManualOverrideCommand: /hs
+	#After the command above will be enable/disable ex: /hs enable/disable
+	DeniedOverrideMessage: Sorry, but you don't have the correct permissions
+#sounds
+	SoundCountdown3: note.pling
+	Countdownpitch3: 3
+	Countdownvolume3: 3
+	SoundCountdown2: note.pling
+	Countdownpitch2: 1.5
+	Countdownvolume2: 3
+	SoundCountdown1: note.pling
+	Countdownpitch1: 1
+	Countdownvolume1: 3
+	SoundpvpON: mob.wither.death
+	PitchON: 1.5
+	VolumeON: 3
+	SoundpvpOFF: mob.wither.shoot
+	PitchOFF: 1.5
+	VolumeOFF: 3
+#Info messages, I recommend not changing these, unless you need to translate them
+	HubSwordVer: HubSword version
+	ServerVersion: Server version
+	SwordType: Sword type
+	ArmorTypes: Armor types
+	UpdateReady: A new update is ready
+	AutoUpdater: AutoUpdater
+	Enchantments: Enchantments
+	Particles: Particles
+	DisableWaitInfo: DisableWait
+	No: You're running the newest update
+	No1: No
+	Not: Not
+	Yes: Yes
+	Enabled: Enabled
+	Disabled: Disabled
+	Running: Running
+#Update messages, I recommend not changing these, unless you need to translate them
+	UpdateNote: There is a new update for HubSword!
+	Updating: Auto updater is set to true, Updating now, please wait...
+	UpdateFinish: Update complete for HubSword :D
+#-----------------------------------------------------------------
+
+#DON'T TOUCH ANYTHING BELOW, OR THE SKRIPT MIGHT NOT RUN CORRECTLY
+
+#-----------------------------------------------------------------
+	Version: 1.2.8
+On Skript Start:
+	if {hubsword.autoupdate} is not set:
+		set {hubsword.autoupdate} to false
+	if {hubsword.enchant} is not set:
+		set {hubsword.enchant} to true
+	if {hubsword.particle} is not set:
+		set {hubsword.particle} to true
+	set {hubsword.disablewait} to "{@DisableWait}"
+on join:
+	wait 1 tick
+	if player is in "{@World}":
+		if player has permission "hubsword.give" or "hubsword.admin":
+			set {hubsword.%player%.pvpmode} to {@OnJoinPVPMode}
+			if {hubsword.enchant} is false:
+				set slot {@slot} of player's inventory to {@sword} named "{@swordprefixoff}"
+			else:
+				set slot {@slot} of player's inventory to {@sword} of {@swordenchant} {@swordenchantlevel} named "{@swordprefixoff}"
+command {@command} [<text>]:
+	permission: hubsword.admin
+	permission message: {@DenyColor}{@DeniedPermission}
+	trigger:
+		if arg 1 is not set:
+			message "{@MainColor}{@HalfLine}&r {@prefix}&r{@MainColor}{@HalfLine}"
+			message "{@MainColor}{@Help1}&r {@SecondColor}{@Help1Description}"
+			message "{@MainColor}{@Help2}&r {@SecondColor}{@Help2Description}"
+			message "{@MainColor}{@Help3}&r {@SecondColor}{@Help3Description}"
+			message "{@MainColor}{@Help4}&r {@SecondColor}{@Help4Description}"
+			message "{@MainColor}{@Help5}&r {@SecondColor}{@Help5Description}"
+			message "{@MainColor}{@Help6}&r {@SecondColor}{@Help6Description}"
+			message "{@MainColor}{@Line}"
+		if arg 1 is "info" or "i":
+			message "{@MainColor}{@HalfLine}&r{@prefix}&r{@MainColor}{@HalfLine}"
+			set {_info} to bukkit version
+			message "&6&lHub Sword made by &a&lLimeGlass"
+			message "{@SecondColor}{@HubSwordVer}&r: {@Version}"
+			message "{@SecondColor}{@ServerVersion}&r: %{_info}%"
+			message "{@SecondColor}{@SwordType}&r: {@sword}"
+			message "{@SecondColor}{@ArmorTypes}&r: {@helmet}, {@chestplate}, {@leggings}, {@boots}"
+			if {new.update.ready} is true:
+				message "{@SecondColor}{@UpdateReady}&r: {@Yes}"
+			else:
+				message "{@SecondColor}{@UpdateReady}&r: {@No}"
+			if {hubsword.autoupdate} is true:
+				message "{@SecondColor}{@AutoUpdater}&r: {@Running}"
+			else:
+				message "{@SecondColor}{@AutoUpdater}&r: {@Not} {@Running}"
+			if {hubsword.enchant} is true:
+				message "{@SecondColor}{@Enchantments}&r: {@Enabled}"
+			else:
+				message "{@SecondColor}{@Enchantments}&r: {@Disabled}"
+			if {hubsword.particle} is true:
+				message "{@SecondColor}{@Particles}&r: {@Enabled}"
+			else:
+				message "{@SecondColor}{@Particles}&r: {@Disabled}"
+			if {hubsword.disablewait} is true:
+				message "{@SecondColor}{@DisableWaitInfo}&r: {@Enabled}"
+			else:
+				message "{@SecondColor}{@DisableWaitInfo}&r: {@Disabled}"
+			message "{@MainColor}{@Line}"
+		if arg 1 is "autoupdate" or "a":
+			if {hubsword.autoupdate} is true:
+				set {hubsword.autoupdate} to false
+				message "{@prefix} &r{@MainColor}{@UpdaterFalse}"
+			else:
+				set {hubsword.autoupdate} to true
+				message "{@prefix} &r{@MainColor}{@UpdaterTrue}"
+		if arg 1 is "disablewait" or "d":
+			if {hubsword.disablewait} is true:
+				set {hubsword.disablewait} to false
+				message "{@prefix} &r{@MainColor}{@DisableWaitMessage} {@Enabled}"
+			else:
+				set {hubsword.disablewait} to true
+				message "{@prefix} &r{@MainColor}{@DisableWaitMessage} {@Disabled}"
+		if arg 1 is "particle" or "p":
+			if {hubsword.particle} is true:
+				set {hubsword.particle} to false
+				message "{@prefix} &r{@MainColor}{@ParticleFalse}"
+			else:
+				set {hubsword.particle} to true
+				message "{@prefix} &r{@MainColor}{@ParticleTrue}"
+		if arg 1 is "reload" or "r":
+			message "{@MainColor}{@HalfLine}&r{@prefix}&r{@MainColor}{@HalfLine}"
+			run player command "/skript reload HubSword" as op
+			message "{@MainColor}{@Line}"
+		if arg 1 is "Enchantment" or "e":
+			if {hubsword.enchant} is true:
+				set {hubsword.enchant} to false
+				message "{@prefix} &r{@MainColor}{@EnchantFalse}"
+			else:
+				set {hubsword.enchant} to true
+				message "{@prefix} &r{@MainColor}{@EnchantTrue}"
+command {@ManualOverrideCommand} [<text>]:
+	permission: {@ManualOverRidePermission}
+	permission message: {@DenyColor}{@DeniedOverrideMessage}
+	trigger:
+		if arg 1 is set:
+			if arg 1 is "enable":
+				if {hubsword.%player%.pvpmode} is false:
+					set {hubsword.%player%.pvpmode} to true
+					if {hubsword.disablewait} is false:
+						message "{@prefix} {@enable3}"
+						play raw sound "{@SoundCountdown3}" at player with pitch {@Countdownpitch3} volume {@Countdownvolume3}
+						wait {@PVPToggleTime}
+						message "{@prefix} {@enable2}"
+						play raw sound "{@SoundCountdown2}" at player with pitch {@Countdownpitch2} volume {@Countdownvolume2}
+						wait {@PVPToggleTime}
+						message "{@prefix} {@enable1}"
+						play raw sound "{@SoundCountdown1}" at player with pitch {@Countdownpitch1} volume {@Countdownvolume1}
+						wait {@PVPToggleTime}
+					equip player with {@helmet}
+					equip player with {@chestplate}
+					equip player with {@leggings}
+					equip player with {@boots}
+					if {hubsword.disablewait} is false:
+						play raw sound "{@SoundpvpON}" at player with pitch {@PitchON} volume {@VolumeON}
+					remove all {@sword} from the player
+					if {hubsword.enchant} is false:
+						set slot {@slot} of player's inventory to {@sword} named "{@swordprefixoff}"
+					else:
+						set slot {@slot} of player's inventory to {@sword} of {@swordenchant} {@swordenchantlevel} named "{@swordprefixoff}"
+				else:
+					message "{@prefix} {@DenyColor}{@FailedPVPmodeON}"
+			else:
+				if arg 1 is "disable":
+					if {hubsword.%player%.pvpmode} is true:
+						set {hubsword.%player%.pvpmode} to false
+						if {hubsword.disablewait} is false:
+							message "{@prefix} {@disable3}"
+							play raw sound "{@SoundCountdown3}" at player with pitch {@Countdownpitch3} volume {@Countdownvolume3}
+							wait {@PVPToggleTime}
+							message "{@prefix} {@disable2}"
+							play raw sound "{@SoundCountdown2}" at player with pitch {@Countdownpitch2} volume {@Countdownvolume2}
+							wait {@PVPToggleTime}
+							message "{@prefix} {@disable1}"
+							play raw sound "{@SoundCountdown1}" at player with pitch {@Countdownpitch1} volume {@Countdownvolume1}
+							wait {@PVPToggleTime}
+						remove {@helmet} from player
+						remove {@chestplate} from player
+						remove {@leggings} from player
+						remove {@boots} from player
+						if {hubsword.disablewait} is false:
+							play raw sound "{@SoundpvpOFF}" at player with pitch {@PitchOFF} volume {@VolumeOFF}
+						remove all {@sword} from the player
+						give a {@sword} named "{@swordprefixoff}" to the player
+					else:
+						message "{@prefix} {@DenyColor}{@FailedPVPmodeOFF}"
+		else:
+			message "{@prefix} {@DenyColor}{@FailedManualCommand} {@ManualOverrideCommand}"
+on rightclick:
+	if player is in "{@World}":
+		if {hubsword.%player%.pvpmode} is false:
+			if player has permission "hubsword.pvp" or "hubsword.admin":
+				if player is not flying:
+					if player's gamemode is not creative:
+						player is holding a {@sword} named "{@swordprefixoff}"
+						set {hubsword.%player%.pvpmode} to true
+						if {hubsword.disablewait} is false:
+							message "{@prefix} {@enable3}"
+							play raw sound "{@SoundCountdown3}" at player with pitch {@Countdownpitch3} volume {@Countdownvolume3}
+							wait {@PVPToggleTime}
+							message "{@prefix} {@enable2}"
+							play raw sound "{@SoundCountdown2}" at player with pitch {@Countdownpitch2} volume {@Countdownvolume2}
+							wait {@PVPToggleTime}
+							message "{@prefix} {@enable1}"
+							play raw sound "{@SoundCountdown1}" at player with pitch {@Countdownpitch1} volume {@Countdownvolume1}
+							wait {@PVPToggleTime}
+						wait 1 tick
+						equip player with {@helmet}
+						equip player with {@chestplate}
+						equip player with {@leggings}
+						equip player with {@boots}
+						if {hubsword.disablewait} is false:
+							play raw sound "{@SoundpvpON}" at player with pitch {@PitchON} volume {@VolumeON}
+						remove all {@sword} from the player
+						if {hubsword.enchant} is false:
+							set slot {@slot} of player's inventory to {@sword} named "{@swordprefixoff}"
+						else:
+							set slot {@slot} of player's inventory to {@sword} of {@swordenchant} {@swordenchantlevel} named "{@swordprefixoff}"
+					else:
+						if player doesn't have permission "hubsword.bypass.gamemode":
+							message "{@prefix} &r{@DenyColor}{@CreativeDenyMessage}"
+						else:
+							player is holding a {@sword} named "{@swordprefixoff}"
+							set {hubsword.%player%.pvpmode} to true
+							if {hubsword.disablewait} is false:
+								message "{@prefix} {@enable3}"
+								play raw sound "{@SoundCountdown3}" at player with pitch {@Countdownpitch3} volume {@Countdownvolume3}
+								wait {@PVPToggleTime}
+								message "{@prefix} {@enable2}"
+								play raw sound "{@SoundCountdown2}" at player with pitch {@Countdownpitch2} volume {@Countdownvolume2}
+								wait {@PVPToggleTime}
+								message "{@prefix} {@enable1}"
+								play raw sound "{@SoundCountdown1}" at player with pitch {@Countdownpitch1} volume {@Countdownvolume1}
+								wait {@PVPToggleTime}
+							wait 1 tick
+							equip player with {@helmet}
+							equip player with {@chestplate}
+							equip player with {@leggings}
+							equip player with {@boots}
+							if {hubsword.disablewait} is false:
+								play raw sound "{@SoundpvpON}" at player with pitch {@PitchON} volume {@VolumeON}
+							remove all {@sword} from the player
+							if {hubsword.enchant} is false:
+								set slot {@slot} of player's inventory to {@sword} named "{@swordprefixoff}"
+							else:
+								set slot {@slot} of player's inventory to {@sword} of {@swordenchant} {@swordenchantlevel} named "{@swordprefixoff}"
+				else:
+					if player doesn't have permission "hubsword.bypass.fly":
+						message "{@prefix} &r{@DenyColor}{@FlyDenyMessage}"
+					else:
+						player is holding a {@sword} named "{@swordprefixoff}"
+						set {hubsword.%player%.pvpmode} to true
+						if {hubsword.disablewait} is false:
+							message "{@prefix} {@enable3}"
+							play raw sound "{@SoundCountdown3}" at player with pitch {@Countdownpitch3} volume {@Countdownvolume3}
+							wait {@PVPToggleTime}
+							message "{@prefix} {@enable2}"
+							play raw sound "{@SoundCountdown2}" at player with pitch {@Countdownpitch2} volume {@Countdownvolume2}
+							wait {@PVPToggleTime}
+							message "{@prefix} {@enable1}"
+							play raw sound "{@SoundCountdown1}" at player with pitch {@Countdownpitch1} volume {@Countdownvolume1}
+							wait {@PVPToggleTime}
+						wait 1 tick
+						equip player with {@helmet}
+						equip player with {@chestplate}
+						equip player with {@leggings}
+						equip player with {@boots}
+						if {hubsword.disablewait} is false:
+							play raw sound "{@SoundpvpON}" at player with pitch {@PitchON} volume {@VolumeON}
+						remove all {@sword} from the player
+						if {hubsword.enchant} is false:
+							set slot {@slot} of player's inventory to {@sword} named "{@swordprefixoff}"
+						else:
+							set slot {@slot} of player's inventory to {@sword} of {@swordenchant} {@swordenchantlevel} named "{@swordprefixoff}"
+			else:
+				message "{@DenyColor}{@DeniedPermission}"
+on rightclick:
+	if player is in "{@World}":
+		if {hubsword.%player%.pvpmode} is true:
+			if player has permission "hubsword.pvp" or "hubsword.admin":
+				player is holding a {@sword} named "{@swordprefixon}"
+				set {hubsword.%player%.pvpmode} to false
+				if {hubsword.disablewait} is false:
+					message "{@prefix} {@disable3}"
+					play raw sound "{@SoundCountdown3}" at player with pitch {@Countdownpitch3} volume {@Countdownvolume3}
+					wait {@PVPToggleTime}
+					message "{@prefix} {@disable2}"
+					play raw sound "{@SoundCountdown2}" at player with pitch {@Countdownpitch2} volume {@Countdownvolume2}
+					wait {@PVPToggleTime}
+					message "{@prefix} {@disable1}"
+					play raw sound "{@SoundCountdown1}" at player with pitch {@Countdownpitch1} volume {@Countdownvolume1}
+					wait {@PVPToggleTime}
+				wait 1 tick
+				remove {@helmet} from player
+				remove {@chestplate} from player
+				remove {@leggings} from player
+				remove {@boots} from player
+				if {hubsword.disablewait} is false:
+					play raw sound "{@SoundpvpOFF}" at player with pitch {@PitchOFF} volume {@VolumeOFF}
+				remove all {@sword} from the player
+				give a {@sword} named "{@swordprefixoff}" to the player
+			else:
+				message "{@DenyColor}{@DeniedPermission}"
+on command:
+	if player is in "{@World}":
+		command is not "{@command}"
+		command is not "skript"
+		player doesn't have permission "hubsword.bypass.command"
+		if {hubsword.%player%.pvpmode} is true:
+			message "{@prefix} &r{@DenyColor}{@DenyCommand}"
+			cancel event
+on damage of a player:
+	if victim is in "{@World}":
+		if victim has permission "hubsword.pvp":
+			if {hubsword.%victim%.pvpmode} is false:
+				cancel event
+			else:
+				if {hubsword.%attacker%.pvpmode} is true:
+					if {hubsword.particle} is true:
+						show {@ParticleAmount} "{@Particle}" particles at location of victim for victim offset by {@ParticlePosition}
+on death of player:
+	set {hubsword.%player%.pvpmode} to false
+on join:
+	wait 5 ticks
+	if player is op:
+		if text from "http://pastebin.com/raw.php?i=pZEt18Nu" is not "{@Version}":
+			message "{@prefix} &r{@MainColor}{@UpdateNote}"
+			set {new.update.ready} to true
+			if {hubsword.autoupdate} is true:
+				message "{@prefix} &r{@MainColor}{@Updating}" 
+				download from "http://pastebin.com/raw.php?i=T1vpKC81" to "plugins/Skript/scripts/HubSword.sk"
+				wait a tick
+				execute console command "/skript reload Hubsword"
+				set {new.update.ready} to false
+			else:
+				message "{@prefix} &r{@MainColor}{@UpdaterDenied}"
+		else:
+			set {new.update.ready} to false
+on player droping of {@sword}:
+	if player is in "{@World}":
+		if player doesn't have permission "hub.bypass.drop":
+			cancel event
+			message "{@prefix} &r{@DenyColor}{@DenyDrop}"
+on quit:
+	delete {hubsword.%player%.pvpmode}
+	if player is in "{@World}":
+		remove all {@sword} from the player

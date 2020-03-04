@@ -1,0 +1,5 @@
+prefix: '&a[&6Lenguajes&a] &f'
+loadingLang: '&aCargando tu lenguaje desde el idioma de tu minecraft...'
+loadedLang: '&aAhora tu lenguaje es: &e{0}'
+invalidLang: '&cLenguaje inválido!'
+reloaded: '&aEl plugin ha sido reiniciado!'

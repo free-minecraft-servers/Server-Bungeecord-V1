@@ -1,0 +1,396 @@
+Item:
+  Leave: '&c&lLeave &7(Right Click)'
+  Spectator: '&e&lTeleport &7(Right Click)'
+  Team Select: '&f&lTeam Selector &7(Right Click)'
+  Kit Select: '&7&lKit Selector &7(Right Click)'
+  Team:
+    Name:
+      RED: '&cTeam R'
+      BLUE: '&9Team B'
+      GREEN: '&aTeam G'
+      YELLOW: '&eTeam Y'
+      AQUA: '&bTeam A'
+      WHITE: '&fTeam W'
+      PINK: '&dTeam P'
+      GRAY: '&8Team G'
+  Accept: '&2&lAccept'
+  Cancel: '&c&lCancel'
+Title:
+  Prefix: '&e&lBedWars &8>> &f'
+  Scoreboard:
+    Title: '&e&lBEDWARS'
+    Diamond Upgrade: '&fDiamond Upgrade:'
+    Emerald Upgrade: '&fEmerald Upgrade:'
+    Diamond Maxed: '&fDiamond Maxed:'
+    Emerald Maxed: '&fEmerald Maxed:'
+    Time Left: '&fTime Left:'
+  Sign: "&a\xbb &8BedWars &a\xab"
+  Sign Arena: '&c<ARENA>'
+  Sign State: "&5\u2022 &f&l<STATE> &5\u2022"
+  Sign Players: "&c\xbb&8&l <ON>/<MAX> &c\xab"
+  Waiting: '&c&lWaiting for players...'
+  Bed Destroyed Title: '&c&lBed Destroyed'
+  Respawn In: '&fYou will respawn in &c&l<sec>&f seconds!'
+  Respawned: '&fYou was &erespawned&f!'
+  Destroyed: Your bed has been destroyed by &e&l<PLAYER>&f.
+  ArenaState:
+    IN_WAITING: '&fIn waiting'
+    STARTING: '&fStarting'
+    PREPARE: '&fStarting'
+    IN_GAME: '&fIn game'
+    END: '&fEnd'
+  Won 1: '&e&lCongratulations!'
+  Won 2: You won!
+  Spectator 1: '&e&lGAME OVER!'
+  Spectator 2: You are spectator!
+  Hologram:
+    Defend: '&cDefend your Bed.'
+    '1': '&fTier &c<TIER>'
+    '2':
+      Diamond: '&b&lDiamond'
+      Emerald: '&a&lEmerald'
+    '3': '&fSpawns in &c<TIME> &fseconds'
+    Bed: '&7Bed was destroyed by &6<PLAYER>.'
+    MysteryBox:
+      '1': '&7-= &cMysteryBox &7=-&r'
+      '2': '&e&lRIGHT CLICK'
+  Shop:
+    Item:
+      '1': '&e&lITEM'
+      '2': '&e&lSHOP'
+    Upgrade:
+      '1': '&e&lUPGRADE'
+      '2': '&e&lSHOP'
+  Open: '&fYou want open for &e<PRICE>&f coins?'
+  Number:
+    '1': '&e1'
+    '2': '&e2'
+    '3': '&e3'
+    '4': '&e4'
+    '5': '&e5'
+    '10': '&e10'
+    '15': '&e15'
+    '20': '&e20'
+  GO: '&aGO'
+  Trap:
+    '1': '&cIt''s a trap'
+    '2': '&7Come and defend your &cbed'
+  Team: Team
+  Solo: Solo
+  Winner:
+    Line: "&a\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\
+      \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\
+      \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\
+      \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\
+      \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\
+      \u25ac\u25ac\u25ac\u25ac"
+    Title: '&e&lBedWars'
+    Team: '@tc<TEAM>'
+    Players: '@tc<TEAM PLAYER>'
+    1st: '&e&l1st Killer&7 - <PLAYER> - <KILLS>'
+    2nd: '&6&l2nd Killer&7 - <PLAYER> - <KILLS>'
+    3nd: '&c&l3nd Killer&7 - <PLAYER> - <KILLS>'
+Message:
+  Console: '&fYou must be a &cplayer&f.'
+  InGame: '&fGame already started.'
+  Full: '&fArena is full.'
+  InArena: '&cYou''re already in an arena.'
+  NoOnArena: '&cYou''re not in any arena'
+  Join: '&c<player> &fjoined. &8(&7<on>&8/&7<max>&8)'
+  Quit: '&c<player> &fleft. &8(&7<on>&8/&7<max>&8)'
+  StartIn: '&fMach starting in &c<time> &fseconds.'
+  Top:
+    '1': '&7&l&m===================&r&8[&3Top 10&8]&7&l&m==================='
+    '2': '<NUMBER>) &c<PLAYER>: &7<SCORE>'
+    '3': '&7&l&m===================&r&8[&3Top 10&8]&7&l&m==================='
+  NoPermission: '&cYou don''t have permission to use this command.'
+  NoPlayer: '&cPlayer is not online.'
+  Usage: '&cUsage &f/bw <cmd>&c.'
+  NoCreate: '&cYou don''t create arena.'
+  Create: '&fArena &c<name>&f created with succes.'
+  Delete: '&fArena &c<name>&f deleted with success.'
+  NoExist: '&cArena does not exist.'
+  NoNumber: '&cMust be a number.'
+  YourBed: '&cYou can''t destroy your bed.'
+  BedDestroy: '&c<BED> BED &7was destroyed by &8<PLAYER>.'
+  Eliminated: '&fTeam <TEAM> &fwas eliminated.'
+  NoGameBlock: '&cYou are not allow to destroy this block.'
+  NoMoney: '&cYou don''t have enough money!'
+  NoCommand: '&fYou can''t use commands how much time you are in the arena. To get
+    out of the arena, use &c/bw leave'
+  Dead: '&e<PLAYER> &fwas killed by &6<KILLER>&f.'
+  Void: '&e<PLAYER> &ffell into the void.'
+  Team Full: Team is full.
+  Team Join: You joined in &c<TEAM>&f team.
+  Solo Win: '&e<PLAYER1> &fis the winner of the arena &6<ARENA>&f.'
+  Team Win: '&fTeam &c<TEAM> &fare winners of the arena &6<ARENA>&f.'
+  Succes Spawn: Spawn was set.
+  Succes Hologram: Hologram was set.
+  Succes Backup: Backup was save.
+  Emerald Upgrade: '&aEmerald Generators &fhas been upgraded to tier &c<TIER>'
+  Diamond Upgrade: '&bDiamond Generators &fhas been upgraded to tier &c<TIER>'
+  Hit: '&e<TARGET>&f is now <HEALTH>&f.'
+  No Kit: '&cYou don''t have that kit.'
+  Kit Won: You won &e<KIT>&f kit.
+  Kit Select: You select &e<KIT>&f kit.
+  Have Kit: You already have &e<KIT>&f kit, you got &e<PRICE> &fcoins.
+  Coins:
+    Add: You added &e<COINS>&f coins to &c<PLAYER>&f's account.
+    Set: You set &e<COINS>&f coins to &c<PLAYER>&f's account.
+    Take: You took &e<COINS>&f coins to &c<PLAYER>&f's account.
+    Reset: You reset &c<PLAYER>&f's account.
+  Force Start: '&e<PLAYER> &fforce start&e arena&f!.'
+  Purchased: '&fYou purchased &e<ITEM>&f.'
+  Party:
+    No Invite: '&cYou haven''t been invited to a party.'
+    Already: '&cYou already in party.'
+    AlreadyT: '&cJucatorul este deja intrun party.'
+    Invited:
+      '1': '&c<PLAYER> &finvited you to a party.'
+      '2': '&c/party accept &fto accept invitation.'
+      '3': '&c/party deny &fto refuse invitation.'
+    Succes: '&fYou invitation send to &c<PLAYER> &f.'
+    Join: '&c<PLAYER> &fjoin in your party.'
+    Deny: '&c<PLAYER> &fdismissed the invitation.'
+    Usage: '&cUsage &f/party <cmd>&c.'
+    NoIn: '&cYou''re not in a party.'
+    Leave: '&cYou left the party.'
+    List: '&eMembers:&f<LIST>.'
+    Disband: '&fYou deleted the party successfully.'
+  Many Spawn: Your team has spawned too many <MOB> in this match.
+  No Swear: Don't swear.
+  Find: '&c<PLAYER>&f is on &e<ARENA>&f.'
+  Purchased Team: '&f<PLAYER> purchased &e<ITEM>&f.'
+  No Rejoin: '&cYou can''t rejoin on this arena'
+  Kits:
+    Usage: '&cUsage &f/kits <cmd>&c.'
+    Create: '&fKit &c<name>&f created with succes.'
+    Delete: '&fKit &c<name>&f deleted with success.'
+    Add: '&fAdd item to &c<name>&f.'
+    Give: Kit &e<KIT>&f has been added to &e<PLAYER>&f.
+  Start:
+  - '&7&m&l============================================'
+  - ' &2&l>> &f&lGame: &7<game>'
+  - ' <space>'
+  - ' Protect your bed and destroy the enemy beds.'
+  - ' <space>'
+  - ''
+  - '&7&m&l============================================'
+  Stats:
+  - '&7&m&l============================================'
+  - ' '
+  - '&a>> &f&lStats: '
+  - ' '
+  - '&fName: &7<NAME>'
+  - '&fWins: &7<WINS>'
+  - '&fCoins: &7<COINS>'
+  - '&fKills: &7<KILLS>'
+  - '&fDeaths: &7<DEATHS>'
+  - '&fScore: &7<SCORE>'
+  - ' '
+  - '&7&m&l============================================'
+  Scoreboard:
+    Lobby:
+    - '  '
+    - '&a>> &f&lStats:'
+    - '&fName: &7<PLAYER>'
+    - '&fKills: &7<KILLS>'
+    - '&fDeaths: &7<DEATHS>'
+    - '&fScore: &7<SCORE>'
+    - '&fCoins: &7<COINS>'
+    - '   '
+    - '&a>> &f&lInfo:'
+    - '&fOnline: &7<ONLINE>'
+    - ' '
+    - ''
+    Waiting:
+    - ' '
+    - '&a>> &f&lMap:'
+    - '&fPlayers: &7<ONLINE>/<MAX>'
+    - '&fMap: &7<ARENA>'
+    - '&fStatue: &7<MODE>'
+    - '  '
+    - '&a>> &f&lPlayer:'
+    - '&fKit: &7<KIT>'
+    - '     '
+    - ''
+    Game:
+    - '&7<DATE>'
+    - ' '
+    - <INFO-TIME>
+    - '&a<TIME>'
+    - '  '
+    - '&c&lR &fRed: <RED>'
+    - '&9&lB &fBlue: <BLUE>'
+    - '&a&lG &fGreen: <GREEN>'
+    - '&e&lY &fYellow: <YELLOW>'
+    - '&b&lA &fAqua: <AQUA>'
+    - '&f&lW &fWhite: <WHITE>'
+    - '&d&lP &fPink: <PINK>'
+    - '&8&lG &fGray: <GRAY>'
+    - '    '
+    - '&ewww.spigotmc.org'
+    '4':
+    - '&7<DATE>'
+    - ' '
+    - <INFO-TIME>
+    - '&a<TIME>'
+    - '  '
+    - '&c&lR &fRed: <RED>'
+    - '&9&lB &fBlue: <BLUE>'
+    - '&a&lG &fGreen: <GREEN>'
+    - '&e&lY &fYellow: <YELLOW>'
+    - '   '
+    - "&a\u2022 &fKills: &a<KILLS>"
+    - "&a\u2022 &fFinal Kills: &a<FINAL>"
+    - '     '
+    - '&ewww.spigotmc.org'
+    '3':
+    - '&7<DATE>'
+    - ' '
+    - <INFO-TIME>
+    - '&a<TIME>'
+    - '  '
+    - '&c&lR &fRed: <RED>'
+    - '&9&lB &fBlue: <BLUE>'
+    - '&a&lG &fGreen: <GREEN>'
+    - '   '
+    - "&a\u2022 &fKills: &a<KILLS>"
+    - "&a\u2022 &fFinal Kills: &a<FINAL>"
+    - '     '
+    - '&ewww.spigotmc.org'
+    '2':
+    - '&7<DATE>'
+    - ' '
+    - <INFO-TIME>
+    - '&a<TIME>'
+    - '  '
+    - '&c&lR &fRed: <RED>'
+    - '&9&lB &fBlue: <BLUE>'
+    - '   '
+    - "&a\u2022 &fKills: &a<KILLS>"
+    - "&a\u2022 &fFinal Kills: &a<FINAL>"
+    - '     '
+    - '&ewww.spigotmc.org'
+  Shop:
+    Armor:
+    - '&8Contains:'
+    - " &8\u2219 &7Chainmail Boots"
+    - " &8\u2219 &7Chainmail Leggings"
+    - " &8\u2219 &7Iron Boots"
+    - " &8\u2219 &7Iron Leggings"
+    - " &8\u2219 &7Diamond Boots"
+    - " &8\u2219 &7Diamond Leggings"
+    - '&a  '
+    - '&eClick to browse!'
+    Melee:
+    - '&8Contains:'
+    - " &8\u2219 &7Wooden Sword"
+    - " &8\u2219 &7Stone Sword"
+    - " &8\u2219 &7Iron Sword"
+    - " &8\u2219 &7Diamond Sword"
+    - " &8\u2219 &7Stick &8(&7Knockback II&8)"
+    - '&a  '
+    - '&eClick to browse!'
+    Blocks:
+    - '&8Contains:'
+    - " &8\u2219 &7Wool"
+    - " &8\u2219 &7Sandstone"
+    - " &8\u2219 &7End Stone"
+    - " &8\u2219 &7Ladder"
+    - " &8\u2219 &7Oak Wood"
+    - " &8\u2219 &7Obsidian"
+    - '&a '
+    - '&eClick to browse!'
+    Ranged:
+    - '&8Contains:'
+    - " &8\u2219 &7Arrow"
+    - " &8\u2219 &7Bow"
+    - " &8\u2219 &7Bow &8(&7Power I&8)"
+    - " &8\u2219 &7Bow &8(&7Power I&8"
+    - '&7Punch I&8)'
+    - '&a'
+    - '&eClick to browse!'
+    Tools:
+    - '&8Contains:'
+    - " &8\u2219 &7Shears"
+    - " &8\u2219 &7Iron Pickaxe &8(&7Efficiency II&8)"
+    - " &8\u2219 &7Diamond Pickaxe &8(&7Efficiency III&8)"
+    - " &8\u2219 &7Diamond Axe &8(&7Efficiency II&8)"
+    - '&a'
+    - '&eClick to browse!'
+    Potions:
+    - '&8Contains:'
+    - " &8\u2219 &7Speed II (45 sec)"
+    - " &8\u2219 &7Jump V (45 sec)"
+    - " &8\u2219 &7Invisibility I (30 sec)"
+    - '&a'
+    - '&eClick to browse!'
+    Utility:
+    - '&8Contains:'
+    - " &8\u2219 &7Golden Apple"
+    - " &8\u2219 &7Ender Pearl"
+    - " &8\u2219 &7TNT"
+    - " &8\u2219 &7Fireball"
+    - " &8\u2219 &7Water Bucket"
+    - '&a'
+    - '&eClick to browse!'
+  Team Selector:
+    Lore:
+    - ' '
+    - '&fPlayers: &7<ON>/<MAX>'
+    - ' &7Click to join!'
+  Hologram:
+    Stats:
+    - '&7&l&k|||&r &e&lBedWars &7&l&k|||&r'
+    - <PLAYER>'s &fstats
+    - '&fWins: &7<WINS>'
+    - '&fCoins: &7<COINS>'
+    - '&fKills: &7<KILLS>'
+    - '&fDeaths: &7<DEATHS>'
+    - ' '
+    - '&fYour playing on:'
+    - '&e&lplay.spigotmc.org'
+Shop:
+  Items:
+    Line:
+      '1': '&8Items:'
+      '2': " &8\u2219 &7<ITEM> &8x<AMOUNT>"
+      '3': ' '
+      Iron: '&7Cost: &f<PRICE> Iron'
+      Gold: '&7Cost: &6<PRICE> Gold'
+      Emerald: '&7Cost: &2<PRICE> Emerald'
+      Diamond: '&7Cost: &b<PRICE> Diamond'
+      '4': ' '
+      '5':
+        NoMoney: '&cYou don''t have enough money!'
+        Buy: '&eClick to purchase!'
+    Have: '&cYou have that items!'
+  Upgrade:
+    Iron Forge: '&7You have a 50% chance #&7of collecting double iron and gold#&7#&7'
+    Golden Forge: '&7You have a 100% chance #&7of collecting double iron and gold#&7#&7'
+    Emerald Forge: '&7Activates the Emerald spawner#&7in your team''s Forge#&7#&7'
+    Molten Forge: '&7You have a 100% chance #&7of collecting triple iron and gold#&7#&7'
+    Maniac Miner: '&7All players on your team#&7permanently gain Haste <HASTE>#&f#'
+    Sharpened Swords: '&7Your team gets Sharpness I#&7on all swords!#&f#'
+    Reinforced Armor: '&7Your team gets Protection <ARMOR>#&7on all armor pieces!#&f#'
+    Trap: '&7The next enemy to enter your#&7base will receive Blindness and#&7Slowness!#&f#'
+    Miner: '&7The next enemy to enter your#&7base will receive Mining Fatigue I!#&f#'
+    Heal: '&7Creates a Regeneration field#&7around your base!#&f#'
+    Have: '&cYou have that upgrade!'
+Inventory:
+  Arena: '&eArena'
+  Team Selector: '&8Team Selector'
+  Shop: '&8Shop'
+  Item Shop: '&8Item Shop'
+  Upgrade: '&8Upgrade'
+  Armor: '&8Armor'
+  Melee: '&8Melee'
+  Blocks: '&8Blocks'
+  Ranged: '&8Ranged'
+  Potions: '&8Potions'
+  Tools: '&8Tools'
+  Utility: '&8Utility'
+  Kits: '&8Kits'
+  Kits Open: '&8Kits Box'
+  Kit Confirm: '&cMystery Box'

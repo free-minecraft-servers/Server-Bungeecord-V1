@@ -1,0 +1,27 @@
+first-item:
+  name: '&3&lServer'
+  id: 399
+  slot: 5
+  lore:
+    - ''
+  command: 'server'
+  cooldown-seconds: 0
+  permission: 'cji.server'
+second-item:
+  name: '&2&lParkour'
+  id: 65
+  slot: 8
+  lore:
+    - ''
+  command: 'parkour'
+  cooldown-seconds: 0
+  permission: 'cji.parkour'
+three-item:
+  name: '&6&lLink'
+  id: 339
+  slot: 2
+  lore:
+    - ''
+  command: 'link'
+  cooldown-seconds: 0
+  permission: 'cji.link'

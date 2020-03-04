@@ -1,0 +1,26 @@
+timestamps:
+  kits:
+    pyre: 1525170650861
+    vip+: 1525170741143
+    vip: 1525170701762
+    assassin: 1525170541255
+  logout: 1525173404121
+  login: 1526664507834
+  lastteleport: 1526664508449
+afk: false
+logoutlocation:
+  world: world
+  x: -1.0369692856627712
+  y: 118.0
+  z: 3.968391851883275
+  yaw: -163.07907
+  pitch: 21.545061
+uuid: c9fb5add-0ad7-495c-9f14-f87c844ae090
+ipAddress: 192.168.137.1
+lastlocation:
+  world: world
+  x: -77.66811529784547
+  y: 86.46766994705766
+  z: -29.243648833138668
+  yaw: -23.499878
+  pitch: -44.905083

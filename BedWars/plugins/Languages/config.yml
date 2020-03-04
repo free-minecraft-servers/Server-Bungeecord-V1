@@ -1,0 +1,15 @@
+# ###########################################
+# #               - Languages -             #
+# #         - By gaelitoelquesito -         #
+# ###########################################
+
+database:
+  driver: org.sqlite.JDBC
+  url: jdbc:sqlite:{DIR}{NAME}.db
+  username: bukkit
+  password: walrus
+  isolation: SERIALIZABLE
+  logging: true
+DefLang: en_US
+firstJoin:
+  getMinecraftLang: true

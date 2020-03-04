@@ -1,0 +1,36 @@
+worlds:
+  spawn:
+    seed: 5898517374043932873
+    environment: NORMAL
+    type: FLAT
+    hidden: true
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: -224.5
+      y: 46.0
+      z: -428.5
+      pitch: 0.0
+      yaw: 0.0
+      world: spawn
+    autoload: true
+    bedrespawn: true

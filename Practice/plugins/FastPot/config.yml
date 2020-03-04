@@ -1,0 +1,3 @@
+#How fast should the potion explode (0 = vanilla, 4 = fastest)?
+#Warning: anything below 0 or above 4 will cause errors.
+speed: 1.5

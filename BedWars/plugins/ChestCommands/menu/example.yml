@@ -1,0 +1,59 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&1Menu'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'menu'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: wool:1
+    left-click: false
+    right-click: true
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+Bwarena:
+  COMMAND: 'bw play'
+  NAME: '&ePlay Bedwars'
+  LORE:
+    - 'Click to play bedwars'
+  ID: bed
+  POSITION-X: 1
+  POSITION-Y: 1
+
+
+menu-close-no-commands-no-lore:
+  NAME: '&6Click to leave'
+  ID: redstone lamp
+  LORE:
+    - ''
+  POSITION-X: 9
+  POSITION-Y: 9

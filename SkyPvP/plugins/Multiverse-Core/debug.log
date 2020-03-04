@@ -1,0 +1,146 @@
+2018-04-30 19:53:21 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 19:53:21 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 19:53:21 [AVVERTENZA] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2018-04-30 19:53:21 [AVVERTENZA] [Multiverse-Core] Original Location: X: -1 Y: 118 Z: 3 P: 0 Y: 0 
+2018-04-30 19:53:21 [INFORMAZIONI] [Multiverse-Core] New Spawn for 'world' is Located at: world:0,50,118,00,3,50:0,00:0,00
+2018-04-30 19:53:21 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 19:53:21 [AVVERTENZA] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2018-04-30 19:53:21 [AVVERTENZA] [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+2018-04-30 19:53:21 [INFORMAZIONI] [Multiverse-Core] New Spawn for 'world_nether' is Located at: world_nether:-7,50,67,00,-3,50:0,00:0,00
+2018-04-30 19:53:21 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 19:53:21 [AVVERTENZA] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2018-04-30 19:53:21 [AVVERTENZA] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2018-04-30 19:53:21 [INFORMAZIONI] [Multiverse-Core] New Spawn for 'world_the_end' is Located at: world_the_end:0,00,64,00,0,00:0,00:0,00
+2018-04-30 19:53:21 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 19:53:21 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 19:53:21 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 19:53:21 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 20:47:23 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 20:47:23 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 20:47:23 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 20:47:23 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 20:47:23 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 21:09:06 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 21:09:06 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 21:09:06 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:09:06 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:09:07 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 21:11:00 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 21:11:00 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 21:11:01 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:11:01 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:11:01 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 21:14:02 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 21:14:02 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 21:14:02 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:14:02 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:14:02 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 21:20:03 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 21:20:03 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 21:20:03 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:20:04 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:20:04 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 21:28:04 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 21:28:04 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 21:28:04 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:28:04 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:28:04 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 21:31:58 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 21:31:59 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 21:31:59 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:31:59 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:31:59 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 21:52:33 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 21:52:33 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:52:33 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:52:33 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 21:56:52 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 21:56:52 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 21:56:52 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:56:53 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:56:53 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 21:57:38 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 21:57:39 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 21:57:39 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:57:39 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:57:39 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 21:59:09 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 21:59:09 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 21:59:09 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:59:10 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 21:59:10 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 22:13:19 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 22:13:19 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 22:13:19 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 22:13:20 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 22:13:20 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 22:16:00 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 22:16:01 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 22:16:01 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 22:16:01 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 22:16:01 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 22:17:25 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 22:17:26 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 22:17:26 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 22:17:26 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 22:17:26 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 22:17:59 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 22:17:59 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 22:17:59 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 22:17:59 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 22:17:59 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 22:19:05 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 22:19:05 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 22:19:05 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 22:19:06 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 22:19:06 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 22:20:03 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 22:20:03 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 22:20:03 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 22:20:04 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 22:20:04 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-04-30 23:22:09 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-04-30 23:22:09 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-04-30 23:22:09 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 23:22:09 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-04-30 23:22:09 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-05-01 12:20:18 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-05-01 12:20:18 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-05-01 12:20:18 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-05-01 12:20:18 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-05-01 12:20:18 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-05-01 12:20:41 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-05-01 12:20:41 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-05-01 12:20:41 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-05-01 12:20:41 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-05-01 12:20:41 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-05-01 12:26:11 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-05-01 12:26:11 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-05-01 12:26:11 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-05-01 12:26:12 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-05-01 12:26:12 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-05-01 12:27:59 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-05-01 12:27:59 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-05-01 12:27:59 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-05-01 12:28:00 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-05-01 12:28:00 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-05-01 12:48:32 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-05-01 12:48:32 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-05-01 12:48:32 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-05-01 12:48:33 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-05-01 12:48:33 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-05-01 13:13:37 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-05-01 13:13:37 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-05-01 13:13:37 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-05-01 13:13:37 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-05-01 13:13:37 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-05-18 19:27:52 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-05-18 19:27:52 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-05-18 19:27:52 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-05-18 19:27:52 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-05-18 19:27:52 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.
+2018-05-18 19:29:28 [INFORMAZIONI] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-05-18 19:29:28 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -6762810623213191114
+2018-05-18 19:29:29 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3242673855315857277
+2018-05-18 19:29:29 [INFORMAZIONI] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3242673855315857277
+2018-05-18 19:29:29 [INFORMAZIONI] [Multiverse-Core] 3 - World(s) loaded.

@@ -1,0 +1,5 @@
+prefix: '&a[&6Languages&a] &f'
+loadingLang: '&aLoading your language from your minecraft...'
+loadedLang: '&aNow your language is: &e{0}'
+invalidLang: '&cInvalid language!'
+reloaded: '&aReloaded!'

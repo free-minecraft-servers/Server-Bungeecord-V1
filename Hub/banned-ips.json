@@ -1,0 +1,93 @@
+[
+  {
+    "ip": "173.245.67.39",
+    "created": "2017-06-28 06:27:03 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "173.245.67.68",
+    "created": "2017-06-28 06:31:43 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "OpSquad",
+    "created": "2017-06-25 07:47:18 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "f0s",
+    "created": "2017-06-27 05:45:25 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "iKevin_x",
+    "created": "2017-06-25 07:47:14 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "186.19.145.187",
+    "created": "2017-06-26 22:29:43 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "178.239.122.104",
+    "created": "2017-06-26 20:15:46 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "201.251.18.14",
+    "created": "2017-06-26 20:07:04 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "179.24.211.247",
+    "created": "2017-06-27 23:04:05 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "181.1.192.48",
+    "created": "2017-06-26 20:18:20 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "f0d",
+    "created": "2017-06-27 05:45:27 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "Shases",
+    "created": "2017-06-25 07:47:21 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "ToCrazyy",
+    "created": "2017-06-26 20:14:53 +0200",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

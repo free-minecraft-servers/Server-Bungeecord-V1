@@ -1,0 +1,8 @@
+#Key:
+# %player% = player's name
+# %name% = player's display name (prefix, suffix, nick etc)
+# 
+OpCommands:
+  - 'give %player% diamond 1'
+DeOpCommands:
+  - 'give %player% dirt 1'

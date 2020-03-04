@@ -1,0 +1,89 @@
+groups:
+  default:
+    options:
+      default: true
+      prefix: '&a'
+    permissions:
+    - xteam.report.use
+    - signs.use.kit
+    - essentials.use.signs.kit
+    - essentials.use.sign.kit
+    - essentials.msg
+    - chestcommands.open.example.yml
+    - essentials.kits.Assassin
+    - essentials.kits.Diamond
+    - essentials.kits.Pyre
+    - essentials.kit
+    - essentials.spawn
+    - modifyworld.*
+  Vip:
+    options:
+      prefix: "&bVip&r\u2192&a"
+    permissions:
+    - xteam.report.use
+    - signs.use.kit
+    - essentials.use.sign.kit
+    - essentials.use.signs.kit
+    - chestcommands.open.example.yml
+    - essentials.msg
+    - essentials.nick.format
+    - essentials.nick.color
+    - essentials.nick
+    - essentials.kits.Vip
+    - essentials.kits.Assassin
+    - essentials.kits.Diamond
+    - essentials.kits.Pyre
+    - essentials.kit
+    - essentials.spawn
+    worlds:
+      '&a':
+        options:
+          prefix: '&bVip'
+  Vip+:
+    options:
+      prefix: "&9Vip&b+&r\u2192&a"
+    permissions:
+    - xteam.report.use
+    - signs.use.kit
+    - essentials.use.sign.kits
+    - essentials.use.signs.kits
+    - essentials.use.signs.kit
+    - essentials.use.sign.kit
+    - essentials.use.sign
+    - essentials.kit
+    - essentials.kits
+    - essentials.kits.Vip+
+    - essentials.kit.Vip+
+    - chestcommands.open.example.yml
+    - essentials.msg
+    - essentials.nick.format
+    - essentials.nick.color
+    - essentials.nick
+    - essentials.kits.Assassin
+    - essentials.kits.Pyre
+    - essentials.kits.Diamond
+    - essentials.spawn
+  Vipx:
+    permissions:
+    - essentials.msg
+  Owner:
+    options:
+      prefix: "&c&lOwner&r\u2192&a"
+    permissions:
+    - '*'
+schema-version: 1
+users:
+  c9fb5add-0ad7-495c-9f14-f87c844ae090:
+    permissions:
+    - '*'
+    - "\u201a"
+    options:
+      name: verry_manu
+    group:
+    - Owner
+  e1289ed8-a5bb-4774-a2cc-53998e70c59b:
+    group:
+    - default
+    options:
+      name: FRAGAMER010
+    permissions: []

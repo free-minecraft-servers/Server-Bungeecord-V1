@@ -1,0 +1,535 @@
+groups:
+  default:
+    options:
+      default: true
+      prefix: '&a'
+    permissions:
+    - chestcommands.open.example.yml
+    - essentials.spawn
+    - cji.server
+    - xteam.report.use
+    - notorious.autosmelt
+    - essentials.kits.fishing
+    - essentials.kits.food
+    - essentials.kit
+    - notorious.stats
+    - essentials.suicide
+    - essentials.helpop
+    - essentials.msg
+    - essentials.tell
+    - essentials.silentquit
+    - essentials.silentjoin
+    - modifyworld.*
+    - essentials.ignore
+  YouTube:
+    options:
+      prefix: '&8[&cYou&fTuber&8] &c'
+    permissions:
+    - color.purple
+    - color.darkgreen
+    - color.pink
+    - color.blue
+    - essentials.compass
+    - essentials.suicide
+    - essentials.near
+    - notorious.stats
+    - essentials.helpop
+    - essentials.list
+    - essentials.ignore
+    - essentials.tell
+    - essentials.msg
+    - essentials.kit
+    - essentials.kits.pescador
+    - essentials.kits.comida
+    - essentials.kits.youtube
+    - essentials.ignore
+    - essentials.silentquit
+    - essentials.silentjoin
+    - essentials.clearinventory
+  Famous:
+    options:
+      prefix: "&5\xc3\xa2\xc5\u201c\xc2\xa4&2"
+    permissions:
+    - tool.rename.color.*
+    - essentials.feed
+    - essentials.compass
+    - essentials.suicide
+    - essentials.near
+    - notorious.stats
+    - essentials.helpop
+    - essentials.list
+    - essentials.ignore
+    - essentials.tell
+    - essentials.msg
+    - essentials.kit
+    - essentials.kits.pescador
+    - essentials.kits.comida
+    - essentials.kits.famous
+    - essentials.ignore
+    - essentials.silentquit
+    - essentials.silentjoin
+    - essentials.keepxp
+    - essentials.enderchest
+    - essentials.clearinventory
+  Inside:
+    options:
+      prefix: '&8[&eInsider&8] &e'
+    permissions:
+    - essentials.suicide
+    - notorious.stats
+    - essentials.helpop
+    - essentials.list
+    - essentials.ignore
+    - essentials.tell
+    - essentials.msg
+    - essentials.kit
+    - essentials.kits.pescador
+    - essentials.kits.comida
+    - essentials.ignore
+    - essentials.silentquit
+    - essentials.silentjoin
+  Mod:
+    options:
+      prefix: '&8[&dMod&8] &d'
+    permissions:
+    - xteam.report.notif
+    - Litebans.tempban
+    - Litebans.ban
+    - Litebans.ipban
+    - litebans.*
+    - staff.*
+    - staff.
+    - Janitor.*
+    - janitor.*
+    - maxbans.checkban.self
+    - maxbans.notify
+    - maxbans.kick.*
+    - maxbans.lockdown.bypass
+    - maxbans.tempban
+    - maxbans.ban
+    - maxbans.ipban
+    - maxbans.ban
+    - maxbans.unban
+    - maxbans.mute
+    - maxbans.tempmute
+    - maxbans.unmute
+    - maxbans.warn
+    - maxbans.checkban
+    - maxbans.history
+    - tool.rename.color.*
+    - staffsecure.staff
+    - essentials.clearinventory
+    - essentials.suicide
+    - essentials.helpop
+    - essentials.msg
+    - essentials.tell
+    - essentials.silentquit
+    - essentials.silentjoin
+    - modifyworld.*
+    - factions.unfreeze
+    - factions.dtr
+    - essentials.back
+    - notorious.vanish
+    - notorious.stats
+    - notorious.staffscoreboard
+    - notorious.staffchat.receive
+    - notorious.staffchat.use
+    - notorious.staffmode
+    - notorious.staff.list
+    - notorious.staff
+    - notorious.subclaim.bypass
+    - notorious.report.receive
+    - notorious.request.receive
+    - essentials.near
+    - essentials.spawn
+    - essentials.joinfullserver
+    - notorious.notify.leave
+    - notorious.notify.join
+    - notorious.notes
+    - notorious.mutefaction
+    - notorious.joinfullserver
+    - notorious.freeze.use
+    - notorious.deathban.rollback
+    - notorious.deathban.revive
+    - notorious.deathban.check
+    - notorious.cps
+    - notorious.cpsalerts
+    - notorious.combatlogger.bypass
+    - notorious.chatcontrol.delay.bypass
+    - notorious.chatcontrol.clear
+    - notorious.chatcontrol.unmute
+    - notorious.chatcontrol.mute.bypass
+    - notorious.chatcontrol.mute
+    - essentials.teleport.timer.bypass
+    - essentials.fly
+    - essentials.god
+    - essentials.tp.others
+    - essentials.tphere
+    - essentials.tp
+  Mod+:
+    options:
+      prefix: '&8[&dMod+&8] &d'
+    permissions:
+    - Janitor.*
+    - staff.*
+    - staffsecure.staff
+    - essentials.clearinventory
+    - essentials.suicide
+    - essentials.helpop
+    - essentials.msg
+    - essentials.tell
+    - essentials.silentquit
+    - essentials.silentjoin
+    - modifyworld.*
+    - factions.unfreeze
+    - factions.dtr
+    - tool.rename.color.*
+    - essentials.back
+    - notorious.vanish
+    - notorious.stats
+    - notorious.staffscoreboard
+    - notorious.staffchat.receive
+    - notorious.staffchat.use
+    - notorious.staffmode
+    - notorious.staff.list
+    - notorious.staff
+    - notorious.subclaim.bypass
+    - notorious.report.receive
+    - notorious.request.receive
+    - essentials.near
+    - essentials.spawn
+    - essentials.joinfullserver
+    - notorious.notify.leave
+    - notorious.notify.join
+    - notorious.notes
+    - notorious.mutefaction
+    - notorious.joinfullserver
+    - notorious.freeze.use
+    - notorious.deathban.rollback
+    - notorious.deathban.revive
+    - notorious.deathban.check
+    - notorious.cps
+    - notorious.cpsalerts
+    - notorious.combatlogger.bypass
+    - notorious.chatcontrol.delay.bypass
+    - notorious.chatcontrol.clear
+    - notorious.chatcontrol.unmute
+    - notorious.chatcontrol.mute.bypass
+    - notorious.chatcontrol.mute
+    - essentials.teleport.timer.bypass
+    - essentials.fly
+    - essentials.god
+    - essentials.tp.others
+    - essentials.tphere
+    - essentials.tp
+  Admin:
+    options:
+      prefix: '&8[&cAdmin&8] &c'
+    permissions:
+    - litebans.*
+    - Litebans.*
+    - Janitor.*
+    - Janitor
+    - staff.*
+    - tool.rename.color.*
+    - coreprotect.*
+    - ab.history
+    - ab.banlist
+    - ab.check.ip
+    - ab.check
+    - ab.warns.other
+    - ab.warns.undo
+    - ab.all.undo
+    - ab.unwarn.undo
+    - ab.mute.undo
+    - ab.ban..undo
+    - ab.tempmute
+    - ab.tempban
+    - ab.warn.temp
+    - ab.ipban.exempt
+    - ab.ipban.notify
+    - ab.ban.ip
+    - ab.kick.notify
+    - ab.kick.use
+    - ab.warn.perma
+    - ab.mute
+    - ab.ban
+    - sr.name
+    - BanSystem.tempban
+    - BanSystem.tempipban
+    - BanSystem.warn
+    - BanSystem.kick
+    - BanSystem.mute
+    - BanSystem.tempmute
+    - BanSystem.checkban
+    - BanSystem.unban
+    - BanSystem.ipban
+    - BanSystem.ban
+    - factions.*
+    - crates.*
+    - essentials.*
+    - koth.control.start
+    - koth.control.end
+    - koth.control.stop
+    - worldguard.*
+    - worldedit.*
+    - notorious.vanish
+    - notorious.stats
+    - notorious.staffscoreboard
+    - notorious.staffchat.receive
+    - notorious.staffchat.use
+    - notorious.staffmode
+    - notorious.staff.list
+    - notorious.staff
+    - notorious.subclaim.bypass
+    - notorious.report.receive
+    - notorious.request.receive
+    - essentials.near
+    - essentials.spawn
+    - essentials.joinfullserver
+    - notorious.notify.leave
+    - notorious.notify.join
+    - notorious.notes
+    - notorious.mutefaction
+    - notorious.joinfullserver
+    - notorious.freeze.use
+    - notorious.deathban.rollback
+    - notorious.deathban.revive
+    - notorious.deathban.check
+    - notorious.cps
+    - notorious.cpsalerts
+    - notorious.combatlogger.bypass
+    - notorious.chatcontrol.delay.bypass
+    - notorious.chatcontrol.clear
+    - notorious.chatcontrol.unmute
+    - notorious.chatcontrol.mute.bypass
+    - notorious.chatcontrol.mute
+    - notorious.lives.set
+    - notorious.lives.add
+    - notorious.endspawn.set
+    - essentials.factions.*
+    - lagg.clear
+    - staffsecure.staff
+  PlatformAdmin: {}
+  Developer: {}
+  Owner:
+    options:
+      prefix: '&4&lOwner&a'
+    permissions:
+    - '*.*'
+  Platinum:
+    permissions:
+    - tool.rename
+    - tool.rename.color.*
+    - essentials.workbench
+    - notorious.medic.revive
+    - essentials.compass
+    - essentials.near
+    - essentials.clearinventory
+    - essentials.feed
+    - essentials.hat
+    - bottles.use
+    - essentials.suicide
+    - notorious.stats
+    - essentials.helpop
+    - essentials.list
+    - essentials.ignore
+    - essentials.tell
+    - essentials.keepxp
+    - essentials.msg
+    - essentials.kit
+    - essentials.kits.fishing
+    - essentials.kits.food
+    - essentials.kits.platinum
+    - essentials.ignore
+    - essentials.silentquit
+    - essentials.silentjoin
+    - essentials.signs.color
+    - essentials.enderchest
+    options:
+      prefix: "&f&l\xe2\u0153\xb8&7"
+    worlds:
+      rename:
+        permissions:
+        - tool
+  Iron:
+    options:
+      prefix: "&8\xe2\u0153\xb7&7"
+    permissions:
+    - bottles.use
+    - notorious.stats
+    - essentials.helpop
+    - essentials.list
+    - essentials.ignore
+    - essentials.tell
+    - essentials.msg
+    - essentials.kit
+    - essentials.kits.fishing
+    - essentials.kits.food
+    - essentials.kits.iron
+    - essentials.ignore
+    - essentials.near
+    - essentials.compass
+    - essentials.silentquit
+    - essentials.silentjoin
+  Gold:
+    options:
+      prefix: "&6\xe2\u0153\xb7&e"
+    permissions:
+    - bottles.use
+    - essentials.near
+    - essentials.clearinventory
+    - essentials.compass
+    - essentials.suicide
+    - notorious.stats
+    - essentials.helpop
+    - essentials.list
+    - essentials.ignore
+    - essentials.tell
+    - essentials.msg
+    - essentials.kit
+    - essentials.kits.fishing
+    - essentials.kits.food
+    - essentials.kits.gold
+    - essentials.ignore
+    - essentials.silentquit
+    - essentials.silentjoin
+  Diamond:
+    options:
+      prefix: "&9\xe2\u0153\xb7&b"
+    permissions:
+    - bottles.use
+    - essentials.compass
+    - essentials.near
+    - essentials.clearinventory
+    - essentials.hat
+    - essentials.feed
+    - essentials.suicide
+    - notorious.stats
+    - essentials.helpop
+    - essentials.list
+    - essentials.ignore
+    - essentials.tell
+    - essentials.msg
+    - essentials.kit
+    - essentials.kits.fishing
+    - essentials.kits.food
+    - essentials.kits.diamond
+    - essentials.ignore
+    - essentials.silentquit
+    - essentials.silentjoin
+  Emerald:
+    options:
+      prefix: "&2\xe2\u0153\xb7&a"
+    permissions:
+    - essentials.compass
+    - essentials.near
+    - essentials.clearinventory
+    - essentials.feed
+    - essentials.hat
+    - bottles.use
+    - essentials.suicide
+    - notorious.stats
+    - essentials.helpop
+    - essentials.list
+    - essentials.ignore
+    - essentials.tell
+    - essentials.keepxp
+    - essentials.msg
+    - essentials.kit
+    - essentials.kits.fishing
+    - essentials.kits.food
+    - essentials.kits.emerald
+    - essentials.ignore
+    - essentials.silentquit
+    - essentials.silentjoin
+  Sapphire:
+    options:
+      prefix: "&7\xe2\u0153\xb7&9"
+    permissions:
+    - tool.rename.color.*
+    - essentials.workbench
+    - notorious.medic.revive
+    - essentials.compass
+    - essentials.near
+    - essentials.clearinventory
+    - essentials.feed
+    - essentials.hat
+    - bottles.use
+    - essentials.suicide
+    - notorious.stats
+    - essentials.helpop
+    - essentials.list
+    - essentials.ignore
+    - essentials.tell
+    - essentials.keepxp
+    - essentials.msg
+    - essentials.kit
+    - essentials.kits.fishing
+    - essentials.kits.food
+    - essentials.kits.shapphire
+    - essentials.ignore
+    - essentials.silentquit
+    - essentials.silentjoin
+    - essentials.signs.color
+    - essentials.enderchest
+  Blue:
+    options:
+      prefix: "&e\xe2\u0153\u201d&b"
+  Darkgreen:
+    options:
+      prefix: "&e\xe2\u0153\u201d&2"
+  Pink:
+    options:
+      prefix: "&e\xe2\u0153\u201d&d"
+  Purple:
+    options:
+      prefix: "&e\xe2\u0153\u201d&5"
+    permissions:
+    - xteam.report.use
+    - essentials.helpop
+    - essentials.msg
+    - essentials.tell
+  Orange:
+    options:
+      prefix: "&e\xe2\u0153\u201d&6"
+  Colors:
+    options:
+      prefix: "&e\xe2\u0153\u201d&a"
+    permissions:
+    - xteam.report.use
+    - color.orange
+    - color.purple
+    - color.darkgreen
+    - color.pink
+    - color.blue
+    - color.reset
+    - essentials.helpop
+    - essentials.msg
+    - essentials.tell
+  Manager:
+    options:
+      prefix: '&8[&cManager&8]&c'
+    permissions:
+    - '*'
+schema-version: 1
+users:
+  3fdba974-1c2c-37c2-88a3-207f90fd5ed3:
+    group:
+    - Owner
+    options:
+      name: Vuxtel
+    permissions:
+    - '*'
+  b9231c19-521a-301c-b0f9-268391a1ef6b:
+    group:
+    - Owner
+    options:
+      name: VUXTEL
+  c9fb5add-0ad7-495c-9f14-f87c844ae090:
+    permissions:
+    - '*'
+    options:
+      name: verry_manu
+    group:
+    - Owner

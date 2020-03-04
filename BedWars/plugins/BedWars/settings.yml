@@ -1,0 +1,87 @@
+MySQL:
+  Enable: false
+  Host: localhost
+  Name: data
+  User: usere
+  Password: '12345'
+Item:
+  Join: BOOK,0,&e&lArena &7(Click Droit),1
+  Stats: PAPER,0,&e&lStats &7(Click Doit),1
+  Leave: MAGMA_CREAM,0,&e&lRevien Au Lobby &7(Click Droit),1
+Game: Bed
+Per World:
+  Enable: false
+  Enable-World:
+  - world
+Spectator Gamemode: 1
+Map Size: 250
+On Join Item: true
+Hub Server: Lobby
+Win Command: move <PLAYER>
+Bed Command: move <PLAYER>
+Disable Command: true
+Disable Command Allowed:
+- /help
+HealthBar:
+  Enable: true
+Chat Enable: true
+Scoreboard Enable: true
+BungeeCord:
+  Enable: false
+  Main Server: false
+  Servers:
+  - BedWars-1
+  Arena: Arena NAME
+Play Command: bw play
+MysteryBox:
+  Price: 50
+Coins:
+  Per Kill: 1
+  Per Win: 5
+Block Words:
+- noob
+Arena:
+  Hollow:
+    Mob: SKELETON
+Selector:
+  Glass Color:
+    Background: 3
+    Next Page: 11
+    Back Page: 11
+  Arena:
+    Material: 159
+    Data:
+      In Waiting: 5
+      Starting: 4
+      In Game: 14
+      End: 15
+  Name:
+    Arena: '&f<ARENA>'
+    Random Join: '&7Random Join'
+    Next Page: '&9Next Page'
+    Back Page: '&9Back Page'
+  Lore:
+  - '&c'
+  - '&a>> &f&lStats'
+  - '&fJoueurs: &7<ON>/<MAX>'
+  - '&fMode: &7<MODE>'
+  - '&fStatue: &7<STATE>'
+  - '&8'
+Generator:
+  Time:
+    Iron: 1
+    Gold: 5
+    Diamond:
+      '1': 30
+      '2': 15
+      '3': 5
+    Emerald:
+      '1': 60
+      '2': 30
+      '3': 15
+Game Global Chat Format: '&7GLOBAL <TEAM> &f<PLAYER> &6>>&f <MESSAGE>'
+Game Chat Format: <TEAM> &f<PLAYER> &6>>&f <MESSAGE>
+Waiting Chat Format: '&7[&6Lobby&7] &f<PLAYER> &6>>&f <MESSAGE>'
+Lobby Chat Format: '&7[&6<SCORE>&7] &f<PLAYER> &6>>&f <MESSAGE>'
+Waiting Time: 10
+Spawn: Lobby,-66.5,22.0,-3.5,-0.30685747,-8.066612

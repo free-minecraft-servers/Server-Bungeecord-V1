@@ -1,0 +1,106 @@
+worlds:
+  world:
+    seed: -6762810623213191114
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: -0.5607499380139241
+      y: 118.0
+      z: 3.5186290031638436
+      pitch: -1.9809633
+      yaw: 90.77426
+      world: world
+    autoload: true
+    bedrespawn: true
+  world_nether:
+    seed: -3242673855315857277
+    environment: NETHER
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 8.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: -7.5
+      y: 67.0
+      z: -3.5
+      pitch: 0.0
+      yaw: 0.0
+      world: world_nether
+    autoload: true
+    bedrespawn: true
+  world_the_end:
+    seed: -3242673855315857277
+    environment: THE_END
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 64.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: world_the_end
+    autoload: true
+    bedrespawn: true

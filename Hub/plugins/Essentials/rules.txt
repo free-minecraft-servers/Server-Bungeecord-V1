@@ -1,0 +1,5 @@
+&c[*] &eSharpness 1  
+&c[*] &eProtection 1
+&c[*] &eFire 0
+&c[*] &ePower 3
+&c[*] &eNo strenght / Regeneration

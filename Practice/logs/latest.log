@@ -1,0 +1,321 @@
+[19:30:40] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[19:30:40] [Server thread/INFO]: Loading properties
+[19:30:41] [Server thread/INFO]: Default game type: SURVIVAL
+[19:30:41] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-1f7d532 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[19:30:41] [Server thread/INFO]: Debug logging is disabled
+[19:30:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:30:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:30:41] [Server thread/INFO]: Generating keypair
+[19:30:41] [Server thread/INFO]: Starting Minecraft server on *:25567
+[19:30:43] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[19:30:43] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[19:30:43] [Server thread/INFO]: [KnockbackPatch] Loading KnockbackPatch v1.0
+[19:30:43] [Server thread/INFO]: [Skript] Loading Skript v2.2-Fixes-V8
+[19:30:43] [Server thread/INFO]: [NoRain] Loading NoRain v1.0
+[19:30:43] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[19:30:43] [Server thread/INFO]: [SkQuery] Loading SkQuery v3.21.4
+[19:30:43] [Server thread/INFO]: [RejoinTP] Loading RejoinTP v0.1
+[19:30:43] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[19:30:44] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.5
+[19:30:44] [Server thread/INFO]: [VoidSpawn] Loading VoidSpawn v1.16.0
+[19:30:44] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[19:30:44] [Server thread/INFO]: [AlwaysDay] Loading AlwaysDay v2.2.8
+[19:30:44] [Server thread/INFO]: [Reporter] Loading Reporter v1.0
+[19:30:44] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.0.7
+[19:30:44] [Server thread/INFO]: [SimplePvPDrops] Loading SimplePvPDrops v1.3.1
+[19:30:44] [Server thread/INFO]: [WildSkript] Loading WildSkript v1.8
+[19:30:44] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[19:30:44] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.22.8
+[19:30:44] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[19:30:44] [Server thread/INFO]: [StaffPlus] Loading StaffPlus v3.2.2
+[19:30:44] [Server thread/INFO]: [ZavAutoMessager] Loading ZavAutoMessager v3.2
+[19:30:44] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[19:30:44] [Server thread/INFO]: [FastPot] Loading FastPot v4.1
+[19:30:44] [Server thread/INFO]: [Screenshare] Loading Screenshare v2.7
+[19:30:44] [Server thread/INFO]: [HubBasics] Loading HubBasics v5.01121
+[19:30:44] [Server thread/INFO]: [TimeP] Loading TimeP v1.0
+[19:30:44] [Server thread/INFO]: [Janitor] Loading Janitor v1.0.0
+[19:30:44] [Server thread/INFO]: [LiteBans] Loading LiteBans v2.1.23
+[19:30:44] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.5
+[19:30:44] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[19:30:44] [Server thread/INFO]: [Janitor] Enabling Janitor v1.0.0
+[19:30:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:30:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:30:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:30:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:30:44] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[19:30:44] [Server thread/INFO]: Preparing level "spawn"
+[19:30:44] [Server thread/INFO]: -------- World Settings For [spawn] --------
+[19:30:45] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:30:45] [Server thread/INFO]: Clear tick list: false
+[19:30:45] [Server thread/INFO]: View Distance: 10
+[19:30:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:30:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:30:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:30:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:30:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:30:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:30:45] [Server thread/INFO]: Mob Spawn Range: 4
+[19:30:45] [Server thread/INFO]: Anti X-Ray: true
+[19:30:45] [Server thread/INFO]: 	Engine Mode: 1
+[19:30:45] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:30:45] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:30:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:30:45] [Server thread/INFO]: Max TNT Explosions: 100
+[19:30:45] [Server thread/INFO]: Structure Info Saving: true
+[19:30:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:30:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:30:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:30:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:30:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:30:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:30:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:30:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:30:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:30:45] [Server thread/INFO]: Sending up to 5 chunks per packet
+[19:30:45] [Server thread/INFO]: Random Lighting Updates: false
+[19:30:45] [Server thread/INFO]: Alternative Hopper Ticking: false
+[19:30:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:30:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:30:45] [Server thread/INFO]: Max Entity Collisions: 8
+[19:30:45] [Server thread/INFO]: -------- World Settings For [spawn] --------
+[19:30:45] [Server thread/INFO]: WorldServer TickNextTickList cap set at 10000
+[19:30:45] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[19:30:45] [Server thread/INFO]: Keep spawn chunk loaded: true
+[19:30:45] [Server thread/INFO]: World async lighting: false
+[19:30:45] [Server thread/INFO]: Water over lava flow speed: 5
+[19:30:45] [Server thread/INFO]: Inverted Redstone Lamps: false
+[19:30:45] [Server thread/INFO]: Allow undead horse types to be leashed: true
+[19:30:45] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[19:30:45] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[19:30:45] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[19:30:45] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[19:30:45] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[19:30:45] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5898517374043932873)
+[19:30:46] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[19:30:46] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:30:46] [Server thread/INFO]: [KnockbackPatch] Enabling KnockbackPatch v1.0
+[19:30:46] [Server thread/INFO]: [Skript] Enabling Skript v2.2-Fixes-V8
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 166! (aliases-english.sk, line 202: barrier = 166')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 179! (aliases-english.sk, line 356: red sand[ ]stone¦s = 179')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 182! (aliases-english.sk, line 600: {default} = 44, 126, 182')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 182! (aliases-english.sk, line 601: single = 44, 126, 182')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 181! (aliases-english.sk, line 602: double = 43, 125, 181')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 182! (aliases-english.sk, line 608: {default} = 182')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 182! (aliases-english.sk, line 609: single = 182')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 181! (aliases-english.sk, line 610: double = 181')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 180! (aliases-english.sk, line 735: red sand[ ]stone = 180')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 193! (aliases-english.sk, line 802: {default} = 64, 71, 193, 194, 195, 196, 197')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 193! (aliases-english.sk, line 803: wood[en] = 64, 193, 194, 195, 196, 197')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 193! (aliases-english.sk, line 806: (pine|redwood|fir|spruce) [wood] = 193')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 194! (aliases-english.sk, line 807: birch [wood] = 194')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 195! (aliases-english.sk, line 808: jungle [wood] = 195')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 196! (aliases-english.sk, line 809: acacia [wood] = 196')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 197! (aliases-english.sk, line 810: dark oak [wood] = 197')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 427! (aliases-english.sk, line 817: {default} = 324, 330, 427, 428, 429, 430, 431')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 427! (aliases-english.sk, line 818: wood[en] = 324, 427, 428, 429, 430, 431')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 427! (aliases-english.sk, line 821: (pine|redwood|fir|spruce) [wood] = 427')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 428! (aliases-english.sk, line 822: birch [wood] = 428')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 429! (aliases-english.sk, line 823: jungle [wood] = 429')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 430! (aliases-english.sk, line 824: acacia [wood] = 430')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 431! (aliases-english.sk, line 825: dark oak [wood] = 431')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 193! (aliases-english.sk, line 828: {default} = 64, 71, 193, 194, 195, 196, 197, 324, 330, 427, 428, 429, 430, 431')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 193! (aliases-english.sk, line 829: wood[en] = 64, 193, 194, 195, 196, 197, 324, 427, 428, 429, 430, 431')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 193! (aliases-english.sk, line 832: (pine|redwood|fir|spruce) [wood] = 193, 427')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 194! (aliases-english.sk, line 833: birch [wood] = 194, 428')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 195! (aliases-english.sk, line 834: jungle [wood] = 195, 429')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 196! (aliases-english.sk, line 835: acacia [wood] = 196, 430')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 197! (aliases-english.sk, line 836: dark oak [wood] = 197, 431')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 193! (aliases-english.sk, line 838: door¦s = 64, 71, 193, 194, 195, 196, 197, 324, 330, 427, 428, 429, 430, 431')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 167! (aliases-english.sk, line 844: iron trapdoor = 167')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 167! (aliases-english.sk, line 845: iron open[ed] trapdoor¦s = 167:4-7')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 167! (aliases-english.sk, line 846: iron closed trapdoor¦s = 167:0-3')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 183! (aliases-english.sk, line 848: fence gate¦s = 107, 183, 184, 185, 186, 187')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 183! (aliases-english.sk, line 850: {default} = 107, 183, 184, 185, 186, 187')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 183! (aliases-english.sk, line 851: wooden = 107, 183, 184, 185, 186, 187')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 183! (aliases-english.sk, line 853: (pine|redwood|fir|spruce) [wood] = 183')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 184! (aliases-english.sk, line 854: birch [wood] = 184')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 185! (aliases-english.sk, line 855: jungle [wood] = 185')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 186! (aliases-english.sk, line 856: acacia [wood] = 186')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 187! (aliases-english.sk, line 857: dark oak [wood] = 187')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 178! (aliases-english.sk, line 990: inverted daylight sensor¦s = 178')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 188! (aliases-english.sk, line 1030: {default} = 85, 113, 188, 189, 190, 191, 192')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 188! (aliases-english.sk, line 1032: wooden = 85, 188, 189, 190, 191, 192')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 188! (aliases-english.sk, line 1034: (pine|redwood|fir|spruce) [wood] = 188')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 189! (aliases-english.sk, line 1035: birch [wood] = 189')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 190! (aliases-english.sk, line 1036: jungle [wood] = 190')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 191! (aliases-english.sk, line 1037: acacia [wood] = 191')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 192! (aliases-english.sk, line 1038: dark oak [wood] = 192')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 165! (aliases-english.sk, line 1278: slime block = 165')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 168! (aliases-english.sk, line 1281: prismarine block¦s = 168:0')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 168! (aliases-english.sk, line 1282: prismarine brick¦s = 168:1')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 168! (aliases-english.sk, line 1283: dark prismarine block¦s = 168:2')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 168! (aliases-english.sk, line 1284: any prismarine block¦s = 168:0-2')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 169! (aliases-english.sk, line 1285: sea lantern¦s = 169')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 409! (aliases-english.sk, line 1286: prismarine shard¦s = 409')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 410! (aliases-english.sk, line 1287: prismarine crystal¦s = 410')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 176! (aliases-english.sk, line 1290: {wool} banner = 176, 177, 425')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 425! (aliases-english.sk, line 1291: {wool} banner item = 425')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 176! (aliases-english.sk, line 1292: {wool} banner block = 176, 177')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 176! (aliases-english.sk, line 1293: {wool} standing banner [block] = 176')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 177! (aliases-english.sk, line 1294: {wool} wall banner [block] = 177')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 411! (aliases-english.sk, line 1851: [<any>] rabbit meat = 411, 412')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 411! (aliases-english.sk, line 1852: raw rabbit¦s = 411')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 411! (aliases-english.sk, line 1853: raw rabbit meat = 411')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 412! (aliases-english.sk, line 1854: cooked rabbit¦s = 412')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 412! (aliases-english.sk, line 1855: cooked rabbit meat = 412')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 413! (aliases-english.sk, line 1856: rabbit stew¦s = 413')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 414! (aliases-english.sk, line 1857: rabbit foot¦s = 414')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 415! (aliases-english.sk, line 1858: rabbit hide¦s = 415')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 415! (aliases-english.sk, line 1859: rabbit skin = 415')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 415! (aliases-english.sk, line 1860: rabbit leather = 415')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 416! (aliases-english.sk, line 1864: armo[u]r stand = 416')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 423! (aliases-english.sk, line 1885: [<any>] mutton = 423, 424')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 423! (aliases-english.sk, line 1886: [<any>] sheep meat = 423, 424')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 423! (aliases-english.sk, line 1887: raw mutton = 423')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 423! (aliases-english.sk, line 1888: raw sheep meat = 423')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 424! (aliases-english.sk, line 1889: cooked mutton = 424')
+[19:30:47] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 424! (aliases-english.sk, line 1890: cooked sheep meat = 424')
+[19:30:47] [Server thread/ERROR]: [Skript] 'cooked rabbit' is not an item type (aliases-english.sk, line 124: healthy food¦s = any apple, mushroom soup, bread, cooked porkchop, cooked fish, cookie, melon slice, steak, cooked chicken, any carrot, potato, baked potato, pumpkin pie, cooked rabbit, rabbit stew, cooked mutton')
+[19:30:47] [Server thread/INFO]: [Skript] Loaded a total of 11821 english aliases
+[19:30:47] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[19:30:47] [Server thread/INFO]: [NoRain] Enabling NoRain v1.0
+[19:30:47] [Server thread/INFO]: [0;32;1m>>>>>>>>>>>>>>>>>>[0;36;1mNoRain[0;32;1m<<<<<<<<<<<<<<<<<[m
+[19:30:47] [Server thread/INFO]: [0;36;1mNoRain [0;33;1m1.0 [0;33;22menabled![m
+[19:30:47] [Server thread/INFO]: [0;31;1mAll rights reserved by NeonnBukkit![m
+[19:30:47] [Server thread/INFO]: [0;31;1mYou are not allowed to decompile this plugin![m
+[19:30:47] [Server thread/INFO]: [0;32;1m>>>>>>>>>>>>>>>>>>[0;36;1mNoRain[0;32;1m<<<<<<<<<<<<<<<<<[m
+[19:30:47] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[19:30:48] [Server thread/INFO]: Il formato della versione Bukkit e' cambiato. Versione non controllata.
+[19:30:48] [Server thread/INFO]: git-PaperSpigot-1f7d532 (MC: 1.7.10)
+[19:30:48] [Server thread/INFO]: 1.7.10-R0.1-SNAPSHOT
+[19:30:48] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[19:30:48] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[19:30:48] [Server thread/INFO]: [SkQuery] Enabling SkQuery v3.21.4
+[19:30:48] [Server thread/INFO]: [skQuery] Snooping enabled from com.w00tmast3r.skquery.SkQuery
+[19:30:48] [Server thread/INFO]: [skQuery] Locating classes from SkQuery...
+[19:30:48] [Server thread/INFO]: [skQuery] Finished snooping of SkQuery with 163 classes.
+[19:30:48] [Server thread/INFO]: [skQuery] Beginning to process a total of 163 from SkQuery
+[19:30:48] [Server thread/INFO]: [skQuery] Out of 163 classes, 160 classes were loaded from SkQuery
+[19:30:48] [Server thread/INFO]: [RejoinTP] Enabling RejoinTP v0.1
+[19:30:48] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[19:30:48] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[19:30:48] [Server thread/INFO]: [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+[19:30:48] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'spawn' - Env: NORMAL - Type: FLAT & seed: 5898517374043932873
+[19:30:48] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[19:30:48] [Server thread/INFO]: [VoidSpawn] Enabling VoidSpawn v1.16.0
+[19:30:48] [Server thread/INFO]: [0;36;22m[[0;35;1mVoidSpawn[0;36;22m] [m[0;33;1mNo SkyBlock plugins found, disabling island mode support.[m
+[19:30:49] [Server thread/INFO]: [0;36;22m[[0;35;1mVoidSpawn[0;36;22m] [m[0;33;1mv1.16.0 by EnderCrest enabled[m
+[19:30:49] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[19:30:49] [Server thread/INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
+[19:30:49] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[19:30:49] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is blocked.
+[19:30:49] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[19:30:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn'
+[19:30:49] [Server thread/INFO]: [WorldGuard] Loading region data...
+[19:30:49] [Server thread/INFO]: [AlwaysDay] Enabling AlwaysDay v2.2.8
+[19:30:49] [Server thread/INFO]: [AlwaysDay] AlwaysDay v2.2.8 is now enabled.
+[19:30:49] [Server thread/INFO]: Please donate at the AlwaysDay page (http://dev.bukkit.org/server-mods/always-day/) if you are enjoying this plugin! Any contributions are greatly appreciated!
+[19:30:49] [Server thread/INFO]: [Reporter] Enabling Reporter v1.0
+[19:30:49] [Server thread/INFO]: Report plugin created by lilian58660.
+[19:30:49] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.0.7
+[19:30:49] [Server thread/WARN]: [ChestCommands] Vault with a compatible economy plugin was not found! Icons with a PRICE or commands that give money will not work.
+[19:30:50] [Server thread/INFO]: [SimplePvPDrops] Enabling SimplePvPDrops v1.3.1
+[19:30:50] [Server thread/INFO]: [WildSkript] Enabling WildSkript v1.8
+[19:30:50] [Server thread/INFO]: [WildSkript] skQuery hooked!
+[19:30:50] [Server thread/INFO]: [WildSkript] Classes, Events, Conditions, Effects, Expressions and EventValues have been registered!
+[19:30:50] [Server thread/INFO]: [WildSkript] Objects and Complex have been registered!
+[19:30:50] [Server thread/INFO]: [WildSkript] ~ Created by & © Dzikoysk ~
+[19:30:50] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[19:30:50] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.22.8
+[19:30:50] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[19:30:50] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[19:30:50] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[19:30:50] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[19:30:50] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.2.2
+[19:30:50] [Server thread/WARN]: [StaffPlus] Default system encoding may have misread config.yml from plugin jar
+[19:30:50] [Server thread/INFO]: API class 'org.inventivetalent.packetlistener.PacketListenerAPI' is not yet initialized. Creating new instance.
+[19:30:50] [Server thread/INFO]: [ReflectionHelper] Version is v1_7_R4 (10704)
+[19:30:50] [Server thread/INFO]: [PacketListenerAPI] Using NMUChannel
+[19:30:50] [Server thread/INFO]: Injected custom channel handlers.
+[19:30:50] [Server thread/INFO]: Adding channels for online players...
+[19:30:50] [Server thread/INFO]: [0;32;22m[Staff+] [0;32;1mVersion protocol set to 'v1_7_R4'.[m
+[19:30:51] [Server thread/INFO]: [0;32;22m[Staff+] [0;32;1mStaff+ has been enabled! Initialization took 552ms.[m
+[19:30:51] [Server thread/INFO]: [0;32;22m[Staff+] [0;32;1mPlugin created by Shortninja.[m
+[19:30:51] [Server thread/INFO]: [ZavAutoMessager] Enabling ZavAutoMessager v3.2
+[19:30:51] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[19:30:51] [Thread-10/WARN]: [PermissionsEx] An update to PermissionsEx version 1.23.4 is available to download from http://dev.bukkit.org/bukkit-plugins/permissionsex/. Please review the changes and update as soon as possible!
+[19:30:51] [Server thread/INFO]: [FastPot] Enabling FastPot v4.1
+[19:30:51] [Server thread/INFO]: [Screenshare] Enabling Screenshare v2.7
+[19:30:51] [Server thread/INFO]: [HubBasics] Enabling HubBasics v5.01121
+[19:30:51] [Server thread/ERROR]: Error occurred while enabling HubBasics v5.01121 (Is it up to date?)
+java.lang.NoSuchMethodError: org.bukkit.inventory.meta.ItemMeta.getItemFlags()Ljava/util/Set;
+	at net.notfab.hubbasics.objects.CustomItem.<init>(CustomItem.java:82) ~[?:?]
+	at net.notfab.hubbasics.objects.CommandItem.<init>(CommandItem.java:78) ~[?:?]
+	at net.notfab.hubbasics.utils.ConfigDefaults.getJoinItemsDefault(ConfigDefaults.java:44) ~[?:?]
+	at net.notfab.hubbasics.plugin.settings.ConfigurationKey.<clinit>(ConfigurationKey.java:95) ~[?:?]
+	at net.notfab.hubbasics.plugin.messages.HMessenger.sendDebugMessage(HMessenger.java:103) ~[?:?]
+	at net.notfab.hubbasics.plugin.settings.FileConverter$ReplaceConversion.convert(FileConverter.java:108) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Unknown Source) ~[?:1.8.0_161]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Unknown Source) ~[?:1.8.0_161]
+	at java.util.stream.ReferencePipeline$Head.forEach(Unknown Source) ~[?:1.8.0_161]
+	at net.notfab.hubbasics.plugin.settings.FileConverter.convert(FileConverter.java:35) ~[?:?]
+	at net.notfab.hubbasics.HubBasics.onEnable(HubBasics.java:66) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) ~[custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:412) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:476) [custom.jar:git-PaperSpigot-1f7d532]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:394) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.n(MinecraftServer.java:354) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.g(MinecraftServer.java:328) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.a(MinecraftServer.java:284) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.init(DedicatedServer.java:227) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:494) [custom.jar:git-PaperSpigot-1f7d532]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [custom.jar:git-PaperSpigot-1f7d532]
+[19:30:51] [Server thread/INFO]: [TimeP] Enabling TimeP v1.0
+[19:30:51] [Server thread/INFO]: [LiteBans] Enabling LiteBans v2.1.23
+[19:30:52] [Server thread/INFO]: [LiteBans] Loading SQL driver: h2 (org.h2.Driver)
+[19:30:52] [Server thread/INFO]: [LiteBans] Connecting to database...
+[19:30:52] [Server thread/INFO]: [LiteBans] Connected to [jdbc:h2://C:\Users\Asus\Desktop\MC\Server Bungecord V1\Practice\plugins\LiteBans\litebans] (457,9 ms).
+[19:30:52] [Server thread/INFO]: [LiteBans] Database connection fully initialized (474,5 ms).
+[19:30:52] [Server thread/INFO]: [LiteBans] v2.1.23 enabled. Startup took 838 ms.
+[19:30:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:30:52] [Server thread/INFO]: Done (7,983s)! For help, type "help" or "?"
+[19:30:52] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mFound a new version: v3.1.4[0;37;1m (yours: v3.0.7)[m
+[19:30:52] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mDownload it on Bukkit Dev:[m
+[19:30:52] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mdev.bukkit.org/bukkit-plugins/chest-commands[m
+[19:30:52] [Craft Scheduler Thread - 3/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m Checking for the latest version of Skript...[m
+[19:30:53] [Server thread/INFO]: [Skript] Loading variables...
+[19:30:53] [Server thread/ERROR]: #!#! 
+[19:30:53] [Server thread/ERROR]: #!#! ===!!!=== Skript variable load error ===!!!===
+[19:30:53] [Server thread/ERROR]: #!#! Unable to load (all) variables:
+[19:30:53] [Server thread/ERROR]: #!#! You need the plugin SQLibrary in order to use a database with Skript. You can download the latest version from http://dev.bukkit.org/server-mods/sqlibrary/files/
+[19:30:53] [Server thread/ERROR]: #!#! You need the plugin SQLibrary in order to use a database with Skript. You can download the latest version from http://dev.bukkit.org/server-mods/sqlibrary/files/
+[19:30:53] [Server thread/ERROR]: #!#! You need the plugin SQLibrary in order to use a database with Skript. You can download the latest version from http://dev.bukkit.org/server-mods/sqlibrary/files/
+[19:30:53] [pool-5-thread-2/INFO]: [0;31;22m[LiteBans] [0;31;1mThis is a leaked copy of the plugin! ID: -2087973441.[0;33;1m https://www.spigotmc.org/resources/litebans.3715/[m
+[19:30:53] [Server thread/ERROR]: #!#! 
+[19:30:53] [Server thread/ERROR]: #!#! Skript will work properly, but old variables might not be available at all and new ones may or may not be saved until Skript is able to create a backup of the old file and/or is able to connect to the database (which requires a restart of Skript)!
+[19:30:53] [Server thread/ERROR]: #!#! 
+[19:30:53] [Server thread/INFO]: [Skript] Loaded 412 variables in 0.2 seconds
+[19:30:53] [Skript update thread/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running a [3mbeta[m version of Skript, and no new [3mstable[m version is available. Please note that you have to update to newer beta versions manually![m
+[19:30:57] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[19:30:57] [Server thread/INFO]: [Skript] Loaded 2 scripts with a total of 40 triggers and 24 commands in 3.7 seconds
+[19:30:57] [Server thread/INFO]: [Skript] Finished loading.
+[19:30:57] [User Authenticator #1/INFO]: UUID of player verry_manu is c9fb5add-0ad7-495c-9f14-f87c844ae090
+[19:30:57] [Server thread/INFO]: verry_manu [c9fb5add-0ad7-495c-9f14-f87c844ae090]: /leave
+[19:30:57] [Server thread/INFO]: verry_manu[/192.168.137.1:52565] logged in with entity id 0 at ([spawn] -228.35872127087265, 45.0, -431.4836171651287)
+[19:30:57] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 4.3.0 (Running 3.6.5). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
+[19:30:57] [Server thread/INFO]: Took all effects from verry_manu[m
+[19:31:05] [Craft Scheduler Thread - 1/WARN]: [Skript] A new version of Skript Fixes has been found. Skript 2.2 Fixes <!DOCTYPEhtml><!--vieneusatodam.wind.it--><htmlxmlns:fb="http://ogp.me/ns/fb#"><head><metacontent="text/html;charset=utf-8"http-equiv="Content-Type"><metaname="HandheldFriendly"content="True"><metaname="viewport"content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"><metaname="format-detection"content="telephone=no"><metaproperty="robots"content="noindex,nofollow"><linktype="text/css"rel="stylesheet"href="http://d2vdd8rzfx5z7y.cloudfront.net/m/css/global.min.css"/><linkrel="stylesheet"media="all"type="text/css"href="http://d2vdd8rzfx5z7y.cloudfront.net/m/consenso/css/cookie.css"/><scripttype="text/javascript"src="http://d2vdd8rzfx5z7y.cloudfront.net/m/js/jquery.min.js"></script><scripttype="text/javascript"src="http://d2vdd8rzfx5z7y.cloudfront.net/m/js/common.min.js"></script><scripttype="text/javascript"src="http://d2vdd8rzfx5z7y.cloudfront.net/m/js/slideMenu.min.js"></script><scripttype="text/javascript"src="http://d2vdd8rzfx5z7y.cloudfront.net/m/js/utils.min.js"></script><scripttype="text/javascript"src="http://d2vdd8rzfx5z7y.cloudfront.net/m/js/accordionPopUp.min.js"></script><scriptsrc="http://d2vdd8rzfx5z7y.cloudfront.net/m/consenso/js/jquery.cookie.js"></script><scriptsrc="http://d2vdd8rzfx5z7y.cloudfront.net/m/consenso/js/underscore.js"type="text/javascript"></script><scriptsrc="http://d2vdd8rzfx5z7y.cloudfront.net/m/consenso/js/jquery.debouncedresize.js"type="text/javascript"></script><scriptsrc="http://d2vdd8rzfx5z7y.cloudfront.net/m/consenso/js/script_cookie_new.js"type="text/javascript"></script><style>.banner{margin-top:20px;width:320px;margin-left:auto;margin-right:auto;}</style><!--GoogleTagManagernocookie--><noscript><iframesrc="//www.googletagmanager.com/ns.html?id=GTM-P5C4RP"height="0"width="0"style="display:none;visibility:hidden"></iframe></noscript><script>functionDNS_ERROR_Analytics(){(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':newDate().getTime(),event:'gtm.js'});varf=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WRMPNG');}</script><!--EndGoogleTagManagersicookie--><!--GoogleTagManagersicookie--><noscript><iframesrc="//www.googletagmanager.com/ns.html?id=GTM-WRMPNG"height="0"width="0"style="display:none;visibility:hidden"></iframe></noscript><script>functionDNS_ERROR_ADV(){(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':newDate().getTime(),event:'gtm.js'});varf=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P5C4RP');}</script><!--EndGoogleTagManagersicookie--><!--INITTAGMANAGE--><script>DNS_ERROR_Analytics();if(cookie_consenso!=undefined&&cookie_consenso!=""){if(cookie_consenso.flag_cons=="SI"){DNS_ERROR_ADV();}}</script><styletype="text/css">#page{-webkit-transition-duration:0s!important;transition-duration:0s!important;}</style><scripttype="text/javascript">functionscrollTo(id){$('html,body').animate({scrollTop:$('#'+id).offset().top},300);}</script><scripttype="text/javascript">functionhidePowerdByGoogle(){$(".search-inputinput").attr("style","background:none;");$(".search-inputinput").val("");}functionshowPowerdByGoogle(){if($(".search-inputinput").val().trim()==""||$(".search-inputinput").val().trim()=="Cerca"){$(".search-inputinput").removeAttr("style");$(".search-inputinput").val("Cerca");}}functioncloseButtonClick(){$(".search-inputinput").val("");$(".close-button").hide();showPowerdByGoogle();}functioncloseButtonShow(){$(".close-button").show();}functioninputKeyUp(){if($(".search-inputinput").val().trim()==""||(".search-inputinput").val().trim()=="Cerca"){$(".close-button").hide();}else{$(".close-button").show();hidePowerdByGoogle();}}functionsearchButtonClick(event){if($(".search-inputinput").val().trim()!=""&&$(".search-inputinput").val().trim()!="Cerca"){$("#google-search-form").submit();}}$(document).ready(function(){if($(".search-inputinput").val().trim()!=""){hidePowerdByGoogle();closeButtonShow();}else{$(".search-inputinput").val("Cerca");}});</script><!--Lasezionedijavascriptcheseguedeveessereriportataprimadellechiamateaijavascriptdeibanner(infondoalpresentefileditesto)--><scripttype='text/javascript'>vargoogletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){vargads=document.createElement('script');gads.async=true;gads.type='text/javascript';varuseSSL='https:'==document.location.protocol;gads.src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';varnode=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads,node);})();</script><scripttype='text/javascript'>//googletag.cmd.push(function(){////if(cookie_consenso==undefined||cookie_consenso==""){//googletag.pubads().setCookieOptions(1);//}elseif(cookie_consenso.flag_cons=="NO"){//googletag.pubads().setCookieOptions(1);//}////googletag.defineSlot('/129279927/DFP_973',[320,50],'div-gpt-ad-1423224962427-0').addService(googletag.pubads());//googletag.pubads().enableSingleRequest();//googletag.enableServices();//});googletag.cmd.push(function(){varslots={'/120957119/DFP_1023':'div-gpt-ad-1473257275232-0'};if(cookie_consenso==undefined||cookie_consenso==""){googletag.pubads().setCookieOptions(1);}elseif(cookie_consenso.flag_cons=="NO"){googletag.pubads().setCookieOptions(1);}for(varslotinslots){varmyslot=googletag.defineSlot(slot,[300,250],slots[slot]).addService(googletag.pubads());}googletag.pubads().addEventListener('slotRenderEnded',function(data){if(data.isEmpty)return;jQuery('#'+slots[data.slot.getAdUnitPath()]+'iframe[width]').contents().click(onAgreemntDelegate);});googletag.pubads().enableSingleRequest();googletag.enableServices();});</script></head><body><divid="gbdy"><divid="page"><div><inputid="j_id25"name="j_id25"value="Cerca"style="position:absolute;left:-90000px;top:-90000px;"type="submit"></div><divid="pageContent"><divclass="header-mwind"><divclass="icon-menu-mwind"><aclass="btt_slidemenu"href="javascript:void(0);"onclick="handleSlideMenu();"><imgid="buttonMenu"alt=""src="http://d2vdd8rzfx5z7y.cloudfront.net/images/tnsc--478987239.png"height="38"width="54"></a></div><divclass="header-img-mwind"><ahref="http://m.wind.it/m/wind"><imgalt=""src="http://d2vdd8rzfx5z7y.cloudfront.net/images/tnsc-1133393209.gif"height="117"width="252"></a></div><spanclass="clear-mwind"></span></div><divclass="navigation-mwind"><!--<ahref="http://m.wind.it/m/wind"class="itemHeaderactive-mwind"style="width:33%">Mobile</a><ahref="http://m.infostrada.it/"class="itemHeader"style="width:33%">ADSL</a><ahref="http://www.windbusiness.it/"class="itemHeader"style="width:33%">Business</a>--><spanclass="clear"></span></div><divclass="separator-component-header"></div><divid="mycontent"><!--Ilframmentodijavascriptcheseguevaposizionatoincorrispondenzadelbannerdavisualizzare--><!--Ricerca_Mobile--><divclass="not-found"><h3>Ops!Paginanontrovata</h3><p><b>Ricercaleinfodicuihaibisogno:</b></p></div><divclass="searchContainer"><formid="google-search-form"action="search.php"method="get"><divclass="google-search"><divclass="search-input"><inputtype="text"name="q"onclick="hidePowerdByGoogle()"onmouseout="showPowerdByGoogle()"onchange="showPowerdByGoogle()"onkeyup="inputKeyUp()"/></div><divclass="close-button"><spanonclick="closeButtonClick()">Ã—</span></div><divclass="search-button"><imgclass="searchButton"src="http://d2vdd8rzfx5z7y.cloudfront.net/images/searchbutton_mobile.png"onclick="searchButtonClick()"/></div></div></form></div><divclass="rgoogle"><imgsrc="http://d2vdd8rzfx5z7y.cloudfront.net/images/google_custom_search_watermark.png"/></div><!--/WINDINNESTOGOOGLESEARCH--></div><divclass="clear"></div><divclass="banner"><!--/120957119/DFP_1023--><divid='div-gpt-ad-1473257275232-0'style='height:250px;width:300px;'><scripttype='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1473257275232-0');});</script></div></div><divclass="clear"></div><divclass="prefooter"><spanclass="prefooter-ul"><spanclass="prefooter-li"><ahref="http://www.wind.it/it/privati/">VisitaWind.it</a></span><spanclass="prefooter-li"><spanclass="">Seguicisu</span></span><spanclass="prefooter-li-social"><ahref="https://www.facebook.com/Wind"><imgalt=""src="http://d2vdd8rzfx5z7y.cloudfront.net/images/tnsc--433766767.png"height="90"width="90"></a></span><spanclass="prefooter-li-social"><ahref="http://www.youtube.com/winditalia"><imgalt=""src="http://d2vdd8rzfx5z7y.cloudfront.net/images/tnsc--433766767_003.png"height="90"width="90"></a></span><spanclass="prefooter-li-social"><ahref="https://twitter.com/WindItalia"><imgalt=""src="http://d2vdd8rzfx5z7y.cloudfront.net/images/tnsc--433766767_002.png"height="90"width="90"></a></span></span><divclass="clear"></div></div><divclass="bottomLink"><divclass="bottomLinkContainerFooter"><divid="store-sublist"class="category-sublist"><divclass="bottomLinkTextRight"><ahref="http://www.windgroup.it/"><divclass="textFooter">WindGroup</div></a><divclass="clear"></div></div><divclass="bottomLinkTextRight"><divclass="separatoreVerticaleFooter">|</div><ahref="https://www.wind.it/it/gen/privacy.phtml"><divclass="textFooter">Privacy</div></a><divclass="clear"></div></div><divclass="bottomLinkTextLeft"><divclass="separatoreVerticaleFooter">|</div><ahref="http://m.wind.it/m/wind/it/assistenza/informativa_iva/"><divclass="textFooter">AdeguamentoIVA</div></a><divclass="clear"></div></div></div><divclass="clear"></div></div><divclass="sottoContenitoreText"><divclass="bottomTextContainer1"><divclass="bottomText">Â©WindTreS.p.A.</div></div><divclass="bottomTextContainer1"><divclass="bottomText">PartitaIVA:13378520152</div></div></div></div><divclass="clear"></div></div></div><divid="slideLeftMenu"class="leftMenu"><divclass="menu-container"><divid="store-sublist"class="list-menu-item"><divclass="menu-item"><divclass="search-container"><inputid="store-sublist:0:j_id22"name="store-sublist:0:j_id22"class="inputsearch"type="text"><imgalt=""src="http://d2vdd8rzfx5z7y.cloudfront.net/images/tnsc--1120001196_005.gif"class="image-search"height="22"width="22"></div><ahref="http://m.wind.it/m/wind/"class="slideOut"></a><spanclass="clear"></span></div><divclass="menu-item"><ahref="http://m.wind.it/"class="slideOut"><divclass="labelleft">Home</div><imgalt=""src="http://d2vdd8rzfx5z7y.cloudfront.net/images/tnsc--1120001196_007.gif"class="iconright"height="18"width="24"></a><spanclass="clear"></span></div><divclass="menu-item"><ahref="https://start.wind.it/m/mwindsp?from=mwind"class="slideOut"><divclass="labelleft">AreaClienti-MyWind</div><imgalt=""src="http://d2vdd8rzfx5z7y.cloudfront.net/images/tnsc--1120001196.gif"class="iconright"height="19"width="24"></a><spanclass="clear"></span></div><divclass="menu-item"><ahref="http://m.wind.it/m/wind/mobileRecharge"class="slideOut"><divclass="labelleft">Ricarica</div><imgalt=""src="http://d2vdd8rzfx5z7y.cloudfront.net/images/tnsc--1120001196_003.gif"class="iconright"height="20"width="24"></a><spanclass="clear"></span></div><divclass="menu-item"><ahref="http://m.wind.it/m/wind/map"class="slideOut"><divclass="labelleft">TrovaNegozio</div><imgalt=""src="http://d2vdd8rzfx5z7y.cloudfront.net/images/tnsc--1120001196_006.gif"class="iconright"height="20"width="24"></a><spanclass="clear"></span></div><divclass="menu-item"><ahref="http://m.wind.it/m/wind/mobileSupport"class="slideOut"><divclass="labelleft">Assistenza</div><imgalt=""src="http://d2vdd8rzfx5z7y.cloudfront.net/images/tnsc--1120001196_002.gif"class="iconright"height="22"width="22"></a><spanclass="clear"></span></div><divclass="menu-item"><ahref="http://start.wind.it/"class="slideOut"><divclass="labelleft">Start</div><imgalt=""src="http://d2vdd8rzfx5z7y.cloudfront.net/images/tnsc--1120001196_004.gif"class="iconright"height="16"width="24"></a><spanclass="clear"></span></div></div></div></div><div><inputid="j_id85"name="j_id85"value="Cerca"style="position:absolute;left:-90000px;top:-90000px;"type="submit"></div><scripttype="text/javascript">varmenu=document.getElementById('slideLeftMenu');varpageContent=document.getElementById('page');varsemaforo_menu=true;//HANDLESLIDEMENUfunctionhandleSlideMenu(){setHeight();if(semaforo_menu==true){semaforo_menu=false;if(hasClass(menu,'open')){$('#slideLeftMenu').animate({left:'-'+$('#slideLeftMenu').width()+'px'},500,function(){$('#slideLeftMenu').hide();});$('#page').animate({'margin-left':0},500,function(){$('#slideLeftMenu').removeClass('open');semaforo_menu=true;});}else{$('#slideLeftMenu').css('left','-'+$('#slideLeftMenu').width()+'px');$('#slideLeftMenu').animate({left:0},500);$('#slideLeftMenu').css('display','block');$('#page').animate({'margin-left':$('#slideLeftMenu').width()+'px',},500,function(){$('#slideLeftMenu').addClass('open');semaforo_menu=true;});}}}functionsetHeight(){varpageHeight=pageContent.offsetHeight;varpageWidth=pageContent.offsetWidth;varmenuHeight=menu.offsetHeight;varmenuWidth=menu.offsetWidth;varbodyHeight=document.body.offsetHeight;varwindowHeight=window.innerHeight;varform=document.getElementsByTagName('form');if(pageHeight<menuHeight&&menuHeight>windowHeight){pageContent.style.height=menuHeight+'px';document.body.style.height=menuHeight+'px';document.getElementById('gbdy').style.height=menuHeight+'px';if(form!=null&&form!=undefined){form[0].style.height=menuHeight+'px';}}elseif(pageHeight<menuHeight&&menuHeight<=windowHeight){menu.style.height=windowHeight+'px';}elseif(pageHeight>menuHeight&&pageHeight<=windowHeight){menu.style.height=windowHeight+'px';document.body.style.height=windowHeight+'px';document.getElementById('gbdy').style.height=windowHeight+'px';if(form!=null&&form!=undefined){form[0].style.height=windowHeight+'px';}}elseif(pageHeight>menuHeight&&pageHeight>windowHeight){menu.style.height=pageHeight+'px';}}//--></script><div><inputid="sub_act"value=""name="sub_act"type="hidden"></div><div><inputname="javax.faces.ViewState"id="javax.faces.ViewState"value="HTEHUTWq1lbvq1/j22P7vqMBAOYGaLx2mtiOfjkvm0wJ1ELxZ+2XIBC2HtJL/26bNHjvFwtS1A0Fg+uy12ScaJhVZZmSaKnCaVtRFFJY18pkttxv80lu8Ae0gZB7KTne2Uw0pg=="type="hidden"></div><div><inputname="mf"value="mf"type="hidden"></div></div><imgsrc="count.png"/></body></html> has been released. It's recommended to try the latest version.
+[19:31:07] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_1710
+[19:31:07] [Server thread/INFO]: verry_manu [c9fb5add-0ad7-495c-9f14-f87c844ae090]: /§edc
+[19:31:08] [Server thread/INFO]: verry_manu [c9fb5add-0ad7-495c-9f14-f87c844ae090]: /unranked
+[19:31:11] [Server thread/INFO]: verry_manu [c9fb5add-0ad7-495c-9f14-f87c844ae090]: /§edc
+[19:31:12] [Server thread/INFO]: verry_manu [c9fb5add-0ad7-495c-9f14-f87c844ae090]: /ranked
+[19:31:13] [Server thread/INFO]: [m[0;32;1m[0;31;22m[21mOwner[0;32;1mverry_manu[m[0;37;1m: t[m
+[19:31:19] [Server thread/INFO]: verry_manu issued server command: /pl
+[19:31:31] [Server thread/INFO]: verry_manu issued server command: /hub
+[19:31:35] [Server thread/INFO]: verry_manu lost connection: Disconnected
+[19:31:35] [Server thread/INFO]: verry_manu [c9fb5add-0ad7-495c-9f14-f87c844ae090]: /leave
+[19:31:35] [Server thread/INFO]: verry_manu [c9fb5add-0ad7-495c-9f14-f87c844ae090]: /§death00
+[19:31:35] [Server thread/INFO]: [0;31;1mPlayer, verry_manu, not found[m

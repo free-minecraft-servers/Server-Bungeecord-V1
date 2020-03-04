@@ -1,0 +1,51 @@
+#Reporter config file .
+#Plugin by lilian58660.
+send-message: '&cYour report has sended to Staff'
+warning-message: '&cWarning: please no spam with the command.'
+# %reporter% return the reporter's name.
+# %reported% return the reported's name.
+# %reason% return the reason.
+clear-message: '&cReports removeds by %clearer%'
+# %clearer% return the clearer's name.
+cleared-message: '&cList of Reports removed !'
+list-msg: '&c&m----- &6Report List &c&m-----'
+report-message: '&6%reporter% &chas reported to &6%reported% &creason: &6%reason%'
+no-permission: '&cYou don t have the permission  use /report command !'
+no-player: '&cthe player %playername% no exists !'
+correct-use: '&cUse: /report <player>.'
+# %time% is the cooldown-time variable
+cooldown-message: '&cwait %time% minutes for report'
+#In minutes
+cooldown-time: 3
+
+#All material ids can be found here: http://minecraft-ids.grahamedgecombe.com/
+1-material: 101
+1-name: '&cHacker'
+
+2-material: 334
+2-name: '&cSpamming'
+
+3-material: 279
+3-name: '&cKillAura'
+
+4-material: 309
+4-name: '&cFly'
+
+5-material: 345
+5-name: '&cAbusing'
+
+6-material: 267
+6-name: '&cReach'
+
+7-material: 264
+7-name: '&cSpeed'
+
+8-material: 265
+8-name: '&cTriggerbot'
+
+9-material: 340
+9-name: '&cOthers'
+
+#All sounds can be found here: http://ld.lc/org/bukkit/Sound.html
+reporter-sound: 'FIREWORK_LAUNCH'
+receiver-sound: 'FUSE'

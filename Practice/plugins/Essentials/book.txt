@@ -1,0 +1,71 @@
+This is the book file.
+
+This file format works similar to the info.txt, motd.txt and rules.txt
+
+Place content in here that you would like to be used by books ingame.
+
+You can use this content by using the book:<section> meta option in kits or item spawning.
+
+#Colors
+Minecraft colors:
+&0 &&0  &1 &&1  &2 &&2  &3 &&3
+&4 &&4  &5 &&5  &6 &&6  &7 &&7
+&8 &&8  &9 &&9  &a &&a  &b &&b
+&c &&c  &d &&d  &e &&e  &f &&f
+&0 
+&&k &kMagic&r   &&l &lBold
+&&m &mStrike&r  &&n &nUline
+&&o &oItalic&r   &&r &rReset
+#Starter0
+ Welcome to SystemHQ
+
+Website:
+www.systemhq.tk
+
+Store:
+storesystemhq.buycraft.net
+
+TeamSpeak:
+systempvp.teamspeak3.com:9818
+
+#Starter0
+Welcome to SystemHQ
+        Map #1
+
+Our TeamSpeak:
+systempvp.teamspeak3.com
+
+Website and Store:
+systemhq.tk
+
+Kit Map:
+Protect 1 | Sharp 1
+Fire 0 | Power 3
+
+#Starter0
+§0Welcome to SystemHQ
+§0        Map #1
+§0Our TeamSpeak:
+§0systempvp.teamspeak3
+.com
+§0Website and Store:
+§0systemhq.tk
+§0Kit Map:
+§0Protect 1 | Sharp 1
+§0Fire 0 | Power 3
+
+
+#Starter0
+---------------
+Welcome to Kiory
+---------------
+This is our first 
+map enjoy
+---------------
+If you need help 
+join at @ts.kiory.us
+---------------
+Purchase a rank 
+for better fun
+---------------
+

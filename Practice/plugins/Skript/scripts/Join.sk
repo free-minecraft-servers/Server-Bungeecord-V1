@@ -1,0 +1,63 @@
+on join:
+	set join message to ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	
+	
+
+On quit:
+	set leave message to ""
+			
+		
+on command "/pl":
+	cancel event
+	send "&4You don't have access to that command! "
+on command "/plugins":
+	cancel event
+	send "&4You don't have access to that command! "
+on command "/bukkit:pl":
+	cancel event
+	send "&4You don't have access to that command! "
+on command "/bukkit:plugins":
+	cancel event
+	send "&4You don't have access to that command! "
+on command "/?":
+	cancel event
+	send "&4You don't have access to that command!"
+on command "/bukkit:?":
+	cancel event
+	send "&4You don't have access to that command!"
+on command "/version":
+	cancel event
+	send "&4You don't have access to that command! "
+on command "/help":
+	cancel event
+	send "&4You don't have access to that command!"
+on command "/me":
+	cancel event
+	send "&4You don't have access to that command!"
+on command "/say":
+	cancel event
+	send "&4You don't have access to that command!"
+on command "/ver":
+	cancel event
+	send "&4You don't have access to that command!"	
+on command "/icanhasbukkit":
+	cancel event
+	send "&4You don't have access to that command!"				
+		

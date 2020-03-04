@@ -1,0 +1,13 @@
+NPCS:
+  '0':
+    Commands:
+    - bw play~~false
+  '2':
+    Commands:
+    - randomjoin~false~false
+    - random join~~false
+    - randomjoin~~false
+    - bw randomjoin~~false
+  '3':
+    Commands:
+    - opensolo~~false

@@ -1,0 +1,65 @@
+# Enchantments: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/enchantments/Enchantment.html 
+# Items: <MATERIALID>,<DURABILITY>,<NAME>,<AMOUNT>,<ENCHANT>,<ENCHANTLEVEL>
+Kits Free:
+  Default:
+    Name: Default
+    Price: 10
+    needPermision: false
+    Permision: bedwars.kit.default
+    mainItem: WOOD_SWORD
+    Items:
+    - 268,0,NONE,1,NONE,1
+    Lore:
+    - ' '
+    - '&7Contains:'
+    - "&8\xe2\u02c6\u2122 &7Wooden Sword &fx1"
+  Builder:
+    Name: Builder
+    Price: 30
+    needPermision: false
+    Permision: bedwars.kit.builder
+    mainItem: SANDSTONE
+    Items:
+    - 24,0,NONE,16,NONE,1
+    Lore:
+    - ' '
+    - '&7Contains:'
+    - "&8\xe2\u02c6\u2122 &7Sandstone &fx16"
+  Iron:
+    Name: Iron
+    Price: 100
+    needPermision: false
+    Permision: bedwars.kit.iron
+    mainItem: IRON_SWORD
+    Items:
+    - "267,0,\xc2\xa7f\xc2\xa7lIron - Sword,1,NONE,0"
+    - "24,0,\xc2\xa7f\xc2\xa7lIron - Block,32,NONE,0"
+    - 265,0,NONE,16,NONE,0
+    - 266,0,NONE,8,NONE,0
+    Lore:
+    - ' '
+    - '&7Contains:'
+    - "&8\xe2\u02c6\u2122 &7Iron Sword &8(&7Shapness II&8) &fx1"
+    - "&8\xe2\u02c6\u2122 &7Standstone &fx32"
+    - "&8\xe2\u02c6\u2122 &7Iron ingot &fx16"
+    - "&8\xe2\u02c6\u2122 &7Gold ingot &fx8"
+  gold:
+    Items:
+    - 268,0,NONE,1,NONE,1
+    - "283,0,\xc2\xa7e\xc2\xa7lGold - Sword,1,NONE,0"
+    - "5,0,\xc2\xa7e\xc2\xa7lGold - Block,32,NONE,0"
+    - 266,0,NONE,16,NONE,0
+    - 265,0,NONE,32,NONE,0
+    Name: gold
+    Price: 200
+    needPermision: false
+    Permision: bedwars.kit.gold
+    mainItem: GOLD_SWORD
+    Lore:
+    - ' '
+    - '&7Contains:'
+    - "&8\xe2\u02c6\u2122 &7Gold Sword &8(&7Shapness V&8) &fx1"
+    - "&8\xe2\u02c6\u2122 &7Oak Wood &fx32"
+    - "&8\xe2\u02c6\u2122 &7Iron ingot &fx32"
+    - "&8\xe2\u02c6\u2122 &7Gold ingot &fx16"
+    - "&8\xe2\u02c6\u2122 &7Diamond &fx2"

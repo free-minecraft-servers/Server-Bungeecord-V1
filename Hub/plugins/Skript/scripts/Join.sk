@@ -1,0 +1,72 @@
+on join:
+	set join message to ""
+	teleport player to {spawn}
+	make console execute command "/effect %player% speed 5000 9"
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	send ""
+	
+	
+
+On quit:
+	set leave message to ""
+	clear player's inventory
+			
+		
+command /sethub:
+	permission: kohi.admin
+	trigger:
+		set {spawn} to player's location
+		send "&c[Kohi] Set Spawn!"		
+		
+		
+on command "/pl":
+	cancel event
+	send "&4You don't have access to that command! "
+on command "/plugins":
+	cancel event
+	send "&4You don't have access to that command! "
+on command "/bukkit:pl":
+	cancel event
+	send "&4You don't have access to that command! "
+on command "/bukkit:plugins":
+	cancel event
+	send "&4You don't have access to that command! "
+on command "/?":
+	cancel event
+	send "&4You don't have access to that command!"
+on command "/bukkit:?":
+	cancel event
+	send "&4You don't have access to that command!"
+on command "/version":
+	cancel event
+	send "&4You don't have access to that command! "
+on command "/help":
+	cancel event
+	send "&4You don't have access to that command!"
+on command "/me":
+	cancel event
+	send "&4You don't have access to that command!"
+on command "/say":
+	cancel event
+	send "&4You don't have access to that command!"
+on command "/ver":
+	cancel event
+	send "&4You don't have access to that command!"	
+on command "/icanhasbukkit":
+	cancel event
+	send "&4You don't have access to that command!"		

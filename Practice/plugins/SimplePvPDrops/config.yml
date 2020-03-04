@@ -1,0 +1,24 @@
+deny-drops:
+  enabled: false
+  can-be-dropped:
+    - stone
+    - dirt
+    - grass
+    - 'wood:2'
+death:
+  enabled: false
+  delete-specific-items:
+    enabled: true
+    items:
+      - iron_helmet
+      - iron_chestplate
+      - iron_leggings
+      - iron_boots
+  delay: 0
+  enabled-worlds:
+    - spawn
+drop:
+  enabled: true
+  delay: 0
+  enabled-worlds:
+    - spawn

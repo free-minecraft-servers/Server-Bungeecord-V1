@@ -1,0 +1,5 @@
+prefix: '&a[&6Tiếng Việt&a] &f'
+loadingLang: '&aĐang tải tiếng từ server minecraft của bạn'
+loadedLang: '&aTiếng hiện tại của bạn: &e{0}'
+invalidLang: '&cSai tiếng !'
+reloaded: '&aReloaded!'

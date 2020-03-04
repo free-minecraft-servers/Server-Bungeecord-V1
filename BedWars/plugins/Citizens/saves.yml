@@ -1,0 +1,60 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 3
+npc:
+  '0':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTQ3NjQ0Mjk2NzQsInByb2ZpbGVJZCI6ImYyMGYxNDIxNmVhZDQwNmI5N2RlNWI1ZWY1NGIyOTZlIiwicHJvZmlsZU5hbWUiOiJQbGF5Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYTY4YzNjYTkxYTc1OWJkNWNlNzQxMTRiYjdmOWVhODMyNGVkNDQzYTU4NTBmOTg0Zjc2YTIyMWI3MmMifX19
+      cached-skin-uuid-name: play
+      cached-skin-uuid: f20f1421-6ead-406b-97de-5b5ef54b296e
+      player-skin-signature: W7cYr8jGCrz8Y+G+TylA1/Fv01Y7CpU+lB+7k5Z/rxx9AoPkpWE88XrRScIGs0IMFqr/n674lxC4k267sN3RLYqm4Uk5cZD7ksDCwO2MaXJY4ATHklvlmlmQzXfWpJ6sLiktiGYVqkBenYkuyS93PSbA7D1RjUwV1PBeosYzmokeL8hXwEK9uwz/Y/er8ztONThPLXjjONmZQvc9FiWbjvBMx5FvGNIl23eygzNtbm5yahmhIhp0gcBAgQNJ6e7PbfmJc3eeTo7tzFSNhtM0Fo3Hxrqrh3thPadDycR+D0O1UUxolFY7wOWbn5eyQsxPOifdUBxj8/enRTjhVN0vCSJMzq4dvoWvRHJ5kcLIKd9ogRrgLa6Dn9K0urQRUuuYiJkyoDYCSKmYOdDMYXT2lsYyTtL92g5egzidPN9gW1VJcHCFnrtf/Y7vst/5O+uoGttDoqurq7JNcHv7YWsWYaJE8kxmTar1Wqze4eD/mwwTEOKRyzmQBxjc7gRbU71/+0Uqlz9RvadJnA62RUD2fmAHPRt7nGwllZyoqXwjw1q95Z2FYPirXzSBEaDAgPAmCFmBur4Zw8IWDCEluzeltSQYAJRNstT5XsbaezhJO+X0I+5Ypvx/A3r+KlAJLxGWA/wPDk4mz+CKfzZkAJdm53ZayP7Jjil5DiUNrhbanmw=
+    name: Play
+    uuid: 94c76973-d4a7-44d9-99a7-7c1970549b96
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: Lobby
+        x: '-67.43499349824931'
+        y: '20.5'
+        z: '49.340532479230575'
+        yaw: '180.30914306640625'
+        pitch: '-8.330260276794434'
+      owner:
+        owner: Wassim_
+        uuid: fa8d8ad0-e09e-3cf7-a412-01ae3ad19fff
+    traitnames: location,spawned,inventory,type,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTQ3NjQ0Mjk4NTksInByb2ZpbGVJZCI6IjQwNDY4YmJkOGFmZDRlNWZiNzc3YmVjZGUwNTU0MDk0IiwicHJvZmlsZU5hbWUiOiJSYW5kb20iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUxYzg2ZGFiZTg1MGE2NmVkMTA0MzhhYjY0MTU2NWFkNjQ5NjAyYTI1MmQ2MzlhOGVkYjY2Y2Y4NzdhYzY4In19fQ==
+      cached-skin-uuid-name: random
+      cached-skin-uuid: 40468bbd-8afd-4e5f-b777-becde0554094
+      player-skin-signature: s2z2Cy2wT34No8T6jY9SGDK/ZakEav3FVoIvySU8jWIkcde3bVkQXIyl9uRAlzvkpfGOkF/MWusV1xpH1rqlGjJiY0vUH0FvtqprbjAT3iso3NoG/2/FuTbDIKXq9cmsAEtx8Q6uB2yAJyqqkBDw114XIRt+zYo0kbE5Zze25qLsjtgY6l+AFjZuKChJ+q0PZIP6ie/D50BlE3yVYaozhhqsGwFqu4s//+IgNlL4cFq2ABq5Mm5rQF+dGKQWLtTKoLhU5IlfIEzP/vxYPwZMJII60uhD/LpW9+/fF1QgrwERuW7tWGxZd3Dknpkjel4v9eol0w3WkutwyENcWvzqEJG8kL3w6tDOLWuW/DUlJbNdjCM+m9UJsuajRdgGiYhE65an+RI+YanCZixGXvRpsakptqIVwQYvM44+Fxby7cdaO/Gnhxa6c7EwYjgow9c5ZtxWqUqOF4WMo8B8ranEskNaWCxqo3/a3omkB2qP6X0i3C6UczJz4FdG/iAsiw6YQReKOfF+lwYRIzib7PfLua72qIEhmOqnyKkozbvvgDgo71fbK0u+gJoiNDMW6GzQrKGc8kd7+5F+cCdG34hJ9kU9yyd/a/Uf8uKYYkaqnWLXZsS/ZlGivY9oS3SmT+0sG995+jOmCIj7M+jlcEF2Bqzba0Y8G2pSN7EwtgpcP9E=
+    name: Random
+    uuid: 76395eac-213e-4430-91b8-3efa831a6e74
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: Lobby
+        x: '-72.49324163458608'
+        y: '20.5'
+        z: '47.52512232838645'
+        yaw: '181.4132537841797'
+        pitch: '8.714265823364258'
+      owner:
+        owner: Wassim_
+        uuid: fa8d8ad0-e09e-3cf7-a412-01ae3ad19fff
+    traitnames: location,spawned,inventory,type,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
